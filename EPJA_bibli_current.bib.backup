@@ -1,0 +1,2479 @@
+@article{rohrmoser:2011,
+      author         = "Rohrmoser, M. and Choi, K.-S. and Plessas, W.",
+      title          = "{Flavor analysis of nucleon electromagnetic form
+                        factors}",
+      year           = "2011",
+      eprint         = "1110.3665",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:1110.3665;%%",
+}
+@article{belitsky:2002,
+      author         = "Belitsky, Andrei V. and Ji, Xiang-dong and Yuan, Feng",
+      title          = "{A Perturbative QCD analysis of the nucleon's Pauli
+                        form-factor F(2)(Q**2)}",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "91",
+      pages          = "092003",
+      doi            = "10.1103/PhysRevLett.91.092003",
+      year           = "2003",
+      eprint         = "hep-ph/0212351",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "DOE-ER-400762-271, UM-PP-03-031",
+      SLACcitation   = "%%CITATION = HEP-PH/0212351;%%",
+}
+@article{glazier:2004,
+      author         = "Glazier, D.I. and Seimetz, M. and Annand, J.R.M. and
+                        Arenhovel, H. and Ases Antelo, M. and others",
+      title          = "{Measurement of the electric form-factor of the neutron
+                        at Q**2 = 0.3-(GeV/c)**2 to 0.8-(GeV/c)**2}",
+      journal        = "Eur.Phys.J.",
+      volume         = "A24",
+      pages          = "101-109",
+      doi            = "10.1140/epja/i2004-10115-8",
+      year           = "2005",
+      eprint         = "nucl-ex/0410026",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0410026;%%",
+}
+@article{schlimme:2013,
+      author         = "Schlimme, B.S. and Achenbach, P. and Ayerbe Gayoso, C.A.
+                        and Bernauer, J.C. and Böhm, R. and others",
+      title          = "{Measurement of the neutron electric to magnetic form
+                        factor ratio at $Q^2 = 1.58 GeV^2$ using the reaction $^3
+                        \vec{He}(\vec{e},e'n)pp$}",
+      journal        = "Phys.Rev.Lett.",
+      number         = "13",
+      volume         = "111",
+      pages          = "132504",
+      doi            = "10.1103/PhysRevLett.111.132504",
+      year           = "2013",
+      eprint         = "1307.7361",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:1307.7361;%%",
+}
+@article{golak:2001,
+      author         = "Golak, J. and Ziemer, G. and Kamada, H. and Witala, H.
+                        and Gloeckle, Walter",
+      title          = "{Extraction of electromagnetic neutron form-factors
+                        through inclusive and exclusive polarized electron
+                        scattering on polarized He-3 target}",
+      journal        = "Phys.Rev.",
+      volume         = "C63",
+      pages          = "034006",
+      doi            = "10.1103/PhysRevC.63.034006",
+      year           = "2001",
+      eprint         = "nucl-th/0008008",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0008008;%%",
+}
+@article{meyerhoff:1994,
+      author         = "Meyerhoff, M. and Eyl, D. and Frey, A. and Andresen, H.G.
+                        and Annand, J.R.M. and others",
+      title          = "{First measurement of the electric form-factor of the
+                        neutron in the exclusive quasielastic scattering of
+                        polarized electrons from polarized He-3}",
+      journal        = "Phys.Lett.",
+      volume         = "B327",
+      pages          = "201-207",
+      doi            = "10.1016/0370-2693(94)90718-8",
+      year           = "1994",
+      SLACcitation   = "%%CITATION = PHLTA,B327,201;%%",
+}
+@article{geis:2008,
+      author         = "Geis, E. and others",
+      title          = "{The Charge Form Factor of the Neutron at Low Momentum
+                        Transfer from the H-2-polarized (e-polarized, e-prime n) p
+                        Reaction}",
+      collaboration  = "BLAST Collaboration",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "101",
+      pages          = "042501",
+      doi            = "10.1103/PhysRevLett.101.042501",
+      year           = "2008",
+      eprint         = "0803.3827",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:0803.3827;%%",
+}
+@article{kivel:2012,
+      author         = "Kivel, N. and Vanderhaeghen, M.",
+      title          = "{Two-photon exchange corrections to elastic
+                        electron-proton scattering at large momentum transfer
+                        within the SCET approach}",
+      journal        = "JHEP",
+      volume         = "1304",
+      pages          = "029",
+      doi            = "10.1007/JHEP04(2013)029",
+      year           = "2013",
+      eprint         = "1212.0683",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "HIM-2012-08",
+      SLACcitation   = "%%CITATION = ARXIV:1212.0683;%%",
+}
+@article{wilson:2011,
+      author         = "Wilson, D.J. and Cloet, I.C. and Chang, L. and Roberts,
+                        C.D.",
+      title          = "{Nucleon and Roper electromagnetic elastic and transition
+                        form factors}",
+      journal        = "Phys.Rev.",
+      volume         = "C85",
+      pages          = "025205",
+      doi            = "10.1103/PhysRevC.85.025205",
+      year           = "2012",
+      eprint         = "1112.2212",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = ARXIV:1112.2212;%%",
+}
+@article{cates:2011,
+      author         = "Cates, G.D. and de Jager, C.W. and Riordan, S. and
+                        Wojtsekhowski, B.",
+      title          = "{Flavor decomposition of the elastic nucleon
+                        electromagnetic form factors}",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "106",
+      pages          = "252003",
+      doi            = "10.1103/PhysRevLett.106.252003",
+      year           = "2011",
+      eprint         = "1103.1808",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-11-1325",
+      SLACcitation   = "%%CITATION = ARXIV:1103.1808;%%",
+}
+@article{Galynskii:2013,
+      author         = "Galynskii, M.V. and Kuraev, E.A.",
+      title          = "{Alternative way to understand the unexpected results of
+                        the JLab polarization experiments to measure the Sachs
+                        form factors ratio}",
+      journal        = "Phys.Rev.",
+      number         = "5",
+      volume         = "D89",
+      pages          = "054005",
+      doi            = "10.1103/PhysRevD.89.054005",
+      year           = "2014",
+      eprint         = "1312.3742",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:1312.3742;%%",
+}
+@article{carlson:2007,
+      author         = "Carlson, Carl E. and Vanderhaeghen, Marc",
+      title          = "{Empirical transverse charge densities in the nucleon and
+                        the nucleon-to-Delta transition}",
+      journal        = "Phys.Rev.Lett.",
+      volume         = "100",
+      pages          = "032004",
+      doi            = "10.1103/PhysRevLett.100.032004",
+      year           = "2008",
+      eprint         = "0710.0835",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "WM-07-109, JLAB-THY-07-738",
+      SLACcitation   = "%%CITATION = ARXIV:0710.0835;%%",
+}
+@article{qattan:2013,
+      author         = "Qattan, I.A. and Arrington, J.",
+      title          = "{Up- and Down-Quark Contributions to the Nucleon Form
+                        Factors}",
+      year           = "2013",
+      eprint         = "1307.7388",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:1307.7388;%%",
+}
+@article{Cloet:2008b,
+      author         = "Cloet, I.C. and Roberts, C.D.",
+      title          = "{Form Factors and Dyson-Schwinger Equations}",
+      journal        = "PoS",
+      volume         = "LC2008",
+      pages          = "047",
+      year           = "2008",
+      eprint         = "0811.2018",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "NT@UW-08-22",
+      SLACcitation   = "%%CITATION = ARXIV:0811.2018;%%",
+}
+@article{Cloet:2012cy,
+      author         = "Cloet, Ian C. and Miller, Gerald A.",
+      title          = "{Nucleon form factors and spin content in a quark-diquark
+                        model with a pion cloud}",
+      journal        = "Phys.Rev.",
+      volume         = "C86",
+      pages          = "015208",
+      doi            = "10.1103/PhysRevC.86.015208",
+      year           = "2012",
+      eprint         = "1204.4422",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "NT-UW-12-07, NT@UW-12-07",
+      SLACcitation   = "%%CITATION = ARXIV:1204.4422;%%",
+}
+@Article{hofs53,
+    author	= {Hofstadter, R. and Fechter, H.R. and McIntyre, J.A.},
+    journal  = {Phys. Rev.},
+    volume  =  {92},
+    year	= 1953,
+    pages	= {978}
+}
+@Article{hofs55,
+    author	= {{R.~Hofstadter} and {R.W.~McAllister}},
+    journal = {Phys. Rev.},
+    volume = {98},
+    year	= 1955,
+    pages	= {217}
+}
+@Article{yearian,
+    author	= {{M.R.~Yearian} and {R.~Hofstadter}},
+    journal =  {Phys. Rev.},
+    volume = {110},
+    year	= 1958,
+    pages	= {552}
+}
+@Article{rosenbluth,
+    author	= {{M.N.~Rosenbluth}},
+    journal = {Phys. Rev.},
+    volume = {79},
+    year	= 1950,
+    pages	= {615}
+}
+@Article{jones,
+    author	= {{M.K.~Jones {\it et al.}, Jefferson Lab Hall A Collaboration}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume  = {84},
+    year	= 2000,
+    pages	= {1398}
+}
+@Article{gayou:2002,
+    author	= {{O.~Gayou {\it et al.}, Jefferson Lab Hall A Collaboration}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {88},
+    year	= 2002,
+    pages	= {092301}
+}
+
+@Article{punjabi05A,
+    author	= {{V.~Punjabi {\it et al.}}},
+    journal = {Phys.\ Rev.\ C },
+    volume =  {71},
+    year	= 2005,
+    pages	= {055202}
+}
+
+@Article{punjabi05B,
+    author ={{V.~Punjabi {\it et al.}}},
+    journal ={Phys.\ Rev.\ C },
+    volume ={71},
+    year = 2005,
+    pages = {069902}
+}
+@Article{gaoA,
+    author	= {{H.Y.~Gao}},
+    journal = {Int.\ J.\ Mod.\ Phys.\ E},
+    volume = {12},
+    year	= 2003,
+    pages	= {1}
+}
+@Article{gaoB,
+     author	= {{H.Y.~Gao}},
+    journal = {Int.\ J.\ Mod.\ Phys.\ E},
+    volume = {12},
+    year	= 2003,
+    pages	= {567}
+}
+@Article{charleskees,
+    author	= {{C.E.~Hyde-Wright} and {K.~de~Jager}},
+    journal =  {Ann.\ Rev.\ Nucl.\ Part.\ Sci.},
+    volume = {54},
+    year	= 2004,
+    pages	= {217}
+}
+
+@Article{arrreview,
+    author	={{J.~Arrington} and {C.D.~Roberts} and {J.M.~Zanotti}},
+    journal = {J.~Phys.~G},
+    year	= 2006,
+    pages = {34},
+    title = {Nucleon electromagnetic form factors}
+}
+
+@Article{Baldini:2005vn,
+    author	= {{R.~Baldini} and {M.~Mirazita} and {S.~Pacetti} and {C.~Bini} and {P.~Gauzzi} and {M.~Negrini}},
+    journal =  {Nucl.\ Phys.\  A},
+    volume = {755},
+    year	= 2005,
+    pages	= {286}
+}
+@Article{Beise:2004py,
+    author	= {{E.J.~Beise} and {M.L.~Pitt} and {D.T.~Spayde}},
+    journal =  {Prog.\ Part.\ Nucl.\ Phys.},
+    volume = {54},
+    year	= 2005,
+    pages	= {289},
+}
+@Article{rose,
+    author	= {{M.E.~Rose}},
+    journal = {Phys. Rev.},
+    volume = {73},
+    year	= 1947,
+    pages	= {279}
+}
+@Article{hofstad53,
+    author	= {{R.~Hofstadter} and {H.R.~Fechter} and {J.A.~McIntyre}},
+    journal =  {Phys. Rev.},
+    volume = {91},
+    year	= 1953,
+    pages	= {422}
+}
+@Article{hofstadter56,
+    author	= {{R.~Hofstadter}},
+    journal = {Rev. Mod. Phys.},
+    volume = {28},
+    year	= 1956,
+    pages	= {214}
+}
+@Article{stern,
+    author	= {{O.~Stern}},
+    journal = {Nature},
+    volume = {132},
+    year	= 1933,
+    pages	= {103}
+}
+@unpublished{schiff,
+    author	= {{L.I.~Schiff}},
+    title ={Stanford Microwave Laboratory, report no. 102},
+    note ={unpublished},
+    year	= 1949
+}
+@Article{mcallis56,
+    author	= {{R.W.~McAllister} and {R.~Hofstadter}},
+    journal = {Phys. Rev.},
+    volume = {102},
+    year	= 1956,
+    pages	= {851}
+}
+@Article{hofst58,
+    author	= {{R.~Hofstadter} and {F.~Bumiller} and {M.R.~Yearian}},
+    journal = {Rev. Mod. Phys.},
+    volume = {30},
+    year	= 1958,
+    pages	= {482}
+}
+@Article{clementel,
+    author	= {{E.~Clementel} and {C.~Villi}},
+    journal =  {Nuov. Cim},
+    volume = {4},
+    year	= 1956,
+    pages	= {1207}
+}
+
+@article{rekalo,
+      author         = "Rekalo, Michail P. and Tomasi-Gustafsson, Egle",
+      title          = "{Polarization effects in elastic electron proton
+                        scattering: Lecture notes}",
+      year           = "2002",
+      eprint         = "nucl-th/0202025",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0202025;%%",
+}
+
+@Article{foldy52,
+    author	= {{L.L.~Foldy}},
+    journal = {Phys. Rev.},
+    volume = {87},
+    year	= 1952,
+    pages	= {688}
+}
+@Article{guichon,
+    author	= {{P.A.M.~Guichon} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {91},
+    year	= 2003,
+    pages	= {142303},
+}
+@Article{hofst60,
+    author	= {{R.~Hofstadter}},
+    journal ={Intern. Ann.
+Conference on High Energy Physics Academy of Science USSR},
+    volume ={I},
+    year	={1960},
+    pages	={355}
+}
+@Article{bumillerA,
+    author	= {{F.~Bumiller} and {M.~Croissiaux} and {R.~Hofstadter}},
+    journal = {Phys. Rev. Lett.},
+    volume = {5},
+    year	= 1960,
+    pages	= {261}
+}
+@Article{bumillerB,
+    author ={{R.~Hofstadter} and {F.~Bumiller} and {M.~Croissiaux}},
+    journal ={Phys. Rev. Lett.},
+    volume ={5},
+    year =1960,
+    pages ={263}
+}
+@Article{yennie57,
+    author	= {{D.R.~Yennie} and {M.M.~L\'evy} and {D.G.~Ravenhall}},
+    journal = {Rev. Mod. Phys.},
+    volume = {29},
+    year	= 1957,
+    pages	= {144}
+}
+@Article{ernst,
+    author	= {{F.J.~Ernst} and {R.G.~Sachs} and {K.C.~Wali}},
+    journal = {Phys. Rev.},
+    volume = {119},
+    year	= 1960,
+    pages	= {1105}
+}
+@Article{walecka,
+    author	= {{J.D.~Walecka}},
+    journal = {Nuovo Cimento},
+    volume = {11},
+    year	= 1959,
+    pages	= {821}
+}
+@Article{hand63,
+    author	= {{L.N.~Hand} and {D.G.~Miller} and {R.~Wilson}},
+    journal = {Rev. Mod. Phys.},
+    volume = {35},
+    year	= 1963,
+    pages	= {335}
+}
+@Article{kelly02,
+    author	= {{J.J.~Kelly}},
+    journal = {Phys. Rev. C},
+    volume = {66},
+    year	= 2002,
+    pages	= {065203}
+}
+@Article{wilsonrr,
+    author	= {{R.R.~Wilson} and {J.S.~Levinger}},
+    journal =  {Ann.\ Rev.\ Nucl.\ Part.\ Sci.},
+    volume = {14},
+    year	= 1964,
+    pages	= {135},
+    note	= {%%CITATION = ARNUA,14,135;%%}
+}
+@Article{berger,
+    author	= {{Ch.~Berger {\it et al.}}},
+    journal = {Phys. Lett. B},
+    volume = {35},
+    year	= 1971,
+    pages	= {87}
+}
+@Article{bartel,
+    author	= {{W.~Bartel {\it et al.}}},
+    journal = {Nucl.\ Phys.\ B},
+    volume = {58},
+    year	= 1973,
+    pages	= {429}
+}
+@Article{andivahisA,
+    author	= {{L.~Andivahis {\it et al.}}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {50},
+    year	= 1994,
+    pages	= {5491}
+}
+@Article{andivahisB,
+    author = {{P.E.~Bosted {\it et al}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {68},
+    year = 1992,
+    pages = {3841}
+}
+@Article{price,
+    author	= {{L.E.~Price {\it et al.}}},
+    journal = {Phys. Rev. D},
+    volume = {4},
+    year	= 1971,
+    pages	= {45}
+}
+@Article{hanson,
+    author	= {{K.M.~Hanson {\it et al.}}},
+    journal = {Phys. Rev. D},
+    volume = {8},
+    year	= 1973,
+    pages	= {753}
+}
+@Article{litt,
+    author	= {{J.~Litt {\it et al.}}},
+    journal = {Phys. Lett. B},
+    volume = {31},
+    year	= 1970,
+    pages	= {40}
+}
+@Article{iachello,
+    author	= {{F.~Iachello} and {A.D.~Jackson} and {A.~Land\'e}},
+    journal = {Phys. Lett. B},
+    volume = {43},
+    year	= 1973,
+    pages	= {191}
+}
+@Article{hohler,
+    author	= {{G.~H\"ohler {\it et al.}}},
+    journal = {Nucl. Phys. B},
+    volume = {114},
+    year	= 1976,
+    pages	= {505}
+}
+@Article{gariA,
+    author	= {{M.F.~Gari} and {W.~Kr\"umpelmann}},
+    journal = {Z. Phys. A},
+    volume = {322},
+    year	= 1985,
+    pages	= {689}
+}
+@Article{gariB,
+    author	= {{M.F.~Gari} and {W.~Kr\"umpelmann}},
+    journal = {Phys. Lett. B},
+    volume = {274},
+    year	= 1992,
+    pages	= {150}
+}
+@Article{gariC,
+    author	= {{M.F.~Gari} and {W.~Kr\"umpelmann}},
+    journal = {Phys. Lett. B},
+    volume = {282},
+    year	= 1992,
+    pages	= {483(E)}
+}
+@Article{bork,
+    author	= {{F.~Borkowski} and {G.G.~Simon} and {V.H.~Walther} and {R.D.~Wendling}},
+    journal = {Nucl. Phys. B},
+    volume = {93},
+    year	= 1975,
+    pages	= {461}
+}
+@Article{simon,
+    author	= {{G.G.~Simon} and {Ch.~Schmitt} and {F.~Borkowski} and {V.H.~Walther}},
+    journal = {Nucl. Phys. A},
+    volume = {333},
+    year	= 1980,
+    pages	= {381}
+}
+@Article{walker,
+    author	= {{R.C.~Walker {\it et al.}}},
+    journal = {Phys. Rev. D},
+    volume = {49},
+    year	= 1994,
+    pages	= {5671}
+}
+@Article{christy,
+    author	= {{M.E.~Christy {\it et al.}}},
+    journal = {Phys. Rev. C},
+    volume = {70},
+    year	= 2004,
+    pages	= {015206}
+}
+@Article{qattan05,
+    author	= {{I.A.~Qattan, {\it et al.}}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {94},
+    year	= 2005,
+    pages	= {142301}
+}
+@Article{janssens,
+    author	= {{T.~Janssens} and {R.~Hofstadter} and {E.B.~Hughes} and {M.R.~Yearian}},
+    journal = {Phys. Rev.},
+    volume = {142},
+    year	= 1966,
+    pages	= {922}
+}
+@Article{coward,
+    author	= {{D.H.~Coward {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {20},
+    year	= 1968,
+    pages	= {292}
+}
+@Article{sill,
+    author	= {{A.F.~Sill {\it et al.}}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {48},
+    year	= 1993,
+    pages	= {29}
+}
+@Article{arnold1,
+    author	= {{R.G.~Arnold {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {57},
+    year	= 1986,
+    pages	= {174}
+}
+@Article{platchkov,
+    author	= {{S.~Platchkov {\it et al.}}},
+    journal = {Nucl. Phys. A},
+    volume = {510},
+    year	= 1990,
+    pages	= {740}
+}
+@Article{brodsky,
+    author	= {{S.J.~Brodsky} and {G.R.~Farrar}},
+    journal = {Phys. Rev. D},
+    volume = {11},
+    year	= 1975,
+    pages	= {1309}
+}
+@Article{schwinger,
+    author	= {{J.~Schwinger}},
+    journal = {Phys. Rev. Lett.},
+    volume = {19},
+    year	= 1967,
+    pages	= {1154}
+}
+@Article{fermi,
+    author	= {{E.~Fermi} and {L.~Marshall}},
+    journal = {Phys. Rev.},
+    volume = {72},
+    year	= 1947,
+    pages	= {1139}
+}
+@Article{gourdin,
+    author	= {{M.~Gourdin}},
+    journal = {Nuov. Cim.},
+    volume = {33},
+    year	= 1963,
+    pages	= {533}
+}
+@Article{galster,
+    author	= {{S.~Galster {\it et al.}}},
+    journal = {Nucl. Phys. B},
+    volume = {32},
+    year	= 1971,
+    pages	= {221}
+}
+@Article{mcintyre,
+    author	= {{J.A.~McIntyre} and {S.~Dhar}},
+    journal = {Phys. Rev.},
+    volume = {106},
+    year	= 1957,
+    pages	= {1074}
+}
+@Article{friedman,
+    author	= {{J.I.~Friedman} and {H.W.~Kendall} and {P.A.M.~Gram}},
+    journal = {Phys. Rev.},
+    volume = {120},
+    year	= 1960,
+    pages	= {992}
+}
+@Article{drickey,
+    author	= {{D.J.~Drickey} and {L.N.~Hand}},
+    journal = {Phys. Rev. Lett.},
+    volume = {9},
+    year	= 1962,
+    pages	= {521}
+}
+@Article{benaksasA,
+    author	= {{D.~Benaksas} and {D.~Drikey} and {D.~Frerejacque}},
+    journal = {Phys. Rev. Lett.},
+    volume = {13},
+    year	= 1964,
+    pages	= {353}
+}
+@Article{benaksasB,
+    author	= {{D.~Benaksas} and {D.~Drikey} and {D.~Frerejacque}},
+    journal = {Phys. Rev.},
+    volume = {148},
+    year	= 1966,
+    pages	= {1327}
+}
+@Article{grossetetel,
+    author	= {{B.~Grosset$\hat{\mathrm e}$te} and {D.~Drickey} and {P.~Lehmann}},
+    journal = {Phys. Rev.},
+    volume = {141},
+    year	= 1966,
+    pages	= {1425}
+}
+@Article{hamada,
+    author	= {{T.~Hamada} and {J.D.~Johnston}},
+    journal = {Nucl. Phys.},
+    volume = {34},
+    year	= 1962,
+    pages	= {382}
+}
+@Article{feshbach,
+    author	= {{H.~Feshbach} and {E.~Lomon}},
+    journal = {Rev. Mod. Phys.},
+    volume = {39},
+    year	= 1967,
+    pages	= {611}
+}
+@Article{koester,
+    author	= {{L.~Koester} and {W.~Nistler} and {W.~Waschkowski}},
+    journal = {Phys. Rev. Lett.},
+    volume = {36},
+    year	= 1976,
+    pages	= {1021}
+}
+@Article{hughes,
+    author	= {{E.B.~Hughes} and {T.A.~Griffy} and {M.E.~Yearian} and {R.~Hofstadter}},
+    journal = {Phys. Rev.},
+    volume = {139},
+    year	= 1965,
+    pages	= {B458}
+}
+@Article{grossetete,
+    author	= {{B.~Grosset$\hat{\mathrm e}$te} and {S.~Julian} and {P.~Lehmann}},
+    journal = {Phys. Rev.},
+    volume = {141},
+    year	= 1966,
+    pages	= {1435}
+}
+@Article{budnitz,
+    author	= {{R.G.~Budnitz {\it et al}}},
+    journal = {Phys. Rev.},
+    volume = {173},
+    year	= 1968,
+    pages	= {1357}
+}
+@Article{dunning,
+    author	= {{J.R.~Dunning {\it et al}}},
+    journal = {Phys. Rev.},
+    volume = {141},
+    year	= 1966,
+    pages	= {1286}
+}
+@Article{stein,
+    author	= {{P.~Stein} and {M.~Binkley} and {A.~Suri} and {W.~Woodward}},
+    journal = {Phys. Rev. Lett.},
+    volume = {16},
+    year	= 1966,
+    pages	= {592}
+}
+@Article{rockA,
+    author	= {{S.~Rock {\it et al.}}},
+    journal = {Phys. Rev D},
+    volume = {46},
+    year	= 1992,
+    pages	= {24}
+}
+@Article{rockB,
+    author	= {{S.~Rock {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {49},
+    year	=1982,
+    pages	={1139}
+}
+@Article{lung,
+    author	= {{A.~Lung {\it et al.}}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {70},
+    year	= 1993,
+    pages	= {718}
+}
+@Article{marko,
+    author	= {{P.~Markowitz {\it et al.}}},
+    journal =  {Phys.\ Rev.\ C},
+    volume = {48},
+    year	= 1993,
+    pages	= {5},
+}
+@Article{anklin,
+    author	= {{H.~Anklin {\it et al.}}},
+    journal = {Phys. Lett. B},
+    volume = {336},
+    year	= 1994,
+    pages	= {313}
+}
+@Article{bruins,
+    author	= {{E.E.W.~Bruins {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {75},
+    year	= 1995,
+    pages	= {21}
+}
+@Article{anklin2,
+    author	= {{H.~Anklin {\it et al.}}},
+    journal =  {Phys. Rev. Lett.},
+    volume = {428},
+    year	= 1998,
+    pages	= {248}
+}
+@Article{kubon,
+    author	= {{G.~Kubon {\it et al.}}},
+    journal =  {Phys.\ Lett.\ B},
+    volume = {524},
+    year	= 2002,
+    pages	= {26}
+}
+@Article{brooksA,
+    author	= {{W.K.~Brooks, J.D.~Lachniet, CLAS Collaboration}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {755},
+    year	= 2005,
+    pages	= {261}
+}
+@Phdthesis{brooksB,
+    author = {J.D.~Lachniet},
+    title = {A High Precision Measurement of the Neutron Magnetic Form Factor using the CLAS Detector},
+    school = {Carnegie Mellon Univesity} ,
+    year = 2005
+
+}
+@Article{jourdan,
+    author	= {{J.~Jourdan} and {I.~Sick} and {J.~Zhao}},
+    journal = {Phys. Rev. Lett.},
+    volume = {79},
+    year	= 1997,
+    pages	= {5186}
+}
+@Article{bruins1,
+    author	= {{E.E.W.~Bruins {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {79},
+    year	= 1997,
+    pages	= {5187}
+}
+@Article{murphy,
+    author	= {{J.J.~Murphy} and {Y.M.~Shin} and {D.M.~Skopik}},
+    journal = {Phys. Rev. C},
+    volume = {9},
+    year	= 1974,
+    pages	= {2125}
+}
+@Article{goiteinA,
+    author	= {{M.~Goitein {\it et al.}}},
+    journal =  {Phys. Rev. Lett.},
+    volume = {18},
+    year	= 1967,
+    pages	= {1016}
+}
+@Article{goiteinB,
+    author	= {{M.~Goitien} and {J.R.~Dunning~Jr.} and {R.~Wilson}},
+    journal =  {Phys. Rev. Lett.},
+    volume = {18},
+    year	= 1967,
+    pages	= {1018}
+}
+@Article{akh1A,
+    author	= {{A.I.~Akhiezer} and {M.P.~Rekalo}},
+    journal =  {Sov.\ Phys.\ Dokl.},
+    volume = {13},
+    year	= 1968,
+    pages	= {572}
+}
+@Article{akh1B,
+    author	= {{A.I.~Akhiezer} and {M.P.~Rekalo}},
+    journal =  {Dokl.\ Akad.\ Nauk Ser.\ Fiz.},
+    volume = {180},
+    year	= 1968,
+    pages	= {1081}
+}
+@Article{akh2A,
+    author	= {{A.I.~Akhiezer} and {M.P.~Rekalo}},
+    journal =  {Sov.\ J.\ Part.\ Nucl.},
+    volume = {4},
+    year	= 1974,
+    pages	= {277}
+}
+@Article{akh2B,
+    author	= {{A.I.~Akhiezer} and {M.P.~Rekalo}},
+    journal =  {Fiz.\ Elem.\ Chast.\ Atom.\ Yadra},
+    volume = {4},
+    year	= 1973,
+    pages	= {662}
+}
+@Article{dombey,
+    author	= {{N.~Dombey}},
+    journal =  {Rev. Mod. Phys.},
+    volume = {41},
+    year	= 1969,
+    pages	= {236}
+}
+@Article{arnold,
+    author	= {{R.G.~Arnold} and {C.E.~Carlson} and {F.~Gross}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {23},
+    year	= 1981,
+    pages	= {363}
+}
+@Article{donnelly,
+    author	= {{T.W.~Donnelly} and {A.S.~Raskin}},
+    journal = {Ann. Phys.},
+    volume = {169},
+    year	= 1986,
+    pages	= {247}
+}
+@Article{raskin,
+    author	= {{A.S.~Raskin} and {T.W.~Donnelly}},
+    journal = {Ann. Phys.},
+    volume = {191},
+    year	= 1986,
+    pages	= {78}
+}
+@Article{alguard,
+    author	= {{M.J.~Alguard {\it et al.}}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {37},
+    year	= 1976,
+    pages	= {1258}
+}
+@Article{milbrathA,
+    author	= {{B.D.~Milbrath {\it et al.}, Bates FPP collaboration}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {80},
+    year	= 1998,
+    pages	= {452}
+}
+@Article{milbrathB,
+    author	= {{B.D.~Milbrath {\it et al.}, Bates FPP collaboration}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {82},
+    year	= 1999,
+    pages	= {2221 (erratum)}
+}
+@Article{barkhuff,
+    author	= {{D.~Barkhuff {\it et al.}}},
+    journal = {Phys. Lett.},
+    volume = {470},
+    year	= 1999,
+    pages	= {39}
+}
+@Article{pospischil,
+    author	= {{Th.~Pospischil {\it et al.}}},
+    journal = {Eur. Phys. J. A},
+    volume = {12},
+    year	= 2001,
+    pages	= {125}
+}
+@Article{dietrich,
+    author	= {{S.~Dietrich {\it et al.}}},
+    journal = {Phys. Lett. B},
+    volume = {500},
+    year	= 2001,
+    pages	= {47}
+}
+@Article{crawford,
+    author	= {{C.B.~Crawford {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {98},
+    year	= 2007,
+    pages	= {052301}
+}
+@Article{gayou:2001,
+    author	= {{O.~Gayou {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {64},
+    year	= 2001,
+    pages	= {038202}
+}
+@Article{strauch,
+    author	= {{S.~Strauch {\it et al.}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {91},
+    year	= 2003,
+    pages	= {052301}
+}
+@Article{hu,
+    author	= {{B.~Hu {\it et al.}}},
+    journal ={Phys. Rev. C},
+    volume = {73},
+    year	= 2006,
+    pages	= {064004}
+}
+@Article{mac,
+    author	= {{G.~MacLachlan {\it et al.}}},
+    journal = {Nucl. Phys. A},
+    volume = {764},
+    year	= 2006,
+    pages	= {261}
+}
+@Article{nimhallA,
+    author	= {{J.~Alcorn {\it et al.}}},
+    journal = {Nucl.\ Instrum.\ Meth.\  A},
+    volume = {522},
+    year	= 2004,
+    pages	= {294}
+}
+@Article{spinka,
+    author	= {{H.~Spinka {\it et al.}}},
+    journal = {Nucl.\ Instrum.\ Meth.},
+    volume = {211},
+    year	= 1983,
+    pages	= {239}
+}
+@Article{dmiller,
+    author	= {{D.~Miller {\it et al.}}},
+    journal = {Phys. Rev. D},
+    volume = {16},
+    year	= 1977,
+    pages	= {2016}
+}
+@Article{cheung,
+    author	= {{N.E.~Cheung {\it et al.}}},
+    journal = {Nucl.\ Instrum.\ Meth.\ A},
+    volume = {363},
+    year	= 1995,
+    pages	= {561}
+}
+@techreport{bertz,
+    author	= {{M.~Bertz}},
+    title = {COSY INFINITY version 7, NSCL Tech. Rep., MSUCL-977},
+    institution ={Michigan State University},
+    year	= 1995
+}
+@techreport{pentchev,
+    author ={{L.~Pentchev}},
+    title ={JLab Technical Note No. TN-03-024},
+    institution ={TJNAF},
+    year = 2003
+}
+@Article{Jones06,
+    author	= {{M.K.~Jones {\it et al.}, Jefferson Lab Resonance Spin Structure Collaboration}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {74},
+    year	= 2006,
+    pages	= {035201}
+}
+@Article{arring03,
+    author	= {{J.~Arrington}},
+    journal =  {Phys.\ Rev.\ C},
+    volume = {68},
+    year	= 2003,
+    pages	= {034325}
+}
+@Article{afanbrod,
+    author	= {{A.V.~Afanasev} and {S.J.~Brodsky} and {C.E.~Carlson} and {Y.C.~Chen} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {72},
+    year	= 2005,
+    pages	= {013008}
+}
+@Article{blundenA,
+    author	= {{P.G.~Blunden} and {W.~Melnitchouk} and {J.A.~Tjon}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {91},
+    year	= 2003,
+    pages	= {142304}
+}
+@Article{blundenB,
+    author	= {{P.G.~Blunden} and {W.~Melnitchouk} and {J.A.~Tjon}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {72},
+    year	= 2005,
+    pages	= {034612}
+}
+@Article{bystrit,
+    author	= {{Yu.M.~Bystritskiy} and {E.A.~Kuraev} and {E.~Tomasi-Gustafsson}},
+    journal = {Phys. Rev.C},
+    volume = {75},
+    year	= 2007,
+    pages	= {015207}
+}
+@Article{lubomir,
+    author	= {{R.~Gilman} and {L.~Pentchev} and {C.F.~Perdrisat} and {R.~Suleiman {\it et al.}}},
+    journal =  {JLab proposal},
+    volume	= {04--019},
+    year = 2004
+}
+@Article{arring05,
+    author	= {{J.~Arrington {\it et al.}}},
+    journal =  {JLab proposal},
+    volume = {E05-017},
+    year = 2005
+}
+@Article{eden,
+    author	= {{T.~Eden {\it et al.}}},
+    journal = {Phys Rev. C},
+    volume = {50},
+    year	= 1994,
+    pages	= {1749}
+}
+@Article{arenhovelA,
+    author	= {{H.~Arenh\"ovel}},
+    journal =  {Phys. Lett. B},
+    volume = {199},
+    year	= 1987,
+    pages	= {13}
+}
+@Article{arenhovelB,
+    author = {{W.~Leidemann} and {E.L.~Tomusiak}},
+    journal = {Z. Phys. A},
+    volume ={331},
+    year =1988,
+    pages ={123}
+}
+@Article{rekalo2,
+    author	= {{M.P.~Rekalo} and {G.I.~Gakh} and {A.P.~Rekalo}},
+    journal = {J. Phys. G},
+    volume = {15},
+    year	= 1989,
+    pages	= {1223}
+}
+@Article{laget,
+    author	= {{J.M.~Laget}},
+    journal =  {Phys.\ Lett.\ B},
+    volume = {{\bf 273}},
+    year	= 1991,
+    pages	= {367}
+}
+@Article{herberg,
+    author	= {{C.~Herberg {\it et al.}}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {{\bf 5}},
+    year	= 1999,
+    pages	= {131}
+}
+@Article{ostrick,
+    author	= {{M.~Ostrick {\it et al.}}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {{\bf 83}},
+    year	= 1999,
+    pages	= {276}
+}
+@Article{glazier,
+    author	= {{D.~Glazier {\it et al.}}},
+    journal = {Eur. Phys.J. A},
+    volume = {{\bf 24}},
+    year	= 2005,
+    pages	= {101}
+}
+@Article{madey,
+    author	= {{R.~Madey {\it et al.}, E93-038 Collaboration}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {{\bf 91}},
+    year	= 2003,
+    pages	= {122002}
+}
+@Article{plaster,
+    author	= {{B.~Plaster {\it et al.}}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {{\bf 73}},
+    year	= 2006,
+    pages	= {025205}
+}
+@Article{passchier,
+    author	= {{I.~Passchier {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {82},
+    year	= 1999,
+    pages	= {4988}
+}
+@Article{zhu,
+    author	= {{H.~Zhu {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {87},
+    year	= 2001,
+    pages	= {081801}
+}
+@Article{warren,
+    author	= {{G.~Warren {\it et al.}, Jefferson Lab E93-026 Collaboration}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {92},
+    year	= 2004,
+    pages	= {042301}
+}
+@Article{blankleider,
+    author	= {{B.~Blankleider} and {R.M.~Woloshyn}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {29},
+    year	= 1984,
+    pages	= {538}
+}
+@Article{cejones,
+    author	= {{C.E.~Jones-Woodward {\it et al.}}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {44},
+    year	= 1991,
+    pages	= {571}
+}
+@Article{thompson,
+    author	= {{A.K.~Thompson {\it et al.}}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {68},
+    year	= 1992,
+    pages	= {2901}
+}
+@Article{meyerhoff,
+    author	= {{M.~Meyerhoff {\it et al.}}},
+    journal = {Phys. Lett. B},
+    volume = {327},
+    year	= 1994,
+    pages	= {201}
+}
+@Article{becker,
+    author	= {{J.~Becker {\it et al.}}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {6},
+    year	= 1999,
+    pages	= {329}
+}
+@Article{rohe,
+    author	= {{D.~Rohe {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {83},
+    year	= 1999,
+    pages	= {4257}
+}
+@Article{bermuth,
+    author	= {{J.~Bermuth {\it et al.}}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {564},
+    year	= 2003,
+    pages	= {199}
+}
+@Article{golak,
+    author	= {{J.~Golak {\it et al.}}},
+    journal = {Phys Rev. C},
+    volume = {63},
+    year	= 2001,
+    pages	= {034006}
+}
+@Article{abbott,
+    author	= {{D.~Abbott {\it et al}}},
+    journal = {Phys Rev. C},
+    volume = {82},
+    year	= 1999,
+    pages	= {1379}
+}
+@Article{schiavil,
+    author	= {{R.~Schiavilla} and {I.~Sick}},
+    journal =  {Phys.\ Rev.\ C},
+    volume = {64},
+    year	= 2001,
+    pages	= {041002}
+}
+@Article{gao1,
+    author	= {{H.Y.~Gao {\it et al.}}},
+    journal = {Phys Rev. C},
+    volume = {50},
+    year	= 1994,
+    pages	= {R546}
+}
+@Article{anderson,
+    author	= {{B.~Anderson {\it et al.}, Jefferson Lab E95-001 Collaboration}},
+    journal = {Phys. Rev. C},
+    volume = {75},
+    year	= 2007,
+    pages	= {034003}
+}
+@Article{xu00,
+    author	= {{W.~Xu {\it et al.}}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {85},
+    year	= 2000,
+    pages	= {2900}
+}
+@Article{xu02,
+    author	= {{W.~Xu {\it et al.}}},
+    journal = {Phys. Rev. C},
+    volume = {67},
+    year	= 2003,
+    pages	= {012201}
+}
+@Article{kelly04,
+    author	= {{J.~J. Kelly}},
+    journal = {Phys. Rev. C},
+    volume = {70},
+    year	= 2004,
+    pages	= {068202}
+}
+@Article{reid,
+    author	= {{R.~V. Reid}},
+    journal = {Ann. of Phys.},
+    volume = {50},
+    year	= 1968,
+    pages	= {411}
+}
+@Article{lacombe,
+    author	= {{M.~Lacombe}},
+    journal =  {Phys Lett.},
+    volume = {101},
+    year	= 1981,
+    pages	= {1439}
+}
+@Article{wiringa,
+    author	= {{R.R.~Wiringa} and {A.S.~Smith} and {T.A.~Ainsworth}},
+    journal = {Phys. Rev. C},
+    volume = {29},
+    year	= 1984,
+    pages	= {1207}
+}
+@Article{brash,
+    author	= {{E.J.~Brash} and {A.~Kozlov} and {S.~Li} and {G.M.~Huber}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {65},
+    year	= 2002,
+    pages	= {051001}
+}
+@Article{tomasi1,
+    author	= {{E.~Tomasi-Gustafsson} and {G.I.~Gakh}},
+    journal =  {Phys.\ Rev.\ C},
+    volume = {72},
+    year	= 2005,
+    pages	= {015209}
+}
+@Article{bosted95,
+    author	= {{P.E.~Bosted}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {51},
+    year	= 1995,
+    pages	= {409}
+}
+
+@Article{cates,
+    author = {{G.~Cates} and {K.~McCormick} and {B.~Reitz} and {B.~Wojtsekhowski {\it et al}}},
+    journal ={JLab proposal},
+    volume ={02-13},
+    year ={2002}
+}
+@Article{afanasev4,
+    author = {{A.V.~Afanasev} and {J.~Arrington} and {W.~Brooks} and {K.~Joo} and {B.~Raue} and {L.~Weinstein {\it et al.}}},
+    journal = {JLab proposal},
+    volume = {E04-116},
+    year = 2004
+}
+
+@Article{todd,
+    author ={{T. Averett} and {J.P. Chen} and {X. Jiang {\it et al.}}},
+    journal ={JLab proposal},
+    volume ={E04-116},
+    year = 2004
+}
+@Article{wells,
+    author	= {{S.P.~Wells {\it et al}}},
+    journal = {Phys. Rev. C},
+    volume = {63},
+    year	= 2001,
+    pages	= {064001}
+}
+@Article{maas,
+    author	= {{F.E.~Maas {\it et al}}},
+    journal = {Phys. Rev. Lett.},
+    volume = {94},
+    year	= 2005,
+    pages	= {082001}
+}
+@Article{tsai1,
+    author	= {{Y.S.~Tsai}},
+    journal = {Phys. Rev.},
+    volume = {122},
+    year	= 1961,
+    pages	= {1898}
+}
+@Article{motsai,
+    author	= {{L.W.~Mo} and {Y.S.~Tsai}},
+    journal =  {Rev. Mod. Phys.},
+    volume = {41},
+    year	= 1969,
+    pages	= {205}
+}
+@techreport{tsai2,
+    author ={Y.S.~Tsai},
+    title ={SLAC report no. SLAC-PUB-848},
+    institution = {SLAC},
+    year =1971
+}
+@Article{maxtjon,
+    author	= {{L.C.~Maximon} and {J.A.~Tjon}},
+    journal = {Phys. Rev. C},
+    volume = {62},
+    year	= 2000,
+    pages	= {054320}
+}
+@Article{vdh00,
+    author	= {{M.~Vanderhaeghen} and {J.M.~Friedrich} and {D.~Lhuillier} and {D.~Marchand} and {L.~Van Hoorebeke} and {J.~Van~de~Wiele}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {62},
+    year	= 2000,
+    pages	= {025501}
+}
+@Article{ent,
+    author	= {{R.~Ent} and {B.W.~Fillipone} and {N.C.R.~Makins} and {R.G.~Milner} and {T.G.~O'Neill} and  {D.A.~Wasson}},
+    journal = {Phys. Rev. C},
+    volume = {64},
+    year	= 2001,
+    pages	= {054610}
+}
+@Article{weissbach,
+    author	= {{F.~Weissbach} and {K.~Hencken} and {D.~Rohe} and {I.~Sick} and {D.~Trautmann}},
+    journal =  {Eur. Phys. J. A},
+    volume = {30},
+    year	= 2006,
+    pages	= {477}
+}
+@Article{afanasev05,
+    author ={A.V.~Afanasev},
+    journal ={Workshop on Precision ElectroWeak Interactions held at William \& Mary},
+    volume ={Williamsburg, VA, USA, 15-17 August},
+    year =2005
+}
+@Article{egle,
+    author	= {{F.~Weissbach} and {K.~Hencken} and {D.~Rohe} and {I.~Sick} and {D.~Trautmann}},
+    journal = {Eur. Phys. J. A},
+    volume = {30},
+    year	= 2006,
+    pages	= {E},
+}
+@Article{arrsick,
+    author	= {{J.~Arrington} and {I.~Sick}},
+    journal = {Phys.\ Rev.\  C},
+    volume = {70},
+    year	= 2004,
+    pages	= {028203}
+}
+@Article{Kondratyuk:2005kk,
+    author	= {{S.~Kondratyuk} and {P.G.~Blunden} and {W.~Melnitchouk} and {J.A.~Tjon}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {95},
+    year	= 2005,
+    pages	= {172503}
+}
+@Article{chen,
+    author	= {{Y.C.~Chen} and {A.~Afanasev} and {S.J.~Brodsky} and {C.E.~Carlson} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {93},
+    year	= 2004,
+    pages	= {122301}
+}
+@Article{afanasev,
+    author	= {{A.V.~Afanasev} and {I.~Akushevich} and {A.~Ilyichev} and {N.P.~Merenkov}},
+    journal = {Phys. Lett. B},
+    volume = {514},
+    year	= 2001,
+    pages	= {269}
+}
+@Article{brodlep,
+    author	= {{G.P.~Lepage} and {S.J.~Brodsky}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {22},
+    year	= 1980,
+    pages	= {2157}
+}
+@Article{lomon,
+    author	= {{E.~Lomon}},
+    journal = {Phys. Rev. C},
+    volume = {64},
+    year	= 2001,
+    pages	= {035204}
+}
+@Article{bijker,
+    author	= {{R.~Bijker} and {F.~Iachello}},
+    journal = {Phys, Rev. C},
+    volume = {69},
+    year	= 2004,
+    pages	= {068201}
+}
+@Article{frazer,
+    author	= {{W.R.~Frazer} and {J.R.~Fulco}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {2},
+    year	= 1959,
+    pages	= {365}
+}
+@Article{hohlerpiet,
+    author	= {{G.~H\"ohler} and {E.~Pietarinen}},
+    journal = {Nucl.\ Phys.\ B},
+    volume = {95},
+    year	= 1975,
+    pages	= {210}
+}
+@Article{mergell,
+    author	= {{P.~Mergell} and {U.G.~Meissner} and {D.~Drechsel}},
+    journal = {Nucl. Phys. A},
+    volume = {596},
+    year	= 1996,
+    pages	= {367}
+}
+@Article{hmd96,
+    author	= {{H.W.~Hammer} and {U.G.~Meissner} and {D.~Drechsel}},
+    journal = {Phys.\ Lett.\ B},
+    volume = { 385},
+    year	= 1996,
+    pages	= {343}
+}
+@Article{hammer,
+    author	= {{H.W.~Hammer} and {U.G.~Meissner}},
+    journal = {Eur. Phys. J. A},
+    volume = {20},
+    year	= 2004,
+    pages	= {469}
+}
+@Article{Belushkin:2006qa,
+    author	= {{M.A.~Belushkin} and {H.W.~Hammer} and {U.G.~Meissner}},
+    journal =  {Phys.\ Rev.\  C},
+    volume = {75},
+    year	= 2007,
+    pages	= {035202}
+}
+@Article{Belushkin:2005ds,
+    author	= {{M.A.~Belushkin} and {H.W.~Hammer} and {U.G.~Meissner}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {633},
+    year	= 2006,
+    pages	= {507}
+}
+@Article{HammerMusolfA,
+    author	= {{H.W.~Hammer} and {M.J.~Ramsey-Musolf}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {60},
+    year	= 1999,
+    pages	= {045204}
+}
+@Article{HammerMusolfB,
+    author ={{H.W.~Hammer} and {M.J.~Ramsey-Musolf}},
+    journal ={Phys.\ Rev.\ C},
+    volume ={62},
+    year =2000,
+    pages ={049902 (erratum)}
+}
+@Article{HammerMusolfC,
+    author ={{H.W.~Hammer} and {M.J.~Ramsey-Musolf}},
+    journal ={Phys.\ Rev.\ C},
+    volume ={60},
+    year =1999,
+    pages ={045205}
+}
+@Article{HammerMusolfD,
+    author ={{H.W.~Hammer} and {M.J.~Ramsey-Musolf}},
+    journal ={Phys.\ Rev.\ C},
+    volume ={62},
+    year =2000,
+    pages ={049903 (erratum)}
+}
+@Article{Meissner:1997qt,
+    author	= {{U.G.~Meissner} and {V.~Mull} and {J.~Speth} and {J.W.~van~Orden}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {408},
+    year	= 1997,
+    pages	= {381}
+}
+@Article{isgurA,
+    author	= {{N.~Isgur} and {G.~Karl}},
+    journal = {Phys. Rev. D},
+    volume = {18},
+    year	= 1978,
+    pages	= {4187},
+}
+@Article{isgurB,
+    author ={{C.~Hayne} and {N.~Isgur}},
+    journal ={Phys. Rev. D},
+    volume ={12},
+    year ={1975},
+    pages ={147}
+}
+@Article{derujula,
+    author	= {{A.~De~Rujula} and {H.~Georgi} and {S.L.~Glashow}},
+    journal = {Phys. Rev. D},
+    volume = {12},
+    year	= 1975,
+    pages	= {147}
+}
+@Article{Koniuk:1979vyA,
+    author	= {{R.~Koniuk} and {N.~Isgur}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {21},
+    year	= 1980,
+    pages	= {1868},
+}
+@Article{Koniuk:1979vyB,
+    author ={{R.~Koniuk} and {N.~Isgur}},
+    journal ={Phys.\ Rev.\ D},
+    volume = {23},
+    year =1981,
+    pages = {818}
+}
+@Article{Isgur:1981yz,
+    author	= {{N.~Isgur} and {G.~Karl} and {R.~Koniuk}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {25},
+    year	= 1982,
+    pages	= {2394}
+}
+@Article{Glashow79,
+    author	= {{S.L.~Glashow}},
+    journal =  {Physica},
+    volume = {96A},
+    year	= 1979,
+    pages	= {27}
+}
+@Article{PVY06,
+    author	= {{V.~Pascalutsa} and {M.~Vanderhaeghen} and {S.N.~Yang}},
+    journal = {Phys.\ Rept.},
+    volume = {437},
+    year	= 2007,
+    pages	= {125}
+}
+@Article{dirac,
+    author	= {{P.A.M.~Dirac}},
+    journal = {Rev. Mod. Phys.},
+    volume = {21},
+    year	= 1949,
+    pages	= {392}
+}
+@Article{BerestetskyA,
+    author	= {{V.B.~Berestetsky} and {M.V.~Terentev}},
+    journal = {Sov.\ J.\ Nucl.\ Phys.},
+    volume = {24},
+    year	= 1976,
+    pages	= {547}
+}
+@Article{BerestetskyB,
+    author	= {{V.B.~Berestetsky} and {M.V.~Terentev}},
+    journal = {Sov.\ J.\ Nucl.\ Phys.},
+    volume = {24},
+    year	= 1976,
+    pages	= {653}
+}
+@Article{chung,
+    author	= {{P.L.~Chung} and {F.~Coester}},
+    journal = {Phys. Rev. D},
+    volume = {44},
+    year	= 1991,
+    pages	= {229}
+}
+@Article{Melosh:1974cu,
+    author	= {{H.J.~Melosh}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {9},
+    year	= 1974,
+    pages	= {1095}
+}
+@Article{schlumpfA,
+    author	= {F.~Schlumpf},
+    journal = {Phys. Rev. D},
+    volume =   {47},
+    year	= 1993,
+    pages	= {4114}
+}
+@Article{schlumpfB,
+    author	= {F.~Schlumpf},
+    journal = {J.\ Phys.\ G},
+    volume =   {20},
+    year	= 1994,
+    pages	= {237}
+}
+@Article{gamiller,
+    author	= {{M.R.~Frank} and {B.K.~Jennings} and {G.A.~Miller}},
+    journal = {Phys. Rev. C},
+    volume = {54},
+    year	= 1996,
+    pages	= {920}
+}
+@Article{miller02,
+    author	= {{G.A.~Miller} and {M.R.~Frank}},
+    journal = {Phys. Rev. C},
+    volume = {65},
+    year	= 2002,
+    pages	= {065205}
+}
+@Article{rome,
+    author	= {{F.~Cardarelli} and  {E.~Pace}and {G.~Salme} and {S.~Simula}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {357},
+    year	= 1995,
+    pages	= {267}
+}
+@Article{cardarelli,
+    author	= {{F.~Cardarelli} and {S.~Simula}},
+    journal = {Phys. Rev. C},
+    volume = {62},
+    year	= 2000,
+    pages	= {65201}
+}
+@Article{boffi,
+    author	= {{S.~Boffi} and {L.Y.~Glozman} and {W.~Klink} and {W.~Plessas} and {M.~Radici} and {R.F.~Wagenbrunn}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {14},
+    year	= 2002,
+    pages	= {17}
+}
+@Article{gross,
+    author	= {{F.~Gross} and {P.~Agbakpe}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {73},
+    year	= 2006,
+    pages	= {015203}
+}
+@Article{Capstick:1986bm,
+    author	= {{S.~Capstick} and {N.~Isgur}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {34},
+    year	= 1986,
+    pages	= {2809}
+}
+@Article{Petronzio:2003bwA,
+    author	= {{R.~Petronzio} and {S.~Simula} and {G.~Ricco}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {67},
+    year	= 2003,
+    pages	= {094004}
+}
+@Article{Petronzio:2003bwB,
+    author	= {{R.~Petronzio} and {S.~Simula} and {G.~Ricco}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {68},
+    year	= 2003,
+    pages	= {099901}
+}
+@Article{pace,
+    author	= {{E.~Pace} and {G.~Salme} and {F.~Cardarelli} and {S.~Simula}},
+    journal = {Nucl. Phys. A},
+    volume = {666$ and $667},
+    year	= 2000,
+    pages	= {33c}
+}
+@Article{Glozman:1997fs,
+    author	= {{L.Y.~Glozman} and {Z.~Papp} and {W.~Plessas} and {K.~Varga} and {R.F.~Wagenbrunn}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {57},
+    year	= 1998,
+    pages	= {3406}
+}
+@Article{Glozman:1997ag,
+    author	= {{L.Y.~Glozman} and {W.~Plessas} and {K.~Varga} and {R.F.~Wagenbrunn}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {58},
+    year	= 1998,
+    pages	= {094030}
+}
+@Article{wagenbrunn,
+    author	= {{R.F.~Wagenbrunn} and {S.~Boffi} and {W.~Klink} and {W.~Plessas} and {M.~Radici}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {511},
+    year	= 2001,
+    pages	= {33}
+}
+
+@article{Wagenbrunn:2005wk,
+      author         = "Wagenbrunn, R.F. and Melde, T. and Plessas, Willibald",
+      title          = "{Poincare-invariant spectator-model currents for
+                        electroweak nucleon form-factors}",
+      year           = "2005",
+      eprint         = "hep-ph/0509047",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = HEP-PH/0509047;%%",
+}
+
+@Article{Coester:2003rw,
+    author	= {{F.~Coester} and {D.O.~Riska}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {728},
+    year	= 2003,
+    pages	= {439}
+}
+@Article{Julia-Diaz:2003gq,
+    author	= {{B.~Julia-Diaz} and {D.O.~Riska} and {F.~Coester}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {69},
+    year	= 2004,
+    pages	= {035212}
+}
+@Article{Merten:2002nz,
+    author	= {{D.~Merten} and {U.~Loring} and {K.~Kretzschmar} and {B.~Metsch} and {H.R.~Petry}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {14},
+    year	= 2002,
+    pages	= {477}
+}
+@Article{Desplanques:2003nk,
+    author	= {{B.~Desplanques} and {L.~Theussl}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {21},
+    year	= 2004,
+    pages	= {93}
+}
+@article{Desplanques:2005vu,
+      author         = "Desplanques, B.",
+      title          = "{Form-factors in relativistic quantum mechanics
+                        approaches and space-time translation invariance}",
+      year           = "2005",
+      eprint         = "nucl-th/0510003",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0510003;%%",
+}
+@Article{Desanctis,
+    author	= {{M.~De Sanctis} and {M.M.~Giannini} and {L.~Repetto} and {E.~Santopinto}},
+    journal = {Phys. Rev. C},
+    volume = {62},
+    year	= 2000,
+    pages	= {025208}
+}
+@Article{Manohar:1983md,
+    author	= {{A.~Manohar} and {H.~Georgi}},
+    journal = {Nucl.\ Phys.\  B},
+    volume = {234},
+    year	= 1984,
+    pages	= {189}
+}
+@Article{Thomas:1982kv,
+    author	= {{A.W.~Thomas}},
+    journal = {Adv.\ Nucl.\ Phys.},
+    volume = {13},
+    year	= 1984,
+    pages	= {1}
+}
+@Article{lu,
+    author	= {{D.H.~Lu} and {A.W.~Thomas} and {A.G.~Williams}},
+    journal = {Phys. Rev. C},
+    volume = {{\bf 57}},
+    year	= 1998,
+    pages	= {2628}
+}
+@Article{miller02b,
+    author	= {{G.A.~Miller}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {66},
+    year	= 2002,
+    pages	= {032201(R)}
+}
+@Article{Oset:1984tvA,
+    author	= {{E.~Oset} and {R.~Tegen} and {W.~Weise}},
+    journal = {Nucl.\ Phys.\  A},
+    volume = {426},
+    year	= 1984,
+    pages	= {456}
+}
+@Article{Oset:1984tvB,
+    author	= {{E.~Oset} and {R.~Tegen} and {W.~Weise}},
+    journal = {Nucl.\ Phys.\  A},
+    volume = {453},
+    year	= 1986,
+    pages	= {751 (erratum)}
+}
+@Article{Jena:1992qx,
+    author	= {{S.N.~Jena} and {S.~Panda}},
+    journal = {J.\ Phys.\ G},
+    volume = {18},
+    year	= 1992,
+    pages	= {273}
+}
+@Article{faessler,
+    author	= {{A.~Faessler} and {T.~Gutsche} and {V.E.~Lyubovitskij} and {K.~Pumsa-ard}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {73},
+    year	= 2006,
+    pages	= {114021}
+}
+@Article{Lyubovitskij:2001nm,
+    author	= {{V.E.~Lyubovitskij} and {T.~Gutsche} and {A.~Faessler}},
+    journal = {Phys.\ Rev.\  C},
+    volume = {64},
+    year	= 2001,
+    pages	= {065203}
+}
+@Article{Faessler:2006ky,
+    author	= {{A. Faessler} and {T.~Gutsche} and {B. R.~Holstein} and {V. E.~Lyubovitskij} and {D.~Nicmorus} and {K.~Pumsa-ard}},
+    journal = {Phys.\ Rev.\  D},
+    volume = {74},
+    year	= 2006,
+    pages	= {074010}
+}
+@Article{Dia86,
+    author	= {{D.I.~Diakonov} and {V.~Petrov}},
+    journal = {Nucl. Phys.  B},
+    volume = {272},
+    year	= 1986,
+    pages	= {457}
+}
+@Article{Dia88,
+    author	= {{D.I.~Diakonov} and {V.~Petrov} and {P.~Pobylitsa}},
+    journal = {Nucl. Phys.  B},
+    volume = {306},
+    year	= 1988,
+    pages	= {809}
+}
+@Article{Chr96,
+    author	= {{Chr.V.~Christov} and {A.~Blotz} and {H.C.~Kim} and {P.~Pobylitsa} and {T.~Watabe} and {Th.~Meissner} and {E.~Ruiz~Arriola} and {K.~Goeke}},
+    journal = {Prog. Part. Nucl. Phys.},
+    volume = {37},
+    year	= 1996,
+    pages	= {91}
+}
+@Article{Christov:1995hr,
+    author	= {{C.V.~Christov} and {A.Z.~Gorski} and {K.~Goeke} and {P.V.~Pobylitsa}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {592},
+    year	= 1995,
+    pages	= {513}
+}
+@Article{holzwarthA,
+    author	= {G.~Holzwarth},
+    journal = {Z Phys. A},
+    volume = {356},
+    year	= 1996,
+    pages	= {339}
+}
+@article{HolzwarthB,
+      author         = "Holzwarth, G.",
+      title          = "{Electromagnetic form-factors of the nucleon in the
+                        chiral soliton model}",
+      year           = "2002",
+      eprint         = "hep-ph/0201138",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "SI-TH-02-01",
+      SLACcitation   = "%%CITATION = HEP-PH/0201138;%%",
+}
+@Article{mitra,
+    author	= {{A.N.~Mitra} and {I.~Kumari}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {15},
+    year	= 1977,
+    pages	= {261}
+}
+@Article{walcher,
+    author	= {{J.~Friedrich} and {Th.~Walcher}},
+    journal = {Eur. Phys. J. A},
+    volume = {17},
+    year	= 2003,
+    pages	= {607}
+}
+@phdthesis{Ziskin,
+    author ={V.~Ziskin},
+    title ={},
+    school ={MIT},
+    year =2005
+}
+}
+@Article{miller:2003,
+    author	= {{G.A.~Miller}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {68},
+    year	= 2003,
+    pages	= {022201(R)}
+}
+@Article{miller06,
+    author	= {{A.~Kvinikhidze} and {G.A.~Miller}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {73},
+    year	= 2006,
+    pages	= {065203}
+}
+@Article{HHK97A,
+    author	= {{T.R.~Hemmert} and {B.R.~Holstein} and {J.~Kambor}},
+    journal = {Phys. Lett. B},
+    volume = {395},
+    year	= 1997,
+    pages	= {89}
+}
+@Article{HHK97B,
+    author	= {{T.R.~Hemmert} and {B R.~Holstein} and {J.~Kambor}},
+    journal = {J. Phys. G},
+    volume = {24},
+    year	= 1998,
+    pages	= {1831}
+}
+@Article{Bernard:1998gvA,
+    author	= {{V.~Bernard} and {H.W.~Fearing} and {T.R.~Hemmert} and {U.G.~Meissner}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {635},
+    year	= 1998,
+    pages	= {121}
+}
+@Article{Bernard:1998gvB,
+    author	= {{V.~Bernard} and {H.W.~Fearing} and {T.R.~Hemmert} and {U.G.~Meissner}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {642},
+    year	= 1998,
+    pages	= {563 (erratum)}
+}
+@Article{kubis01A,
+    author	= {{B.~Kubis} and {U.G.~Meissner}},
+    journal = {Eur.\ Phys.\ J.\ C},
+    volume = {18},
+    year	= 2001,
+    pages	= {747}
+}
+@Article{kubis01B,
+    author	= {{B.~Kubis} and {U.G.~Meissner}},
+    journal = {Nucl.\ Phys.\ A},
+    volume = {679},
+    year	= 2001,
+    pages	= {698}
+}
+@Article{schindler,
+    author	= {{M.R.~Schindler} and {M.R.~Schindler} and {S.~Scherer}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {26},
+    year	= 2005,
+    pages	= {1}
+}
+@Article{Kopecky:1997rw,
+    author	= {{S.~Kopecky} and {M.~Krenn} and {P.~Riehs} and {S.~Steiner} and {J A.~Harvey} and {N.W.~Hill} and {M.~Pernicka}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {56},
+    year	= 1997,
+    pages	= {2229}
+}
+@Article{wilson,
+    author	= {{K.G.~Wilson}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {10},
+    year	= 1974,
+    pages	= {2445}
+}
+@Article{MILCA,
+    author	= {{C.~Bernard {\it et al.}}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {61},
+    year	= 2000,
+    pages	= {111502(R)}
+}
+@Article{MILCB,
+    author	={{K.~Orginos} and {D.~Tousaint} and {R.L.~Sugar}},
+    journal ={Phys. Rev. D},
+    volume ={60},
+    year	=1999,
+    pages	={054503}
+}
+@article{tmQCDa,
+      author         = "Farchioni, F. and Hofmann, P. and Jansen, K. and Montvay,
+                        I. and Munster, G. and others",
+      title          = "{Numerical simulations with two flavors of twisted-mass
+                        Wilson quarks and DBW2 gauge action}",
+      journal        = "Eur.Phys.J.",
+      volume         = "C47",
+      pages          = "453-472",
+      doi            = "10.1140/epjc/s2006-02549-y",
+      year           = "2006",
+      eprint         = "hep-lat/0512017",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "DESY-05-250, MS-TP-05-33, SFB-CPP-05-83",
+      SLACcitation   = "%%CITATION = HEP-LAT/0512017;%%",
+}
+
+@Article{tmQCDb,
+    author	= {{R.~Frezzotti} and  {G.~Rossi}},
+    journal 	=  {JHEP},
+    volume = {0408},
+    year	= 2004,
+    pages	= {007}
+}
+@Article{tmQCDc,
+    author	= {{R.~Frezzotti} and  {G.~Rossi}},
+    journal 	=  {JHEP},
+    volume = {0410},
+    year	= 2004,
+    pages	= {070}
+}
+@Article{Boinepalli:2006xd,
+    author	= {{S.~Boinepalli} and {D.B.~Leinweber} and {A.G.~Williams} and {J.M.~Zanotti} and {J.B.~Zhang}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {74},
+    year	= 2006,
+    pages	= {093005}
+}
+@Article{Wilcox:1985iy,
+    author	= {{W.~Wilcox} and {R.M.~Woloshyn}},
+    journal = {Phys.\ Rev.\ Lett. },
+    volume = {54},
+    year	= 1985,
+    pages	= {2653}
+}
+@Article{Martinelli:1988rr,
+    author	= {{G.~Martinelli} and {C.T.~Sachrajda}},
+    journal = {Nucl.\ Phys.\ B},
+    volume = {316},
+    year	= 1989,
+    pages	= {355}
+}
+@Article{Leinweber:1990dv,
+    author	= {{D.B.~Leinweber} and {R.M.~Woloshyn} and {T.~Draper}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {43},
+    year	= 1991,
+    pages	= {1659}
+}
+@Article{Alexandrou:2006ru,
+    author	= {{C.~Alexandrou} and {G.~Koutsou} and {J.W.~Negele} and {A.~Tsapalis}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {74},
+    year	= 2006,
+    pages	= {034508}
+}
+@article{Alexandrou:2006pr,
+      author         = "Alexandrou, C.",
+      title          = "{Hadron deformation and form-factors from lattice QCD}",
+      journal        = "AIP Conf.Proc.",
+      volume         = "904",
+      pages          = "49-64",
+      doi            = "10.1063/1.2734291",
+      year           = "2007",
+      eprint         = "hep-lat/0608025",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      SLACcitation   = "%%CITATION = HEP-LAT/0608025;%%",
+}
+@article{Gockeler:2006uu,
+      author         = "Gockeler, Meinulf and Hagler, Philipp and Horsley, Roger
+                        and Nakamura, Yoshifumi and Pleiter, Dirk and others",
+      title          = "{Nucleon form-factors: Probing the chiral limit}",
+      journal        = "PoS",
+      volume         = "LAT2006",
+      pages          = "120",
+      year           = "2006",
+      eprint         = "hep-lat/0610118",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "DESY-06-183",
+      SLACcitation   = "%%CITATION = HEP-LAT/0610118;%%",
+}
+@Article{Gockeler:2003ay,
+    author	= {{M.~G\"ockeler} and {T.R.~Hemmert} and {R.~Horsley} and {D.~Pleiter} and {P.E.L.~Rakow} and {A.~Sch\"afer} and {G.~Schierholz}, QCDSF Collaboration},
+    journal = {Phys.\ Rev.\ D},
+    volume = {71},
+    year	= 2005,
+    pages	= {034508}
+}
+
+@article{Edwards:2006qx,
+      author         = "Edwards, R.G. and Fleming, G. and Hagler, Ph. and Negele,
+                        John W. and Orginos, K. and others",
+      title          = "{Nucleon structure in the chiral regime with domain wall
+                        fermions on an improved staggered sea}",
+      journal        = "PoS",
+      volume         = "LAT2006",
+      pages          = "121",
+      year           = "2006",
+      eprint         = "hep-lat/0610007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "DESY-06-176, JLAB-THY-06-553",
+      SLACcitation   = "%%CITATION = HEP-LAT/0610007;%%",
+}
+
+@article{Sharpe:2006re,
+      author         = "Sharpe, Stephen R.",
+      title          = "{Rooted staggered fermions: Good, bad or ugly?}",
+      journal        = "PoS",
+      volume         = "LAT2006",
+      pages          = "022",
+      year           = "2006",
+      eprint         = "hep-lat/0610094",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      SLACcitation   = "%%CITATION = HEP-LAT/0610094;%%",
+}
+
+@Article{Leinweber:2001ui,
+    author	= {{D.B.~Leinweber} and {A.W.~Thomas} and {R.D.~Young}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {86},
+    year	= 2001,
+    pages	= {5011}
+}
+@Article{Hemmert:2002uh,
+    author	= {{T.R.~Hemmert} and {W.~Weise}},
+    journal = {Eur.\ Phys.\ J.\ A},
+    volume = {15},
+    year	= 2002,
+    pages	= {487}
+}
+@Article{Gasser:1987rb,
+    author	= {{J.~Gasser} and {M.E.~Sainio} and {A.~Svarc}},
+    journal = {Nucl.\ Phys.\  B},
+    volume = {307},
+    year	= 1988,
+    pages	= {779}
+}
+@Article{Leinweber:1992hj,
+    author	= {{D.B.~Leinweber} and {T.D.~Cohen}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {47},
+    year	= 1993,
+    pages	= {2147}
+}
+@Article{McGovern:2006fm,
+    author	= {{J.A.~McGovern} and {M.C.~Birse}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {74},
+    year	= 2006,
+    pages	= {097501}
+}
+@Article{Pascalutsa:2004ga,
+    author	= {{V.~Pascalutsa} and {B.R.~Holstein} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {600},
+    year	= 2004,
+    pages	= {239}
+}
+@Article{Holstein:2005db,
+    author	= {{B.R.~Holstein} and {V.~Pascalutsa} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {72},
+    year	= 2005,
+    pages	= {094014}
+}
+@Article{gerasimovA,
+    author	= {{S.B.~Gerasimov}},
+    journal = {Sov.\ J.\ Nucl.\ Phys.},
+    volume = {2},
+    year	= 1966,
+    pages	= {430}
+}
+@Article{gerasimovB,
+    author ={S.B.~Gerasimov},
+    journal ={Yad.\ Fiz.},
+    volume ={2},
+    year = 1966,
+    pages ={598},
+}
+@Article{drellhearn,
+    author	= {{S.D.~Drell} and {A.C.~Hearn}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {16},
+    year	= 1966,
+    pages	= {908}
+}
+@Article{Leinweber:1999ig,
+    author	= {{D.B.~Leinweber} and {A.W.~Thomas} and {K.~Tsushima} and {S.V.~Wright}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {61},
+    year	= 2000,
+    pages	= {074502}
+}
+@Article{Leinweber:2003dg,
+    author	= {{D.B.~Leinweber} and {A.W.~Thomas} and {R.D.~Young}},
+    journal =  {Phys.\ Rev.\ Lett.},
+    volume = {92},
+    year	= 2004,
+    pages	= {242002}
+}
+@Article{Dunne:2001ip,
+    author	= {{G.V.~Dunne} and {A.W.~Thomas} and {S.V.~Wright}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {531},
+    year	= 2002,
+    pages	= {77}
+
+}
+@Article{Matevosyan05A,
+    author	= {{H.H.~Matevosyan} and {A.W.~Thomas} and {G.A.~Miller}},
+    journal = {Phys.\ Rev.\ C},
+    volume = {72},
+    year	= 2005,
+    pages	= {065204},
+}
+@Article{Matevosyan05B,
+    author	= {{H.H.~Matevosyan} and {A.W.~Thomas} and {G.A.~Miller}},
+    journal ={Phys.\ Rev.\ C},
+    volume = {71},
+    year = 2005,
+    pages = {055204}
+    }
+@Article{Ji98a,
+    author	= {{X.D.~Ji} and {J.~Osborne}},
+    journal = {Phys. Rev. D},
+    volume = {58},
+    year	= 1998,
+    pages	= {094018}
+}
+@Article{Col99,
+    author	= {{J.C.~Collins} and {A.~Freund}},
+    journal = {Phys. Rev. D},
+    volume = {59},
+    year	= 1999,
+    pages	= {074009}
+}
+@Article{rady,
+    author	= {{A.V.~Radyushkin}},
+    journal = {Phys. Rev. D},
+    volume = {58},
+    year	= 1998,
+    pages	= {114008}
+}
+@Article{Muller:1998fv,
+    author	= {{D.~M\"uller} and {D.~Robaschik} and {B.~Geyer} and {F.M.~Dittes} and {J.~Horejsi}},
+    journal = {Fortsch.\ Phys.},
+    volume = {42},
+    year	= 1994,
+    pages	= {101}
+}
+@Article{ji,
+    author	= {{X.D.~Ji}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {78},
+    year	= 1997,
+    pages	= {610}
+}
+@Article{Ji:1996nm,
+    author	= {{X.D.~Ji}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {55},
+    year	= 1997,
+    pages	= {7114}
+}
+@Article{Radyushkin:1996nd,
+    author	= {{A.V.~Radyushkin}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {380},
+    year	= 1996,
+    pages	= {417}
+}
+@Article{Ji:1998pc,
+    author	= {{X.D.~Ji}},
+    journal = {J.\ Phys.\ G},
+    volume = {24},
+    year	= 1998,
+    pages	= {1181}
+}
+@Article{Goeke:2001tz,
+    author	= {{K.~Goeke} and {M.V.~Polyakov} and {M.~Vanderhaeghen}},
+    journal = {Prog.\ Part.\ Nucl.\ Phys.},
+    volume = {47},
+    year	= 2001,
+    pages	= {401}
+}
+@Article{Diehl:2003ny,
+    author	= {Diehl M.},
+    journal = {Phys.\ Rept.},
+    volume = {388},
+    year	= 2003,
+    pages	= {41}
+}
+@Article{Belitsky:2005qn,
+    author	= {{A.V.~Belitsky} and {A.V.~Radyushkin}},
+    journal = {Phys.\ Rept.},
+    volume = {418},
+    year	= 2005,
+    pages	= {1}
+}
+@Article{Ji:2004gf,
+    author	= {{X.D.~Ji}},
+    journal = {Ann.\ Rev.\ Nucl.\ Part.\ Sci.},
+    volume = {54},
+    year	= 2004,
+    pages	= {413}
+}
+@Article{diehl,
+    author	= {{M.~Diehl} and {T.~Feldmann} and {R.~Jakob} and {P.~Kroll}},
+    journal = {Eur.\ Phys.\ J.\ C},
+    volume = {39},
+    year	= 2005,
+    pages	= {1}
+}
+@Article{guidal,
+    author	= {{M.~Guidal} and {M.V.~Polyakov} and {A.V.~Radyushkin} and {M.~Vanderhaeghen}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {72},
+    year	= 2005,
+    pages	= {054013}
+}
+@Article{Burkardt:2002hr,
+    author	= {{M.~Burkardt}},
+    journal = {Int.\ J.\ Mod.\ Phys.\ A},
+    volume = {18},
+    year	= 2003,
+    pages	= {173}
+}
+@Article{Burkardt:2004bv,
+    author	= {{M.~Burkardt}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {595},
+    year	= 2004,
+    pages	= {245}
+}
+@Article{E-04-108,
+    author	= {{E.~Brash} and {M.~Jones} and {C.~Perdrisat} and {V.~Punjabi {\it et al.}}},
+    journal = {JLab proposal},
+    volume = {04-108},
+    year	= 2004,
+    pages	= {}
+}
+@Article{Chernyak:1977asA,
+    author	= {{V.L.~Chernyak} and {A.R.~Zhitnitsky}},
+    journal = {JETP Lett.},
+    volume = {25},
+    year	= 1977,
+    pages	= {510},
+}
+@Article{Chernyak:1977asB,
+    author ={{V.L.~Chernyak} and {A.R.~Zhitnitsky}},
+    journal = {Pisma Zh.\ Eksp.\ Teor.\ Fiz.},
+    volume = {25},
+    year = 1977,
+    pages = {544}
+}
+@Article{Chernyak:1977fkA,
+    author	= {{V.L.~Chernyak} and {A.R.~Zhitnitsky} and {V.G.~Serbo}},
+    journal = {JETP Lett.},
+    volume = {26},
+    year	= 1977,
+    pages	= {594}
+}
+@Article{Chernyak:1977fkB,
+    author ={{V.L.~Chernyak} and {A.R.~Zhitnitsky} and {V.G.~Serbo}},
+    journal = {Pisma Zh.\ Eksp.\ Teor.\ Fiz.},
+    volume = {26},
+    year =1977,
+    pages = {760}
+}
+@Article{Efremov:1979qk,
+    author	= {{A.V.~Efremov} and {A.V.~Radyushkin}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {94},
+    year	= 1980,
+    pages	= {245}
+}
+@Article{Belitsky:2002kj,
+    author	= {{A.V.~Belitsky} and {X.D.~Ji} and {F.~Yuan}},
+    journal = {Phys.\ Rev.\ Lett.},
+    volume = {91},
+    year	= 2003,
+    pages	= {092003}
+}
+@Article{jain,
+    author	= {{J.P.~Ralston} and {P.~Jain}},
+    journal = {Phys.Rev. D},
+    volume = {69},
+    year	= 2004,
+    pages	= {053008}
+}
+@Article{Brodsky:2003pw,
+    author	= {{S.J.~Brodsky} and {J.R.~Hiller} and {D.S.~Hwang} and {V.A.~Karmanov}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {69},
+    year	= 2004,
+    pages	= {076001}
+}
+@Article{Nesterenko:1983ef,
+    author	= {{V.A.~Nesterenko} and {A.V.~Radyushkin}},
+    journal = {Phys.\ Lett.\ B},
+    volume = {128},
+    year	= 1983,
+    pages	= {439}
+}
+
+@Book{feynman,
+    author	= {{R.P.~Feynman}},
+    title =  {Photon-Hadron Interactions},
+    publisher = {Benjamin},
+    year	= 1972,
+    address = {Reading, MA}
+}
+@Article{bolz,
+    author	= {{J.~Bolz} and {R.~Jakob} and {P.~Kroll} and {M.~Bergmann} and {N.G.~Stefanis}},
+    journal = {Z.\ Phys.\ C},
+    volume = {66},
+    year	= 1995,
+    pages	= {267}
+}
+@Article{kroll,
+    author	= {{P.~Kroll} and {M.~Sch\"urmann} and {W.~Schweiger}},
+    journal = {Z. Phys. A},
+    volume = {338},
+    year	= 1991,
+    pages	= {339}
+}
+@Article{braun06,
+    author	= {{V.M.~Braun} and {A.~Lenz} and {M.~Wittmann}},
+    journal = {Phys.\ Rev.\ D},
+    volume = {73},
+    year	= 2006,
+    pages	= {076001}
+}

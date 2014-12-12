@@ -1,0 +1,1216 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 DEC 2014 12:02
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**nuc_ff_review.tex
+(./nuc_ff_review.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+
+LaTeX Warning: File `nuc_ff_review.eps' already exists on the system.
+               Not generating it from this source.
+
+(./svjour.cls
+Document Class: svjour 2003/04/15 
+LaTeX document class for Springer journals - version 1.11
+(./svepj.clo
+File: svepj.clo 2002/03/11 v1.2 style option for The European Physical Journal
+
+SVJour Class option: svepj.clo for The European Physical Journal
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 109.
+\logodepth=\dimen102
+\headerboxheight=\dimen103
+\betweenumberspace=\dimen104
+\aftertext=\dimen105
+\headlineindent=\dimen106
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen107
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen108
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen109
+\tabcapgap=\dimen110
+\figgap=\dimen111
+\bibindent=\dimen112
+\@tempcntc=\count104
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip43
+\L@UnitsRaiseTextstyle=\skip44
+\L@UnitsRaiseScriptstyle=\skip45
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(./nuc_ff_review.aux
+
+LaTeX Warning: Label `fig:gepgd_cs' multiply defined.
+
+
+LaTeX Warning: Label `eq:ptgen' multiply defined.
+
+
+LaTeX Warning: Label `fig:q2f2f1p' multiply defined.
+
+
+LaTeX Warning: Label `fig:pf2f1p' multiply defined.
+
+
+LaTeX Warning: Label `fig:f2andf1' multiply defined.
+
+)
+\openout1 = `nuc_ff_review.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen115
+\scratchbox=\box29
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen116
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 80.
+ (./EPJA_intro_chs.tex
+Overfull \hbox (3.44087pt too wide) in paragraph at lines 36--41
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 F[]$ \OT1/cmr/m/n/10 was in-tro-duced t
+o rep-re-sent the spread-out charge
+ []
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+
+ []
+
+Package epstopdf Info: Source file: <FIG1.eps>
+(epstopdf)                    date: 2014-02-15 15:43:50
+(epstopdf)                    size: 118074 bytes
+(epstopdf)             Output file: <FIG1-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-02-15 15:45:11
+(epstopdf)                    size: 43126 bytes
+(epstopdf)             Command: <repstopdf --outfile=FIG1-eps-converted-to.pdf 
+FIG1.eps>
+(epstopdf)             \includegraphics on input line 217.
+Package epstopdf Info: Output file is already uptodate.
+<FIG1-eps-converted-to.pdf, id=24, 505.89pt x 548.0475pt>
+File: FIG1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FIG1-eps-converted-to.pdf>
+Package pdftex.def Info: FIG1-eps-converted-to.pdf used on input line 217.
+(pdftex.def)             Requested size: 505.88875pt x 548.04616pt.
+Package epstopdf Info: Source file: <gepgd_Dspin11.eps>
+(epstopdf)                    date: 2014-12-11 16:28:46
+(epstopdf)                    size: 51687 bytes
+(epstopdf)             Output file: <gepgd_Dspin11-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:05
+(epstopdf)                    size: 17407 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgd_Dspin11-eps-converte
+d-to.pdf gepgd_Dspin11.eps>
+(epstopdf)             \includegraphics on input line 229.
+Package epstopdf Info: Output file is already uptodate.
+
+<gepgd_Dspin11-eps-converted-to.pdf, id=25, 483.8075pt x 609.27625pt>
+File: gepgd_Dspin11-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gepgd_Dspin11-eps-converted-to.pdf>
+Package pdftex.def Info: gepgd_Dspin11-eps-converted-to.pdf used on input line 
+229.
+(pdftex.def)             Requested size: 483.80632pt x 609.27475pt.
+Package epstopdf Info: Source file: <gepgmp_low_nofit_10092014.eps>
+(epstopdf)                    date: 2014-12-11 16:25:13
+(epstopdf)                    size: 96550 bytes
+(epstopdf)             Output file: <gepgmp_low_nofit_10092014-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:06
+(epstopdf)                    size: 31836 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgmp_low_nofit_10092014-
+eps-converted-to.pdf gepgmp_low_nofit_10092014.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+
+<gepgmp_low_nofit_10092014-eps-converted-to.pdf, id=26, 493.845pt x 632.3625pt>
+File: gepgmp_low_nofit_10092014-eps-converted-to.pdf Graphic file (type pdf)
+<use gepgmp_low_nofit_10092014-eps-converted-to.pdf>
+Package pdftex.def Info: gepgmp_low_nofit_10092014-eps-converted-to.pdf used on
+ input line 240.
+(pdftex.def)             Requested size: 493.84378pt x 632.36096pt.
+Package epstopdf Info: Source file: <gepgd_col_lininx.eps>
+(epstopdf)                    date: 2014-12-11 16:24:30
+(epstopdf)                    size: 154177 bytes
+(epstopdf)             Output file: <gepgd_col_lininx-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:08
+(epstopdf)                    size: 38846 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgd_col_lininx-eps-conve
+rted-to.pdf gepgd_col_lininx.eps>
+(epstopdf)             \includegraphics on input line 251.
+Package epstopdf Info: Output file is already uptodate.
+
+<gepgd_col_lininx-eps-converted-to.pdf, id=27, 477.785pt x 597.23125pt>
+File: gepgd_col_lininx-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gepgd_col_lininx-eps-converted-to.pdf>
+Package pdftex.def Info: gepgd_col_lininx-eps-converted-to.pdf used on input li
+ne 251.
+(pdftex.def)             Requested size: 477.78383pt x 597.22978pt.
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./FIG1-eps-converted-to.pdf> <./gepgd_Dspin11-eps-converted-to.pdf> <./gep
+gmp_low_nofit_10092014-eps-converted-to.pdf> <./gepgd_col_lininx-eps-converted-
+to.pdf>]
+Overfull \hbox (3.74931pt too wide) in paragraph at lines 317--323
+\OT1/cmr/m/n/10 four mo-men-tum trans-fer, $\OML/cmm/m/it/10 Q[]$\OT1/cmr/m/n/1
+0 , at Jef-fer-son Lab. These meth-
+ []
+
+Package epstopdf Info: Source file: <ep_recoilpol_10312014.eps>
+(epstopdf)                    date: 2014-12-12 11:57:58
+(epstopdf)                    size: 887252 bytes
+(epstopdf)             Output file: <ep_recoilpol_10312014-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-12-12 11:58:07
+(epstopdf)                    size: 97806 bytes
+(epstopdf)             Command: <repstopdf --outfile=ep_recoilpol_10312014-eps-
+converted-to.pdf ep_recoilpol_10312014.eps>
+(epstopdf)             \includegraphics on input line 357.
+Package epstopdf Info: Output file is already uptodate.
+<ep_recoilpol_10312014-eps-converted-to.pdf, id=46, 417.56pt x 116.435pt>
+File: ep_recoilpol_10312014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ep_recoilpol_10312014-eps-converted-to.pdf>
+Package pdftex.def Info: ep_recoilpol_10312014-eps-converted-to.pdf used on inp
+ut line 357.
+(pdftex.def)             Requested size: 417.55896pt x 116.43471pt.
+ [5 <./ep_recoilpol_10312014-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ep_asymmetry_10312014.eps>
+(epstopdf)                    date: 2014-12-12 11:57:44
+(epstopdf)                    size: 1532952 bytes
+(epstopdf)             Output file: <ep_asymmetry_10312014-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-12-12 11:58:10
+(epstopdf)                    size: 275312 bytes
+(epstopdf)             Command: <repstopdf --outfile=ep_asymmetry_10312014-eps-
+converted-to.pdf ep_asymmetry_10312014.eps>
+(epstopdf)             \includegraphics on input line 423.
+Package epstopdf Info: Output file is already uptodate.
+
+<ep_asymmetry_10312014-eps-converted-to.pdf, id=56, 512.91624pt x 295.1025pt>
+File: ep_asymmetry_10312014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ep_asymmetry_10312014-eps-converted-to.pdf>
+Package pdftex.def Info: ep_asymmetry_10312014-eps-converted-to.pdf used on inp
+ut line 423.
+(pdftex.def)             Requested size: 512.915pt x 295.10176pt.
+
+Overfull \hbox (7.19092pt too wide) in paragraph at lines 466--468
+[]\OT1/cmr/m/n/10 The dis-cus-sion above is only ap-pli-ca-ble to a free electr
+on-
+ []
+
+[6 <./ep_asymmetry_10312014-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 510--532
+
+ []
+
+
+Overfull \hbox (10.26479pt too wide) in paragraph at lines 579--588
+[]\OT1/cmr/m/n/10 The prin-ci-pal rev-e-la-tion com-ing out of the first $\OML/
+cmm/m/it/10 G[]=G[]$
+ []
+
+Package epstopdf Info: Source file: <gepgd_col_log_xmax1.eps>
+(epstopdf)                    date: 2014-12-11 16:29:19
+(epstopdf)                    size: 136252 bytes
+(epstopdf)             Output file: <gepgd_col_log_xmax1-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=gepgd_col_log_xmax1-eps-co
+nverted-to.pdf gepgd_col_log_xmax1.eps>
+(epstopdf)             \includegraphics on input line 594.
+runsystem(repstopdf --outfile=gepgd_col_log_xmax1-eps-converted-to.pdf gepgd_co
+l_log_xmax1.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <gepgd_col_log_xmax1-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-12 12:03:01
+(epstopdf)                    size: 35218 bytes.
+<gepgd_col_log_xmax1-eps-converted-to.pdf, id=62, 483.8075pt x 624.3325pt>
+File: gepgd_col_log_xmax1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gepgd_col_log_xmax1-eps-converted-to.pdf>
+Package pdftex.def Info: gepgd_col_log_xmax1-eps-converted-to.pdf used on input
+ line 594.
+(pdftex.def)             Requested size: 483.80632pt x 624.33098pt.
+Package epstopdf Info: Source file: <gmpgd_spS.eps>
+(epstopdf)                    date: 2014-12-11 16:23:08
+(epstopdf)                    size: 86152 bytes
+(epstopdf)             Output file: <gmpgd_spS-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:13
+(epstopdf)                    size: 25229 bytes
+(epstopdf)             Command: <repstopdf --outfile=gmpgd_spS-eps-converted-to
+.pdf gmpgd_spS.eps>
+(epstopdf)             \includegraphics on input line 605.
+Package epstopdf Info: Output file is already uptodate.
+
+<gmpgd_spS-eps-converted-to.pdf, id=63, 482.80376pt x 615.29875pt>
+File: gmpgd_spS-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gmpgd_spS-eps-converted-to.pdf>
+Package pdftex.def Info: gmpgd_spS-eps-converted-to.pdf used on input line 605.
+
+(pdftex.def)             Requested size: 482.80258pt x 615.29724pt.
+
+Overfull \hbox (3.24655pt too wide) in paragraph at lines 616--622
+\OT1/cmr/m/n/10 non-relativistic scat-ter-ing, as the three-dimensional Fourier
+
+ []
+
+[7 <./gepgd_col_log_xmax1-eps-converted-to.pdf>]
+Overfull \hbox (16.38553pt too wide) in paragraph at lines 631--634
+\OT1/cmr/m/n/10 momentum squared trans-fer is the do-main of non-perturbative
+ []
+
+
+Overfull \hbox (3.07988pt too wide) in paragraph at lines 657--659
+[]\OT1/cmr/m/n/10 Soft Collinear Ef-fec-tive The-ory (SCET), Kivel and Van-
+ []
+
+Package epstopdf Info: Source file: <gepgmp_allpol_allcs_noth_11072014.eps>
+(epstopdf)                    date: 2014-12-11 16:25:37
+(epstopdf)                    size: 89705 bytes
+(epstopdf)             Output file: <gepgmp_allpol_allcs_noth_11072014-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:14
+(epstopdf)                    size: 22671 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgmp_allpol_allcs_noth_1
+1072014-eps-converted-to.pdf gepgmp_allpol_allcs_noth_11072014.eps>
+(epstopdf)             \includegraphics on input line 669.
+Package epstopdf Info: Output file is already uptodate.
+
+<gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf, id=71, 471.7625pt x 61
+2.2875pt>
+File: gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf>
+Package pdftex.def Info: gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf
+ used on input line 669.
+(pdftex.def)             Requested size: 471.76134pt x 612.28601pt.
+Package epstopdf Info: Source file: <gengmn_epja_nolbl_10302014.eps>
+(epstopdf)                    date: 2014-12-11 16:28:04
+(epstopdf)                    size: 37620 bytes
+(epstopdf)             Output file: <gengmn_epja_nolbl_10302014-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:16
+(epstopdf)                    size: 13668 bytes
+(epstopdf)             Command: <repstopdf --outfile=gengmn_epja_nolbl_10302014
+-eps-converted-to.pdf gengmn_epja_nolbl_10302014.eps>
+(epstopdf)             \includegraphics on input line 682.
+Package epstopdf Info: Output file is already uptodate.
+
+<gengmn_epja_nolbl_10302014-eps-converted-to.pdf, id=72, 468.75125pt x 591.2087
+6pt>
+File: gengmn_epja_nolbl_10302014-eps-converted-to.pdf Graphic file (type pdf)
+ <use gengmn_epja_nolbl_10302014-eps-converted-to.pdf>
+Package pdftex.def Info: gengmn_epja_nolbl_10302014-eps-converted-to.pdf used o
+n input line 682.
+(pdftex.def)             Requested size: 468.75009pt x 591.2073pt.
+Package epstopdf Info: Source file: <gmngd_log.eps>
+(epstopdf)                    date: 2014-12-11 16:29:55
+(epstopdf)                    size: 117586 bytes
+(epstopdf)             Output file: <gmngd_log-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:17
+(epstopdf)                    size: 23761 bytes
+(epstopdf)             Command: <repstopdf --outfile=gmngd_log-eps-converted-to
+.pdf gmngd_log.eps>
+(epstopdf)             \includegraphics on input line 693.
+Package epstopdf Info: Output file is already uptodate.
+
+<gmngd_log-eps-converted-to.pdf, id=73, 476.78125pt x 594.22pt>
+File: gmngd_log-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gmngd_log-eps-converted-to.pdf>
+Package pdftex.def Info: gmngd_log-eps-converted-to.pdf used on input line 693.
+
+(pdftex.def)             Requested size: 476.78008pt x 594.21855pt.
+Package epstopdf Info: Source file: <q2f2f1_allpol_11072014.eps>
+(epstopdf)                    date: 2014-12-11 16:26:10
+(epstopdf)                    size: 60789 bytes
+(epstopdf)             Output file: <q2f2f1_allpol_11072014-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2014-12-12 11:54:19
+(epstopdf)                    size: 20541 bytes
+(epstopdf)             Command: <repstopdf --outfile=q2f2f1_allpol_11072014-eps
+-converted-to.pdf q2f2f1_allpol_11072014.eps>
+(epstopdf)             \includegraphics on input line 706.
+Package epstopdf Info: Output file is already uptodate.
+
+<q2f2f1_allpol_11072014-eps-converted-to.pdf, id=74, 471.7625pt x 599.23875pt>
+File: q2f2f1_allpol_11072014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use q2f2f1_allpol_11072014-eps-converted-to.pdf>
+Package pdftex.def Info: q2f2f1_allpol_11072014-eps-converted-to.pdf used on in
+put line 706.
+(pdftex.def)             Requested size: 471.76134pt x 599.23729pt.
+Package epstopdf Info: Source file: <qf2f1_gep3_colss.eps>
+(epstopdf)                    date: 2014-11-24 11:04:19
+(epstopdf)                    size: 78030 bytes
+(epstopdf)             Output file: <qf2f1_gep3_colss-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-11-26 14:33:25
+(epstopdf)                    size: 24600 bytes
+(epstopdf)             Command: <repstopdf --outfile=qf2f1_gep3_colss-eps-conve
+rted-to.pdf qf2f1_gep3_colss.eps>
+(epstopdf)             \includegraphics on input line 717.
+Package epstopdf Info: Output file is already uptodate.
+
+<qf2f1_gep3_colss-eps-converted-to.pdf, id=75, 452.69125pt x 605.26125pt>
+File: qf2f1_gep3_colss-eps-converted-to.pdf Graphic file (type pdf)
+
+<use qf2f1_gep3_colss-eps-converted-to.pdf>
+Package pdftex.def Info: qf2f1_gep3_colss-eps-converted-to.pdf used on input li
+ne 717.
+(pdftex.def)             Requested size: 452.69014pt x 605.25975pt.
+Package epstopdf Info: Source file: <q2f2f1_belitsky_nothss.eps>
+(epstopdf)                    date: 2014-12-11 16:27:03
+(epstopdf)                    size: 69017 bytes
+(epstopdf)             Output file: <q2f2f1_belitsky_nothss-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2014-12-12 11:54:20
+(epstopdf)                    size: 22063 bytes
+(epstopdf)             Command: <repstopdf --outfile=q2f2f1_belitsky_nothss-eps
+-converted-to.pdf q2f2f1_belitsky_nothss.eps>
+(epstopdf)             \includegraphics on input line 728.
+Package epstopdf Info: Output file is already uptodate.
+
+<q2f2f1_belitsky_nothss-eps-converted-to.pdf, id=76, 449.68pt x 587.19376pt>
+File: q2f2f1_belitsky_nothss-eps-converted-to.pdf Graphic file (type pdf)
+
+<use q2f2f1_belitsky_nothss-eps-converted-to.pdf>
+Package pdftex.def Info: q2f2f1_belitsky_nothss-eps-converted-to.pdf used on in
+put line 728.
+(pdftex.def)             Requested size: 449.6789pt x 587.19232pt.
+Package epstopdf Info: Source file: <q2f2f1_neutron_112311.eps>
+(epstopdf)                    date: 2014-12-11 16:23:38
+(epstopdf)                    size: 47720 bytes
+(epstopdf)             Output file: <q2f2f1_neutron_112311-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-12-12 11:54:22
+(epstopdf)                    size: 17299 bytes
+(epstopdf)             Command: <repstopdf --outfile=q2f2f1_neutron_112311-eps-
+converted-to.pdf q2f2f1_neutron_112311.eps>
+(epstopdf)             \includegraphics on input line 740.
+Package epstopdf Info: Output file is already uptodate.
+
+<q2f2f1_neutron_112311-eps-converted-to.pdf, id=77, 477.785pt x 601.24625pt>
+File: q2f2f1_neutron_112311-eps-converted-to.pdf Graphic file (type pdf)
+
+<use q2f2f1_neutron_112311-eps-converted-to.pdf>
+Package pdftex.def Info: q2f2f1_neutron_112311-eps-converted-to.pdf used on inp
+ut line 740.
+(pdftex.def)             Requested size: 477.78383pt x 601.24477pt.
+Package epstopdf Info: Source file: <q2f2f1_neutron_belitzky_052212.eps>
+(epstopdf)                    date: 2014-12-11 16:24:04
+(epstopdf)                    size: 48822 bytes
+(epstopdf)             Output file: <q2f2f1_neutron_belitzky_052212-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:23
+(epstopdf)                    size: 17816 bytes
+(epstopdf)             Command: <repstopdf --outfile=q2f2f1_neutron_belitzky_05
+2212-eps-converted-to.pdf q2f2f1_neutron_belitzky_052212.eps>
+(epstopdf)             \includegraphics on input line 751.
+Package epstopdf Info: Output file is already uptodate.
+
+<q2f2f1_neutron_belitzky_052212-eps-converted-to.pdf, id=78, 471.7625pt x 601.2
+4625pt>
+File: q2f2f1_neutron_belitzky_052212-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use q2f2f1_neutron_belitzky_052212-eps-converted-to.pdf>
+Package pdftex.def Info: q2f2f1_neutron_belitzky_052212-eps-converted-to.pdf us
+ed on input line 751.
+(pdftex.def)             Requested size: 471.76134pt x 601.24477pt.
+
+
+LaTeX Warning: Reference `fig:q2f2f1' on page 8 undefined on input line 772.
+
+[8 <./gmpgd_spS-eps-converted-to.pdf> <./gepgmp_allpol_allcs_noth_11072014-eps-
+converted-to.pdf> <./gengmn_epja_nolbl_10302014-eps-converted-to.pdf>] [9 <./gm
+ngd_log-eps-converted-to.pdf> <./q2f2f1_allpol_11072014-eps-converted-to.pdf> <
+./qf2f1_gep3_colss-eps-converted-to.pdf> <./q2f2f1_belitsky_nothss-eps-converte
+d-to.pdf> <./q2f2f1_neutron_112311-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `fig:q2f2f1' on page 10 undefined on input line 786.
+
+
+LaTeX Warning: Reference `fig:q2f2f1' on page 10 undefined on input line 804.
+
+
+LaTeX Warning: Reference `fig:qf2f1' on page 10 undefined on input line 806.
+
+Package epstopdf Info: Source file: <f2andf1_11282014.eps>
+(epstopdf)                    date: 2014-12-09 10:34:58
+(epstopdf)                    size: 99231 bytes
+(epstopdf)             Output file: <f2andf1_11282014-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-09 10:44:15
+(epstopdf)                    size: 30228 bytes
+(epstopdf)             Command: <repstopdf --outfile=f2andf1_11282014-eps-conve
+rted-to.pdf f2andf1_11282014.eps>
+(epstopdf)             \includegraphics on input line 823.
+Package epstopdf Info: Output file is already uptodate.
+<f2andf1_11282014-eps-converted-to.pdf, id=101, 484.81125pt x 604.2575pt>
+File: f2andf1_11282014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use f2andf1_11282014-eps-converted-to.pdf>
+Package pdftex.def Info: f2andf1_11282014-eps-converted-to.pdf used on input li
+ne 823.
+(pdftex.def)             Requested size: 484.81006pt x 604.25603pt.
+Package epstopdf Info: Source file: <f2andf1_magn_11282014.eps>
+(epstopdf)                    date: 2014-12-09 10:35:40
+(epstopdf)                    size: 51454 bytes
+(epstopdf)             Output file: <f2andf1_magn_11282014-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-12-09 10:44:16
+(epstopdf)                    size: 18576 bytes
+(epstopdf)             Command: <repstopdf --outfile=f2andf1_magn_11282014-eps-
+converted-to.pdf f2andf1_magn_11282014.eps>
+(epstopdf)             \includegraphics on input line 836.
+Package epstopdf Info: Output file is already uptodate.
+
+<f2andf1_magn_11282014-eps-converted-to.pdf, id=102, 477.785pt x 621.32124pt>
+File: f2andf1_magn_11282014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use f2andf1_magn_11282014-eps-converted-to.pdf>
+Package pdftex.def Info: f2andf1_magn_11282014-eps-converted-to.pdf used on inp
+ut line 836.
+(pdftex.def)             Requested size: 477.78383pt x 621.31973pt.
+) (./experimental_status.tex
+(./experimental_status_intro.tex
+
+LaTeX Warning: Citation `rosen' on page 10 undefined on input line 3.
+
+[10 <./q2f2f1_neutron_belitzky_052212-eps-converted-to.pdf> <./f2andf1_11282014
+-eps-converted-to.pdf> <./f2andf1_magn_11282014-eps-converted-to.pdf>])
+(./experimental_status_cross_section.tex)
+(./experimental_status_polarization_transfer.tex
+
+LaTeX Warning: Citation `powell' on page 11 undefined on input line 14.
+
+[11]
+Package epstopdf Info: Source file: <gepgmp_world_027_bw_p.eps>
+(epstopdf)                    date: 2014-12-11 16:27:30
+(epstopdf)                    size: 80670 bytes
+(epstopdf)             Output file: <gepgmp_world_027_bw_p-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2014-12-12 11:54:25
+(epstopdf)                    size: 26416 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgmp_world_027_bw_p-eps-
+converted-to.pdf gepgmp_world_027_bw_p.eps>
+(epstopdf)             \includegraphics on input line 70.
+Package epstopdf Info: Output file is already uptodate.
+
+<gepgmp_world_027_bw_p-eps-converted-to.pdf, id=115, 483.8075pt x 612.2875pt>
+File: gepgmp_world_027_bw_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gepgmp_world_027_bw_p-eps-converted-to.pdf>
+Package pdftex.def Info: gepgmp_world_027_bw_p-eps-converted-to.pdf used on inp
+ut line 70.
+(pdftex.def)             Requested size: 184.9429pt x 234.0544pt.
+
+
+LaTeX Warning: Reference `fig:gmpgd' on page 12 undefined on input line 74.
+
+
+LaTeX Warning: Reference `fig:gmpgd' on page 12 undefined on input line 74.
+
+
+LaTeX Warning: Reference `sec:twophoton' on page 12 undefined on input line 115
+.
+
+
+Overfull \hbox (8.52434pt too wide) in paragraph at lines 105--116
+\OT1/cmr/m/n/10 defini-tively dif-fer-ent re-sults; the dif-fer-ence can-not be
+ bridged
+ []
+
+[12 <./gepgmp_world_027_bw_p-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <gepgmp_allpol_allcs_noth_11072014.eps>
+(epstopdf)                    date: 2014-12-11 16:25:37
+(epstopdf)                    size: 89705 bytes
+(epstopdf)             Output file: <gepgmp_allpol_allcs_noth_11072014-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-12-12 11:54:14
+(epstopdf)                    size: 22671 bytes
+(epstopdf)             Command: <repstopdf --outfile=gepgmp_allpol_allcs_noth_1
+1072014-eps-converted-to.pdf gepgmp_allpol_allcs_noth_11072014.eps>
+(epstopdf)             \includegraphics on input line 131.
+Package epstopdf Info: Output file is already uptodate.
+File: gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf Graphic file (type
+ pdf)
+
+<use gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf>
+Package pdftex.def Info: gepgmp_allpol_allcs_noth_11072014-eps-converted-to.pdf
+ used on input line 131.
+(pdftex.def)             Requested size: 184.9429pt x 240.03375pt.
+
+Overfull \hbox (0.8582pt too wide) in paragraph at lines 139--143
+\OT1/cmr/m/n/10 po-lar-iza-tion ex-per-i-ments [22, 50, 19, 96--99, 105, 106, 1
+13], as
+ []
+
+
+Underfull \vbox (badness 1286) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `fig:q2f2f1' on page 13 undefined on input line 157.
+
+) (./experimental_status_discrepancies.tex)
+(./experimental_status_proton_charge_radius.tex)
+(./experimental_status_flavor_separation.tex)) (./theory.tex
+
+LaTeX Warning: Reference `theory_dispersion' on page 13 undefined on input line
+ 24.
+
+
+LaTeX Warning: Reference `theory_models' on page 13 undefined on input line 35.
+
+
+
+LaTeX Warning: Reference `theory_models' on page 13 undefined on input line 43.
+
+
+
+LaTeX Warning: Reference `sec:rad' on page 13 undefined on input line 46.
+
+
+LaTeX Warning: Reference `theory_eft' on page 13 undefined on input line 51.
+
+
+LaTeX Warning: Reference `sec:lattice' on page 13 undefined on input line 56.
+
+
+LaTeX Warning: Reference `theory_gpd' on page 13 undefined on input line 68.
+
+
+LaTeX Warning: Reference `theory_pqcd' on page 13 undefined on input line 79.
+
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+<ff_vmd.pdf, id=129, 98.3675pt x 81.30376pt>
+File: ff_vmd.pdf Graphic file (type pdf)
+ <use ff_vmd.pdf>
+Package pdftex.def Info: ff_vmd.pdf used on input line 141.
+(pdftex.def)             Requested size: 85.35826pt x 70.55006pt.
+
+
+LaTeX Warning: Citation `iach' on page 15 undefined on input line 162.
+
+
+LaTeX Warning: Citation `gari' on page 15 undefined on input line 166.
+
+
+LaTeX Warning: Reference `theory_pqcd' on page 15 undefined on input line 168.
+
+
+LaTeX Warning: Citation `iach' on page 15 undefined on input line 184.
+
+<f2andf1_pandn_col.pdf, id=130, 501.875pt x 638.385pt>
+File: f2andf1_pandn_col.pdf Graphic file (type pdf)
+
+<use f2andf1_pandn_col.pdf>
+Package pdftex.def Info: f2andf1_pandn_col.pdf used on input line 208.
+(pdftex.def)             Requested size: 180.67499pt x 229.81842pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./ff_vmd.pdf> <./f2andf1_pandn_col.pdf>]
+Overfull \hbox (2.46869pt too wide) in paragraph at lines 230--231
+[]\OT1/cmr/m/n/10 Dispersion re-la-tions re-late the form fac-tors in the space
+-
+ []
+
+
+LaTeX Warning: Citation `isgur' on page 16 undefined on input line 263.
+
+
+LaTeX Warning: Citation `Koniuk:1979vy' on page 16 undefined on input line 280.
+
+
+
+LaTeX Warning: Citation `Berestetsky' on page 16 undefined on input line 376.
+
+
+LaTeX Warning: Citation `schlumpf' on page 16 undefined on input line 403.
+
+
+Overfull \hbox (8.24652pt too wide) in paragraph at lines 250--417
+\OT1/cmr/m/n/10 change leads to a color hy-per-fine in-ter-ac-tion be-tween qua
+rks,
+ []
+
+
+Overfull \hbox (11.91328pt too wide) in paragraph at lines 250--417
+\OT1/cmr/m/n/10 the non-sphericity (or de-for-ma-tion) is given by its quadrupo
+le
+ []
+
+
+Overfull \hbox (3.88538pt too wide) in paragraph at lines 250--417
+[]\OT1/cmr/m/n/10 The non-relativistic CQM, de-spite its sim-plic-ity, is quite
+
+ []
+
+
+Overfull \hbox (2.85773pt too wide) in paragraph at lines 250--417
+\OT1/cmr/m/n/10 time com-po-nent of the four-momentum and the three boost
+ []
+
+
+Overfull \hbox (22.4315pt too wide) in paragraph at lines 250--417
+\OT1/cmr/m/n/10 yields a sur-pris-ingly good agree-ment for the ob-served $\OML
+/cmm/m/it/10 G[]=G[]$
+ []
+
+
+Overfull \hbox (6.27437pt too wide) in paragraph at lines 250--417
+\OT1/cmr/m/n/10 nal mo-men-tum vari-ables. The two pa-ram-e-ters in Schlumpf's
+ []
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<gepgmp_jlab_vsCQM_col.pdf, id=144, 476.78125pt x 609.27625pt>
+File: gepgmp_jlab_vsCQM_col.pdf Graphic file (type pdf)
+
+<use gepgmp_jlab_vsCQM_col.pdf>
+Package pdftex.def Info: gepgmp_jlab_vsCQM_col.pdf used on input line 421.
+(pdftex.def)             Requested size: 142.26378pt x 181.79881pt.
+
+
+LaTeX Warning: Citation `punjabi05' on page 17 undefined on input line 438.
+
+
+LaTeX Warning: Citation `gayou2' on page 17 undefined on input line 438.
+
+
+LaTeX Warning: Citation `punjabi05' on page 17 undefined on input line 438.
+
+
+LaTeX Warning: Citation `gayou2' on page 17 undefined on input line 438.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `Petronzio:2003bw' on page 17 undefined on input line 4
+67.
+
+
+Overfull \hbox (0.32976pt too wide) in paragraph at lines 444--587
+[]\OT1/cmr/m/n/10 The WFs in the cal-cu-la-tions de-scribed above were how-
+ []
+
+
+Overfull \hbox (6.80214pt too wide) in paragraph at lines 444--587
+\OT1/cmr/m/n/10 only con-sid-ers the lin-ear con-fine-ment po-ten-tial in the m
+odel. 
+ []
+
+
+Overfull \hbox (7.28828pt too wide) in paragraph at lines 444--587
+\OT1/cmr/m/n/10 Gross and Ag-bakpe [139], us-ing a co-vari-ant spec-ta-tor mode
+l.
+ []
+
+
+Overfull \hbox (0.56589pt too wide) in paragraph at lines 444--587
+\OT1/cmr/m/n/10 As-sum-ing a sim-ple pure $\OML/cmm/m/it/10 S$\OT1/cmr/m/n/10 -
+wave form for the nu-cleon three-
+ []
+
+[17]
+Underfull \vbox (badness 1694) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./gepgmp_jlab_vsCQM_col.pdf>]
+
+LaTeX Warning: Citation `Oset:1984tv' on page 19 undefined on input line 652.
+
+
+LaTeX Warning: Citation `holzwarth' on page 19 undefined on input line 718.
+
+
+Overfull \hbox (19.8844pt too wide) in paragraph at lines 598--719
+\OT1/cmr/m/n/10 fects have to be treated non-perturbatively. A non-perturbative
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+
+LaTeX Warning: Citation `holzwarth' on page 20 undefined on input line 729.
+
+
+LaTeX Warning: Citation `holzwarth' on page 20 undefined on input line 732.
+
+
+LaTeX Warning: Reference `sec:rad' on page 20 undefined on input line 738.
+
+
+Overfull \hbox (2.38548pt too wide) in paragraph at lines 765--767
+\OT1/cmr/m/n/10 come func-tions of mo-men-tum be-cause of in-ter-ac-tions. With
+
+ []
+
+<F3Segovia.pdf, id=157, 361.35pt x 256.96pt>
+File: F3Segovia.pdf Graphic file (type pdf)
+ <use F3Segovia.pdf>
+Package pdftex.def Info: F3Segovia.pdf used on input line 777.
+(pdftex.def)             Requested size: 236.15787pt x 167.93558pt.
+ [20 <./F3Segovia.pdf>] <ff_pqcd.pdf, id=182, 423.5825pt x 182.6825pt>
+File: ff_pqcd.pdf Graphic file (type pdf)
+ <use ff_pqcd.pdf>
+Package pdftex.def Info: ff_pqcd.pdf used on input line 820.
+(pdftex.def)             Requested size: 170.71652pt x 73.6264pt.
+
+
+LaTeX Warning: Citation `Chernyak:1977as' on page 21 undefined on input line 84
+9.
+
+
+LaTeX Warning: Citation `Chernyak:1977fk' on page 21 undefined on input line 84
+9.
+
+
+LaTeX Warning: Reference `scaling' on page 21 undefined on input line 876.
+
+
+LaTeX Warning: Reference `scaling' on page 21 undefined on input line 899.
+
+<f1f2p.pdf, id=183, 654.445pt x 711.65875pt>
+File: f1f2p.pdf Graphic file (type pdf)
+ <use f1f2p.pdf>
+Package pdftex.def Info: f1f2p.pdf used on input line 906.
+(pdftex.def)             Requested size: 156.99011pt x 170.71652pt.
+
+<q2f2f1_belitsky_mod_col.pdf, id=184, 524.96124pt x 636.3775pt>
+File: q2f2f1_belitsky_mod_col.pdf Graphic file (type pdf)
+
+<use q2f2f1_belitsky_mod_col.pdf>
+Package pdftex.def Info: q2f2f1_belitsky_mod_col.pdf used on input line 908.
+(pdftex.def)             Requested size: 140.82025pt x 170.71652pt.
+
+
+LaTeX Warning: Citation `punjabi05' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Citation `gayou1' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Citation `gayou2' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Citation `punjabi05' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Citation `gayou1' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Citation `gayou2' on page 21 undefined on input line 922.
+
+
+LaTeX Warning: Reference `theory_gpd' on page 21 undefined on input line 967.
+
+
+LaTeX Warning: Reference `scaling' on page 21 undefined on input line 975.
+
+
+Overfull \hbox (3.71875pt too wide) in paragraph at lines 832--988
+\OT1/cmr/m/n/10 hard am-pli-tude can be writ-ten in a fac-tor-ized form [\OT1/c
+mr/bx/n/10 ?\OT1/cmr/m/n/10 ,\OT1/cmr/bx/n/10 ?\OT1/cmr/m/n/10 ,170,
+ []
+
+
+Overfull \hbox (5.1354pt too wide) in paragraph at lines 832--988
+\OT1/cmr/m/n/10 ces-si-ble mo-men-tum trans-fers rel-a-tive to the Feyn-man mec
+h-
+ []
+
+
+Overfull \hbox (2.30101pt too wide) in paragraph at lines 832--988
+\OT1/cmr/m/n/10 ated within the light-cone sum rule (LCSR) ap-proach [179].
+ []
+
+
+Overfull \hbox (3.4537pt too wide) in paragraph at lines 832--988
+\OT1/cmr/m/n/10 nents in the nu-cleon WFs. One can use a GPD parametriza-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <./ff_pqcd.pdf>]
+Underfull \vbox (badness 5374) has occurred while \output is active []
+
+
+Overfull \hbox (2.9992pt too wide) in paragraph at lines 999--1071
+[]\OT1/cmr/m/n/10 The DVCS pro-cess cor-re-sponds to the kine-mat-ics $\OML/cmm
+/m/it/10 Q[] \OMS/cmsy/m/n/10 ^^]
+ []
+
+[22 <./f1f2p.pdf> <./q2f2f1_belitsky_mod_col.pdf>]
+<n_dvcs.pdf, id=211, 399.4925pt x 200.75pt>
+File: n_dvcs.pdf Graphic file (type pdf)
+ <use n_dvcs.pdf>
+Package pdftex.def Info: n_dvcs.pdf used on input line 1115.
+(pdftex.def)             Requested size: 170.71652pt x 85.78781pt.
+
+Overfull \hbox (2.62155pt too wide) in paragraph at lines 1131--1163
+\OT1/cmr/m/n/10 ish-ing mo-men-tum trans-fer, the GPDs have in-ter-est-ing link
+s
+ []
+
+[23 <./n_dvcs.pdf>] <gegmproton_col.pdf, id=242, 626.34pt x 626.34pt>
+File: gegmproton_col.pdf Graphic file (type pdf)
+
+<use gegmproton_col.pdf>
+Package pdftex.def Info: gegmproton_col.pdf used on input line 1260.
+(pdftex.def)             Requested size: 184.9429pt x 184.94072pt.
+ <gegmneutron_col.pdf, id=243, 626.34pt x 626.34pt>
+File: gegmneutron_col.pdf Graphic file (type pdf)
+
+<use gegmneutron_col.pdf>
+Package pdftex.def Info: gegmneutron_col.pdf used on input line 1261.
+(pdftex.def)             Requested size: 184.9429pt x 184.94072pt.
+
+
+LaTeX Warning: Citation `andivahis' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `gayou1' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `gayou2' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `punjabi05' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `rock' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `brooks' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `andivahis' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `gayou1' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `gayou2' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `punjabi05' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `rock' on page 24 undefined on input line 1290.
+
+
+LaTeX Warning: Citation `brooks' on page 24 undefined on input line 1290.
+
+
+Overfull \hbox (6.1354pt too wide) in paragraph at lines 1297--1317
+\OT1/cmr/m/n/10 mag-netic FFs are shown. One ob-serves that the 3-parameter
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24 <./gegmproton_col.pdf> <./gegmneutron_col.pdf>]) (./nuc_ff_review.bbl [25]
+
+Underfull \hbox (badness 5533) in paragraph at lines 123--125
+[]\OT1/cmr/m/n/9 R. Pohl, R. Gilman, G.A. Miller, K. Pachucki,
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 133--134
+[]\OT1/cmr/m/n/9 M. Diehl, P. Kroll, Eur.Phys.J. \OT1/cmr/bx/n/9 C73\OT1/cmr/m/
+n/9 , 2397 (2013),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+[]\OT1/cmr/m/n/9 C. Per-drisat, V. Pun-jabi, M. Van-der-haeghen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
+[]\OT1/cmr/m/n/9 J. Ar-ring-ton, K. de Jager, C.F. Per-drisat,
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 168--170
+[]\OT1/cmr/m/n/9 I. Clo^^?et, G. Eich-mann, B. El-Bennich, T. Klahn,
+ []
+
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ¶ in font cmr9!
+
+Underfull \hbox (badness 5771) in paragraph at lines 285--287
+[]\OT1/cmr/m/n/9 B. Schlimme, P. Achen-bach, C. Ayerbe Gayoso,
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 289--291
+[]\OT1/cmr/m/n/9 D. Glazier, M. Seimetz, J. An-nand, H. Aren-hovel,
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
+[]\OT1/cmr/m/n/9 M. Meziane et al. (GEp2gamma Col-lab-o-ra-tion),
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 402--403
+[]\OT1/cmr/m/n/9 R.J. Hill, G. Paz, Phys.Rev. \OT1/cmr/bx/n/9 D82\OT1/cmr/m/n/9
+ , 113005 (2010),
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 498--500
+[]\OT1/cmr/m/n/9 R.F. Wa-gen-brunn, S. Boffi, W. Klink, W. Plessas,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+[]\OT1/cmr/m/n/9 R. Wa-gen-brunn, T. Melde, W. Plessas (2005),
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 512--514
+[]\OT1/cmr/m/n/9 D. Merten, U. Lor-ing, K. Kret-zschmar, B. Metsch,
+ []
+
+[27]
+Underfull \hbox (badness 3354) in paragraph at lines 718--720
+[]\OT1/cmr/m/n/9 W. Al-berico, S. Bilenky, C. Giunti, K. Graczyk,
+ []
+
+./nuc_ff_review.bbl:725: Missing } inserted.
+<inserted text> 
+                }
+l.725 \end{thebibliography}
+                           
+? 
+) [28
+
+] (./nuc_ff_review.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2439 strings out of 493117
+ 35990 string characters out of 6135433
+ 111330 words of memory out of 5000000
+ 5819 multiletter control sequences out of 15000+600000
+ 14968 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,11n,29p,1988b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on nuc_ff_review.pdf (28 pages, 1380801 bytes).
+PDF statistics:
+ 364 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+

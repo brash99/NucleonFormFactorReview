@@ -1,0 +1,1353 @@
+{\tiny }\section{Theoretical Interpretations of Nucleon Form Factors}
+\label{sec:theory}
+
+Placeholder text.
+
+In this section we give an overview of the theoretical understanding 
+of the nucleon e.m. FFs. 
+These FFs encode the information on the structure of a  
+strongly interacting many-body system of quarks and gluons, 
+such as the nucleon. 
+This field has a long history and many theoretical 
+attempts have been made to understand the nucleon FFs. 
+This reflects the fact that a direct calculation of nucleon FFs from the 
+underlying theory, Quantum Chromodynamics (QCD), is complicated as it 
+requires, in the few GeV momentum transfer region,  
+non-perturbative methods. Hence, in practice it involves approximations 
+which often have a limited range of applicability. 
+Despite their approximations and limitations, some of these non-perturbative 
+methods do reveal some insight in the nucleon structure. 
+\newline
+\indent
+The earliest models to explain the global features of the nucleon FFs, such 
+as its approximate dipole behavior, were vector meson dominance (VMD) models 
+which are discussed in Sect.~\ref{theory_dispersion}. 
+In this picture the photon couples to the nucleon through the exchange of 
+vector mesons. Such VMD models are a special case of more general dispersion 
+relation fits, 
+which allow to relate time-like and space-like FFs, and which are
+discussed subsequently. 
+\newline
+\indent
+To understand the structure of the nucleon in terms of quark and gluon degrees
+of freedom, constituent quark models have a long history. We discuss the 
+intricacies in describing a bound system of relativistic constituent quarks 
+and review the resulting predictions for FFs in Sect.~\ref{theory_models}. 
+Despite some of their successes, models based on quarks alone do suffer from 
+the evident shortcoming that they do not satisfy the global chiral symmetry 
+of QCD when rotating left and right handed light quarks in flavor space. 
+This chiral symmetry is broken spontaneously in nature, 
+and the resulting Goldstone bosons are pions. Since they are the lightest 
+hadrons, they dominate the low momentum transfer behavior of form factors, 
+and manifest themselves in a pion cloud surrounding the nucleon. Such pion
+cloud models will also be discussed in Sect.~\ref{theory_models}. 
+\newline
+\indent 
+In Sect.~\ref{sec:rad}, we discuss the spatial 
+information which can be obtained from the nucleon FFs, and discuss 
+both radial densities and the issue of shape of the nucleon. 
+\newline
+\indent
+Sect.~\ref{theory_eft} describes the chiral 
+effective field theory of QCD and their predictions for nucleon FFs at low 
+momentum transfers, where such perturbative expansions are applicable. 
+\newline
+\indent
+In Sect.~\ref{sec:lattice}, we shall discuss the lattice QCD simulations, 
+which have the potential to calculate nucleon FFs from first principles. 
+This is a rapidly developing field and important progress has been made in the 
+recent past. Nevertheless, the lattice calculations 
+are at present still severely limited by available computing 
+power and in practice are performed for quark masses sizably larger than their 
+values in nature. We will discuss the issues in such calculations and compare 
+recent results. It will also be discussed how the chiral effective field
+theory can be useful in extrapolating present lattice QCD calculations to the 
+physical pion mass.  
+\newline
+\indent
+In Sect.~\ref{theory_gpd}, we discuss the quark structure of the nucleon and 
+discuss generalized parton distributions (GPDs) of the nucleon. 
+These GPDs are being accessed in hard exclusive reactions, which allow to 
+remove in a controlled way a quark 
+from the initial nucleon and implanting instead another quark in the final 
+nucleon. The resulting GPDs can be interpreted as quark correlation functions 
+and have the property that their first moments exactly coincide with the
+nucleon FFs. We discuss the information which has been obtained on GPDs 
+from fits of their first moments to the precise FF data set.   
+\newline
+\indent
+Finally, in Sect.~\ref{theory_pqcd}, we discuss the nucleon FFs in the 
+framework of perturbative QCD. These considerations are only valid 
+at very small distances, where quarks nearly do not interact. In this limit, 
+the nucleon FFs correspond to a hard photon which hits a valence quark 
+in the nucleon, which then shares the momentum with the other (near collinear)
+valence quarks through gluon exchange. 
+We discuss the predictions made in this limit and confront them with the
+experimental status for Dirac and Pauli FFs at large momentum transfers.
+
+
+\subsection{Models of Nucleon Form Factors}
+\label{subsec:models}
+
+%
+\subsubsection{Conformal fits to Form Factors}
+\label{subsubsec:cf}
+
+There has been a lively, at least to those engaged in it, discussion of what sorts of functions to use in fitting the form factors.  Simple polynomial fits, for example,  will not converge for moderate or large momentum transfers.   The reason flows from the fact that the form factors are, from a mathematical viewpoint, analytic functions of their argument $Q^2 = -q^2$, except for cuts at known locations.  The cuts are on the timelike side, and begin where one can have a photon to two pion transition at $q^2 = 4 m_\pi^2$.  A cut can be viewed as a weighted continuum of poles, so that there is a contribution to the form factor containing a factor $1/(q^2 - 4 m_\pi^2)$.  The weighting of this pole may be weak, but in principle its existence means that a polynomial expansion of the form factor will not converge for $Q^2 \ge 4 m_\pi^2$.  It is like the expansion of the geometric series $1/(1-x)$, which does not converge for $|x| \ge 1$;  simply replace $x$ by $q^2/(4m_\pi^2)$.
+
+However, it is possible to make a mapping of $Q^2$ to another variable, denote it $z$, where a polynomial expansion in $z$ is allowed.  The trick is to find a transformation where spacelike momentum transfers all map onto the real line $|z| < 1$ and timelike momentum transfers map onto the circle $z =1$ (in the complex $z$-plane).  Then since all poles of the form factors lie on the unit circle in $z$, a polynomial expansion in $z$ is convergent everywhere inside the unit circle, \textit{i.e.,} for all spacelike momentum transfers.
+
+This trick has been applied in the context of Weak interaction form factors, as for semileptonic meson decay, for some time~\cite{Boyd:1995sq,Bourrely:2008za}.  It has more recently been applied to fitting electromagnetic form factors~\cite{Hill:2010yb,Lorenz:2014vha}.
+
+The variable $z$ can be given by the conformal mapping~\cite{Hill:2010yb,Lorenz:2014vha}, with $t = q^2$,
+\begin{equation}
+z(t,t_{\rm cut}) = \frac{ \sqrt{t_{\rm cut} - t} - \sqrt{t_{\rm cut}}}
+					{ \sqrt{t_{\rm cut} - t} + \sqrt{t_{\rm cut}}}	\,,
+\end{equation}
+where $t_{\rm cut} = 4 m_\pi^2$ and one can easily enough verify that the mapping has the properties stated above.
+
+Fitting with a nonconvergent expansion can give good analytic fits to the data in any region where there is data to be fit.  The danger lies in extending them outside the region where there is data.  Such extrapolations can go awry,  sometimes diverging wildly from physical expectation and sometimes, depending on how far one extrapolates, there may be problems that are less visible.  Here enters also the proton radius question, whose evaluation from form factors requires an extrapolation from the lowest $Q^2$ where there is data down to $Q^2 = 0$.  Extrapolating a fit made with an intrinsically convergent expansion is arguable safer.
+
+The two fits made to the electromagnetic form factors using the conformal variable $z$, however, differ in their conclusions regarding the proton charge radius.  The earlier fit~\cite{Hill:2010yb}  used electron-proton scattering data available before the Mainz experiment~\cite{Bernauer:2010wm} published in 2010.   They found a proton radius $R_E^p =  0.870\pm 0.023 \pm 0.012$,  so their central value is closer to the CODATA value than to the muonic Lamb shift value.  The other fit~\cite{Lorenz:2014vha} used the 1422 data points from the Mainz experiment, and obtained $R_E^p = 0.840 \pm 0.015$ fm (see also~\cite{Lorenz:2014yda}).
+
+
+
+%%%%%%%%
+
+\subsubsection{Vector Meson Dominance (VMD)}
+\label{subsubsec:vmd}
+
+%%%%%%%%%%%
+
+Placeholder text
+
+The starting point in understanding the interaction of a vector probe 
+such as the photon with a hadronic system is provided by the observation 
+that the lowest lying hadrons with vector quantum numbers 
+are the vector mesons $\rho(770)$, $\omega(782)$ and $\phi(1020)$. 
+In the process $e^+ e^- \to hadrons$, these vector mesons show up as 
+prominent resonances at the corresponding values of the $e^+ e^-$  
+squared $c.m.$ energy $q^2 > 0$. 
+One therefore expects that in the elastic electron scattering process 
+on the nucleon, $e N \to e N$, the nucleon electromagnetic FFs 
+at low space-like momentum transfers, $q^2 < 0$, will be dominated by these 
+lowest lying singularities from the time-like region. 
+A large class of models for $F_1$ and $F_2$ are based on this vector 
+meson dominance (VMD) hypothesis, as depicted in~\ref{vmd}.
+%
+\begin{figure}[h]
+\centerline{
+\includegraphics[width = 3 cm]{ff_vmd.pdf}
+}
+\caption{\small The vector meson dominance picture for the coupling of the  
+photon (with four-momentum $q$) to a nucleon. }
+\label{vmd}
+\end{figure}
+%
+\newline
+\indent
+Within such VMD models, the approximate dipole behavior of the nucleon 
+e.m. FFs, see Eq.~(\ref{eq:dipole}), can be understood as being due to the 
+contribution of two nearby vector meson poles which have opposite residua. 
+Assume that one considers two vector meson pole contributions in \ref{vmd} 
+(with masses $m_{V1}$ and $m_{V2}$ 
+and residua of equal magnitude and opposite sign $a$ and $-a$ respectively), 
+one obtains~:
+\begin{eqnarray}
+F_{1,2} (q^2) &\sim& \frac{a}{q^2 - m_{V1}^2} + \frac{(-a)}{q^2 - m_{V2}^2} 
+			\nonumber\\
+&=& \frac{a \, (m_{V1}^2 - m_{V2}^2)}{(q^2 - m_{V1}^2) (q^2 - m_{V2}^2)}.
+\end{eqnarray}
+\indent
+An early VMD fit was performed by Iachello {\it et al.}~\cite{iach} and  
+predicted a linear decrease of the proton $G_{Ep} / G_{Mp}$ ratio, which 
+is in basic agreement with the result from the polarization transfer 
+experiments. Such VMD models have been extended by Gari and 
+Kr\"umpelmann~\cite{gari} to include the perturbative QCD (pQCD) 
+scaling relations~\cite{brodlep}, which 
+state that (see Sect.~\ref{theory_pqcd}) $F_1 \sim 1/Q^4$, and  
+$F_2 / F_1 \sim 1/Q^2$.
+\newline
+\indent
+In more recent years, extended VMD fits which provide 
+a relatively good parameterization of  
+all nucleon e.m. FFs have been obtained. An example is Lomon's 
+fit~\cite{lomon}, using $\rho(770)$, $\omega(782)$, $\phi(1020)$, 
+and $\rho^\prime(1450)$ mesons and containing 11 parameters. 
+Another such recent parameterization 
+by Bijker and Iachello~\cite{bijker} including 
+$\rho(770)$, $\omega(782)$, and $\phi(1020)$ mesons only achieves a 
+good fit by adding a phenomenological contribution attributed to a 
+quarklike intrinsic $qqq$ structure (of $rms$ radius $\sim 0.34$~fm) 
+besides the vector-meson exchange terms. The pQCD scaling relations are 
+built into this fit which has 6 free parameters which are fit to the data. 
+In contrast to the early fit of Ref.~\cite{iach}, the new fit of 
+Ref.~\cite{bijker} gives a very good description of the neutron data, 
+albeit at the expense of a slightly worse fit for the proton data. 
+\newline 
+\indent
+It will be interesting to check the resulting VMD fits 
+for the neutron FFs to larger $Q^2$. 
+In this regard, an interesting ``prediction'' can be drawn when the FFs 
+$F_2$ and $F_1$ obtained directly from double
+polarization experiments are shown in the same graph for the 
+proton and the neutron, as in Fig.~\ref{fig:f2andf1}. 
+It is remarkable that both $F_1$ and $F_2$ tend toward the 
+same value for proton and neutron, and may meet at a $Q^2$ value 
+which will soon be accessible for the neutron. 
+This conclusion is influenced by the VMD fits shown in the same figure, 
+and rests on their extrapolation for the neutron to larger $Q^2$.  
+Note that the VMD fits shown include all data for p and n, 
+but selects the recoil polarization over the Rosenbluth results 
+for $Q^2$ larger than 1 GeV$^2$.  
+
+
+%
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width = 2.5 in]{f2andf1_pandn_col.pdf}
+\caption{\small The FFs $F_1$ and $F_2$ for the proton and the neutron obtained
+from double polarization experiments only.
+The values of $F_2$ and $F_1$ were obtained from the experimental FF ratios
+using fitted values to the data base for $G_{Mp}$ and $G_{Mn}$. 
+For the proton data, the fit from \cite{kelly04} was used; 
+for the neutron data in \cite{madey} the fit from \cite{kelly04}, and 
+in \cite{warren} the fit from \cite{kubon} were used. 
+The curves are the VMD fits of Lomon~\cite{lomon}
+and of Bijker and Iachello~\cite{bijker}.}
+\label{fig:f2andf1}
+\end{center}
+\end{figure}
+
+
+
+
+\subsubsection{Dispersion Analyses}
+\label{subsubsec:da}
+
+Newer works here include the dispersive analyses of the nucleon form factors by workers in Bonn~\cite{Lorenz:2012tm,Lorenz:2014vha,Lorenz:2014yda}.  Older works include~\cite{Baldini:2005xx,Belushkin:2006qa,BaldiniFerroli:2012pr}.  The works include general analyses and fits to the form factors, as well as aspects directly aimed at the resolution of the proton radius puzzle~\cite{Lorenz:2012tm,Lorenz:2014vha,Lorenz:2014yda}.
+
+Dispersion relations relate the form factors in the spacelike and timelike regions.  More generally, the form factors are complex functions of $q^2$ that are analytic except for known cuts, and the form factors anywhere can be calculated if one knows just their imaginary parts at the cuts.  The cuts are all on the real axis for timelike $q^2$.  The cuts run from $q^2 \approx 4 m_\pi^2$ to $q^2 = \infty$.  In practice, one cannot know the imaginary part of the form factors over this whole range, and uncertainty in knowing the form factors in the timelike region builds nonlinearly to larger uncertainty in predicting the form factors in the spacelike region, especially at higher $Q^2$.
+
+At lower $Q^2$, one specific boon of the dispersive treatment is that the connection between the timelike and spacelike regions puts an extra constraint on the form factors and their slope at spacelike threshold.  This means that the determination of the charge and magnetic radii are not purely extrapolations of the scattering data, but is an interpolation in this procedure and hence arguably more reliable.
+
+A technique for using the dispersion relations, used by both~\cite{Baldini:2005xx} and by~\cite{Lorenz:2012tm}, is to parameterize the imaginary part of the timelike form factors, and determine the parameters by making a least squares fit to the known spacelike and timelike data.  One thereby obtains a representation of the form factors that one can use in regions where there is not yet data.
+
+Ref.~\cite{Baldini:2005xx}, published in 2006, applies dispersion relations to the ratio $G_E^p/G_M^p$, with the assumption of no zeros in $G_M^p$.  They used some large-uncertainty-limit $G_E^p/G_M^p$ data in the timelike region, obtained from angular distributions in $e^+ e^- \to p \bar p$ or the reverse, to supplement the polarization data in the spacelike region.  One of the main goals was to compare to models that fit the spacelike data, especially to the continuations of those models to the timelike regions~\cite{Brodsky:2003gs}.  
+
+They found that there was a zero in $G_E^p(q^2)$ at about $11$ GeV$^2$ spacelike momentum transfer squared, and found that the Phragm\'en-Lindel\"of theorem, which leads to the statement that $|G_E^p(q^2)/G_M^p(q^2)|$ should be the same at very large momentum transfers, whether spacelike or timelike, was satisfied, albeit with opposite signs.  Many of the more purely phenomenological models differed on the latter point.  This work~\cite{Baldini:2005xx} preceded the completion of the polarization experiments at the highest current $Q^2$~\cite{puckett:2010,puckett:2011}.  The dispersive aspects have not been updated in more recent works by some of the same authors, \textit{e.g.}~\cite{BaldiniFerroli:2012pr}, but one can see that the results would not be materially changed by the newer data.
+
+Ref~\cite{Lorenz:2012tm}, which is an updated version of~\cite{Belushkin:2006qa}, applies the dispersion analysis to $G_E^p$ and $G_M^p$ separately.  An important improvement in the newer work~\cite{Lorenz:2012tm} is that it includes the recent Mainz data~\cite{Bernauer:2010wm} in its fit.  A salient outcome of this analysis is that the proton charge radius comes out at a value $R_E^p = 0.84\, (1)$ fm, in agreement with the value found in the muon hydrogen Lamb shift measurement.
+
+%%%%%%%%%%%
+\subsubsection{Constituent Quark Models}
+\label{subsubsec:cqm}
+
+%%%%%%%%%%%
+
+Placeholder text  
+
+In our quest to understand the structure of the nucleon in 
+terms of the quark and gluon degrees of freedom which appear in the 
+QCD Lagrangian, 
+constituent quark models (CQMs) have a long history, which predates the 
+establishment of the theory of strong interactions, QCD.
+In a CQM, the nucleon appears as the ground state 
+of a quantum-mechanical three-quark system in a confining potential.
+In such a picture, the ground state baryons (composed of the 
+light up ($u$), down ($d$) and strange ($s$) quark flavors) are 
+described by $SU(6)$ spin-flavor wave functions (WFs), supplemented 
+by an antisymmetric color WF.  
+\newline
+\indent
+In the Isgur-Karl model~\cite{isgur}, 
+the constituent quarks  
+move in a harmonic oscillator type confining potential. 
+For the ground state baryons, 
+the three constituent quarks are in the $1s$ 
+oscillator ground state, corresponding to the [56]-plet of $SU(6)$. 
+In the Isgur-Karl model, the long-range confining potential is supplemented by 
+an interquark force corresponding to one-gluon exchange. 
+The one-gluon exchange leads to a color hyperfine interaction 
+between quarks, which 
+breaks the $SU(6)$ symmetry and leads to a mass splitting 
+between $N(939)$ and $\Delta(1232)$, often referred to as the hyperfine 
+splitting. 
+It was found that it also predicts well the mass splittings between octet 
+and decuplet baryons~\cite{derujula}. 
+Furthermore, the color hyperfine interaction leads to a tensor force  
+which produces a small $D$-state ($L = 2$) admixture in the 
+$N$ (as well as $\Delta$) ground states~\cite{Koniuk:1979vy,Isgur:1981yz},  
+corresponding to a $D$-state probability in the $N$ ground state 
+around 0.2~\%.    
+Even though such $D$-wave probability is small, 
+it leads to a non-spherical charge distribution.  
+For a static charge distribution, a measure of  
+the non-sphericity (or deformation) is given by its quadrupole moment.    
+Since the nucleon has spin 1/2, 
+an intrinsic quad\-rupole moment of the nucleon 
+cannot be directly measured because angular momentum conservation 
+forbids a non-zero matrix element of a ($L = 2$) quadrupole operator 
+between spin 1/2 states. 
+However this quadrupole deformation may reveal itself in an 
+electromagnetically induced transition 
+from the spin 1/2 $N$ to the spin 3/2 $\Delta$ state. 
+In this way, the tensor force between quarks gives rise to non-zero values 
+for the electric quadrupole ($E2$) and Coulomb quadrupole ($C2$) 
+transitions\footnote{  
+The relation between the tensor force, $D$-wave admixture,
+and the electromagnetic $N \to \Delta$ transition 
+was already pointed out in the early paper of 
+Glashow~\cite{Glashow79}. An up-to-date discussion of this field 
+can be found in the review of~\cite{PVY06}.}. 
+\newline
+\indent
+The non-relativistic CQM, despite its simplicity, 
+is quite successful in predicting the spectrum of 
+low-lying baryons, and gives a relatively good 
+description of static properties such as the octet baryon magnetic moments.  
+To calculate the FFs of a system of constituents with  
+masses small compared with the confinement mass scale necessitates however 
+a relativistic treatment even for low momentum transfers. For momentum 
+transfers several times the nucleon mass squared a relativistic description  
+becomes crucial. 
+\newline
+\indent
+In contrast to the calculation of the spectrum, which uses eigenfunctions 
+of a Poincar\'e invariant mass operator, 
+a calculation of the nucleon electromagnetic FFs requires 
+the relation between the rest frame spin and momenta 
+(in the three-quark WF) and those in the moving frame.  
+This requires 
+an extension of eigenfunctions of the spin and mass operators, 
+so as to transform consistently under 
+the unitary representations of the Poincar\'e group.  
+The way to implement relativity into a Hamiltonian formalism 
+(describing e.g. a system of three interacting constituent quarks) 
+has been laid 
+out by Dirac~\cite{dirac}. There are three {\it forms of dynamics} 
+(so called instant, point, and light-front forms) which 
+differ in the choice of the kinematical subgroup of the Poincar\'e group. 
+This is the subgroup of the Poincar\'e group whose commutator relations 
+are not affected by the interactions between the constituents. 
+The three (unitarily equivalent) forms therefore 
+differ by which of the ten generators of the Poincar\'e group 
+(four space-time translations, three spatial rotations, and three boosts) 
+are kinematical (i.e. interaction free),  
+and which are dynamical, i.e. depend on the interactions and 
+necessarily have to be approximated in a practical calculation. 
+\newline
+\indent
+In the {\it instant form}, the dynamical generators are the time component 
+of the four-momentum and the three boost operators.  
+Rotations do not contain interactions, which makes it 
+easy to construct states of definite angular momentum in this form. 
+\newline
+\indent
+In the {\it point form}, both boosts and rotations are kinematical. 
+The point-form therefore has the important 
+technical advantage that the angular momenta and Lorentz boosts are the same 
+as in the free case. However all four components of the four-vector operator 
+are dynamical in this form.  
+\newline
+\indent
+In the {\it light-front form}, seven of the generators of the Poincar\'e 
+group are kinematical (this corresponds to the symmetry group of a 
+null plane), which is the maximum number possible. The 
+remaining three dynamical generators which contain the interactions 
+are one component of the four-momentum operator (the so-called light-cone 
+Hamiltonian) and 2 transverse 
+rotations. Light-front (as well as point form) calculations 
+for relativistic CQMs are convenient as they allow to boost 
+quark WFs independently 
+of the details of the interaction. The drawback of the light-front 
+calculations however is that because two generators 
+of rotations are dynamical, the construction of states with good 
+total angular momentum becomes interaction dependent. 
+\newline 
+ \indent
+Any practical calculation in one of the three forms approximates the 
+current operator. The common (so-called impulse) approximation 
+is that the photon 
+interacts with a single quark in the nucleon. 
+\newline
+\indent
+The light-front form calculation of nucleon FFs has been pioneered by 
+Berestetsky and Terentev~\cite{Berestetsky}, and more recently developed  
+by Chung and Coester~\cite{chung}. In practice one starts from a 
+rest frame nucleon WF for the three-quark state which ideally 
+is fitted to the baryon spectrum. The nucleon WF 
+in the light-front form (so-called light-front WF) is obtained by 
+a Melosh rotation ~\cite{Melosh:1974cu} 
+of each of the quark spinors, connecting the instant and light-front forms.  
+When performing the front form calculation in a (Drell-Yan) 
+frame where the photon light-cone 
+momentum~\footnote{Defining light-cone components as 
+$x^\pm = (x^0 \pm x^3)/\sqrt{2}$ and defining the null-plane by $x^+ = 0$.} 
+component $q^+ = 0$, the space-like virtual photon 
+only connects Fock components in the nucleon light-front WFs with 
+the same number of constituents, i.e. matrix elements between $qqq$ and 
+$qqqq \bar q$ states which would be present in an instant form calculation 
+are zero in the light-front calculation. 
+This property allows for a consistent calculation within 
+the light-front formalism when truncating the Fock space to only the 
+three-quark state. 
+\newline
+\indent
+In~\cite{chung} a Gaussian WF in the quark internal 
+(transverse) momentum variables was used. Although this model yields a 
+surprisingly good agreement for the observed $G_{Ep}/G_{Mp}$ ratio, 
+see \ref{relcqm}, it yields nucleon FFs which 
+drop too fast at larger $Q^2$ values when using constituent quark masses 
+around 330 MeV.  
+Schlumpf~\cite{schlumpf} allowed for high momentum components in the 
+nucleon light-front WF by adopting 
+a power law dependence in the 
+quadratic quark internal momentum variables. The two parameters in Schlumpf's  
+WF were fitted to magnetic moments and semi-leptonic decays of the 
+baryon octet. The resulting e.m. FF calculations reproduce reasonably well 
+the power behavior of the FF at larger $Q^2$. 
+The WF of Schlumpf was also used 
+by Frank, Jennings, and Miller~\cite{gamiller,miller02}. 
+They found that such a light-front WF leads to a violation of 
+hadron helicity conservation resulting in a  
+$F_{2p}/F_{1p}$ ratio which drops less fast than 
+$1/Q^2$~\cite{miller02}, in agreement with the $G_{Ep}/G_{Mp}$ polarization 
+data.    
+
+%%%%%%%%%%
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width =5cm,angle=90]{gepgmp_jlab_vsCQM_col.pdf}
+\end{center}
+\vspace{-0.25cm}
+\caption{\small Comparison of relativistic CQM calculations 
+with the data for $\mu_p G_{Ep} / G_{Mp}$. 
+Dotted curve : front form calculation of Chung and Coester~\cite{chung} 
+with point-like constituent quarks; 
+thick solid curve : front form calculation of Frank {\it et al.}~\cite{gamiller}; 
+dot-dashed curve : front form calculation of 
+Cardarelli {\it et al.}~\cite{rome,cardarelli} with point-like constituent quarks; 
+dashed curve : point form calculation of Boffi et 
+al.~\cite{boffi} in the Goldstone boson exchange model with point-like 
+constituent quarks; 
+thin solid curve : covariant spectator model of 
+Gross and Agbakpe~\cite{gross}. 
+The data are from~\cite{punjabi05} (solid circles) and  
+\cite{gayou2} (empty squares). 
+}
+\label{relcqm}
+\end{figure}
+
+%%%%%%%%%%%
+
+The WFs in the calculations described above were however not 
+constructed from a detailed fit to the baryon spectrum. 
+Cardarelli {\it et al.}  
+subsequently performed a more ``microscopic'' light-front 
+calculation~\cite{rome,cardarelli} 
+where the light-front WF was obtained from a rest frame WF 
+which provided a fit to the spectrum. 
+The rest frame WF was taken from 
+the relativized Capstick-Isgur model~\cite{Capstick:1986bm}.  
+Using this WF, 
+the constituent quark momentum distribution in the nucleon 
+was found to yield an important content 
+of high-momentum components, which are generated by the short-range 
+part of the quark-quark interaction, which is due to one-gluon exchange in 
+the Capstick-Isgur model. These components are completely absent if one only 
+considers the linear confinement potential in the model. 
+\newline
+\indent
+In a CQM calculation,  
+the effect of other degrees of freedom beyond three quarks are 
+buried within the constituent quarks, which are considered as quasi-particles. 
+In the absence of a microscopic calculation, 
+such effects are parameterized in terms of constituent quark FFs. 
+In~\cite{Petronzio:2003bw}, 
+it was shown that the data for the proton unpolarized forward 
+structure function at low momentum transfers exhibits a new scaling 
+property and can be interpreted as quasi-elastic scattering off extended 
+constituent quarks inside the proton described by a 
+constituent quark FF. The resulting constituent size is 
+around 0.2 - 0.3 fm. 
+Using such effective constituent quark FF in 
+the light-front form calculation of~\cite{cardarelli}, 
+allows a good description of the individual nucleon FFs, see~\cite{pace}.
+Note however that the experimental $G_{Ep} / G_{Mp}$ ratio 
+can basically be reproduced using point-like constituent quarks, 
+see \ref{relcqm}. 
+The suppression of the $G_{Ep}/G_{Mp}$ 
+ratio with respect to the dipole-fit as predicted 
+in the light-front form CQM calculation is 
+attributed to relativistic effects generated by the Melosh rotations of the 
+constituent quark spins. These Melosh rotations introduce kinematical 
+$SU(6)$ breaking effects in addition to the dynamical 
+$SU(6)$ breaking due to the (hyperfine) one-gluon exchange potential. 
+\newline
+\indent
+A comparable amount of high-momentum components in the nucleon 
+WF was obtained in the 
+Goldstone-boson-exchange (GBE) 
+quark model~\cite{Glozman:1997fs,Glozman:1997ag}.  
+This model relies on constituent quarks and Goldstone 
+bosons, which arise as effective degrees of freedom of low-energy QCD 
+from the spontaneous breaking of the chiral symmetry. 
+The resulting CQM assumes a linear confinement potential supplemented by 
+a quark-quark interaction based on the exchange of pseudoscalar 
+Goldstone bosons, which is the source of the hyperfine interaction. 
+It was shown in~\cite{Glozman:1997fs,Glozman:1997ag}  that the GBE 
+CQM yields a unified description of light- and strange-baryon spectra. 
+The GBE CQM was used in~\cite{wagenbrunn,boffi} 
+to calculate the nucleon e.m. FFs in the point-form. The neutron 
+charge radius is well described in this model and is driven 
+by the mixed-symmetry component in the neutron WF.  
+In contrast to the light-front 
+calculation~\cite{cardarelli,pace}, it was found that when performing 
+a point-form calculation of the nucleon e.m. FFs at larger $Q^2$ 
+within the impulse approximation, 
+i.e. considering only single-quark currents, a surprisingly 
+good overall description of the nucleon e.m. FFs can be obtained, using  
+point-like constituent quarks only. 
+When looking at details of Refs.~\cite{wagenbrunn,boffi}, 
+the agreement is worse though for $G_{Mp}$ which 
+is underpredicted at larger $Q^2$, and the ratio of $G_{Ep}/G_{Mp}$ is 
+overpredicted at larger $Q^2$, see \ref{relcqm}. 
+Similar findings have also been obtained in the point-form calculation 
+of~\cite{Wagenbrunn:2005wk} for the OGE CQM. 
+The overall success of the point-form result using point-like constituent 
+quarks was attributed in~\cite{wagenbrunn,boffi,Wagenbrunn:2005wk} 
+to the major role played by relativity.  
+Such a finding is remarkable in view of the expected finite 
+size of the constituent quarks, as discussed above.  
+\newline
+\indent
+An explanation for the above finding for the nucleon 
+e.m. FFs in the point form, 
+using the single-quark current approximation, 
+has been suggested by Coester and Riska~\cite{Coester:2003rw}. 
+When the spatial extent of the three-quark WF 
+is scaled (unitarily) to zero, both  
+instant- and front-forms yield FFs independent of the momentum 
+transfer. Therefore, to reproduce 
+the experimental fall-off of the nucleon e.m. FFs  
+at large momentum transfers requires the introduction of constituent quark 
+FFs. In contrast, when the WF in point form is scaled unitarily to 
+zero (so-called point limit), a non-trivial scaling limit is obtained for 
+the FFs, depending on the shape of the WF. 
+At high values of momentum transfer, the scaled FFs decrease with an inverse 
+power of the momentum transfer. The power is determined 
+by the current operator and is independent of the WF. 
+An explicit comparative calculation of the baryon e.m. FFs 
+between the three different forms was performed in~\cite{Julia-Diaz:2003gq} 
+using a simple algebraic form 
+for the three-quark WF, depending on two parameters. 
+It was verified that a qualitative description of the nucleon FF data 
+demands a spatially extended WF in the 
+instant- and front-form descriptions, in contrast to 
+the point-form description which demands a much more compact WF.  
+\newline
+\indent
+A manifestly covariant CQM calculation within the Bethe-Salpeter formalism 
+and using an instanton-induced interaction between quarks has been performed 
+by Merten {\it et al.}~\cite{Merten:2002nz}. Although this model 
+reproduces the baryon spectrum, it can only qualitatively 
+account for the $Q^2$ dependence of the nucleon e.m. FFs. 
+\newline
+\indent
+Another covariant CQM calculation was performed by 
+Gross and Agbakpe~\cite{gross}, using a covariant spectator model. 
+Assuming a simple pure $S$-wave form for the nucleon three-quark wave 
+function, evaluating the current matrix element in 
+a relativistic impulse approximation, and assuming constituent quark FFs 
+including a phenomenological term which parameterizes the pion cloud, 
+an eleven parameter description of the nucleon FF data was obtained, 
+see \ref{relcqm}. 
+\newline
+\indent
+As a next step for CQMs, it would clearly be very worthwhile to investigate 
+the approximations in the current operator within each form.
+The quality of the commonly made impulse approximation 
+may differ between the different forms. 
+Within the context of a toy model calculation in 
+Refs.~\cite{Desplanques:2003nk,Desplanques:2005vu}, 
+it has e.g. been shown that the neglect of two-body currents in the point form 
+does affect the FFs in a more drastic way than their neglect in the instant 
+or light-front forms. 
+\newline
+\indent
+The importance of two-body currents has also been 
+shown in the work of De Sanctis {\it et al.}~\cite{Desanctis}. 
+In that work, a calculation 
+within the hypercentral CQM was performed of the (two-body) quark pair 
+contribution to the e.m. current resulting from the 
+one-gluon exchange interaction between the quarks. This pair current 
+contribution was found to lead to a sizeable reduction of $G_{Ep}$ 
+compared with $G_{Mp}$.  
+
+
+
+%%%%%%%%%%%%%%%%%%%%
+\subsubsection{Pion Cloud Models}
+\label{subsubsec:pion}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Placeholder text
+
+Despite their relative success in describing the spectrum and structure of 
+low-lying baryons, models based on constituent quarks alone 
+suffer from evident shortcomings as they do not satisfy all symmetry 
+properties of the QCD Lagrangian. In nature, the up and down (current) quarks 
+are nearly massless. In the exact massless limit, the QCD Lagrangian is 
+invariant under $SU(2)_L \times SU(2)_R$ rotations of left ($L$) and 
+right ($R$) handed quarks in flavor space. This {\it chiral symmetry} 
+is spontaneously broken in nature leading to the appearance of massless 
+Goldstone modes. For two flavors, there are three Goldstone bosons ---
+pions, which acquire a mass due to the explicit breaking of chiral 
+symmetry by the current quark masses. 
+\newline
+\indent
+Since pions are the lightest hadrons, they 
+dominate the long-distance 
+behavior of hadron WFs and yield characteristic 
+signatures in the low-momentum transfer behavior of hadronic 
+FFs. 
+Therefore, a natural way to qualitatively improve 
+on the above-mentioned CQMs is to include the pionic degrees of freedom 
+~\cite{Manohar:1983md}.  
+\newline
+\indent
+An early quark model with chiral symmetry 
+is the chiral (or, cloudy) bag model. This model  
+improves the early MIT bag model by introducing 
+an elementary, perturbative pion which couples to quarks in the bag 
+in such a way that chiral symmetry is restored~\cite{Thomas:1982kv}. 
+Within the cloudy bag model, Lu {\it et al.}~\cite{lu} 
+performed a calculation of the nucleon e.m. FFs 
+improving upon previous calculations by 
+applying a correction for the center-of-mass motion of the bag. 
+This calculation also implemented Lorentz covariance in an approximate way 
+by using a prescription for the Lorentz contraction of the 
+internal structure of the nucleon. Using a bag radius $R \simeq 1$~fm, 
+this model provides a good description of the nucleon e.m. FFs in the range 
+$Q^2 < 1$~GeV$^2$.  
+\newline
+\indent
+To extend such a calculation to larger $Q^2$, Miller performed a 
+light-front cloudy bag model calculation~\cite{miller02b}. 
+Starting from a model in terms of constituent quarks~\cite{miller02}, 
+described by the light-front WF of Schlumpf, 
+the effects of the pion cloud were 
+calculated through one-loop diagrams, including relativistic 
+$\pi N N$ vertex FFs. The model gives a relatively good gobal 
+account of the data both at low $Q^2$ and larger $Q^2$, 
+though tends to show too much structure around the dipole form 
+for the magnetic FFs at low $Q^2$. 
+\newline
+\indent
+The cloudy bag model is one chiral quark model which 
+treats the effect of pions perturbatively. Other quark models 
+which calculated nucleon e.m. FFs using perturbative pions can be found 
+e.g. in the early works of~\cite{Oset:1984tv,Jena:1992qx}, as well as in 
+the already discussed works of~\cite{Glozman:1997fs,Glozman:1997ag}.  
+Recently, the above chiral quark models where pions are included 
+perturbatively have been improved in~\cite{faessler}. 
+This work extends a previous work of ~\cite{Lyubovitskij:2001nm} by 
+dynamically dressing bare constituent quarks by mesons to fourth order 
+within a manifestly Lorentz covariant formalism. 
+Once the nucleon and $\Lambda$ hyperon magnetic moments are fitted, 
+other e.m. properties, such as the
+nucleon e.m. FFs at low momentum transfers, follow as a prediction. 
+It was found in~\cite{faessler} 
+that the meson cloud is able to nicely describe 
+the FF data in the momentum transfer region up to about 0.5 GeV$^2$.  
+To extend the calculations to larger $Q^2$, a phenomenological approach 
+has been adopted in \cite{faessler} by introducing 
+bare constituent quark FFs which were parameterized 
+in terms of 10 parameters. Such parameterization makes it plausible to 
+simultaneously explain the underlying dipole structure in the nucleon e.m. FF
+as well as the meson cloud contribution at low $Q^2$ which results from 
+the underlying chiral dynamics. In a later paper~\cite{Faessler:2006ky}, a 
+model calculation for the bare constituent quark FFs has been performed and 
+applied to the e.m. properties of the $N \to \Delta$ transition. 
+\newline
+\indent
+When pion effects dominate nucleon structure, their effects have to be 
+treated non-perturbatively. A non-perturbative 
+approach which has both quark and pion degrees of freedom 
+and interpolates between a CQM and 
+the Skyrme model (where the nucleon appears as a soliton solution of an 
+effective nonlinear pion field theory) is 
+the chiral quark soliton model ($\chi$QSM). 
+As for the Skyrme model, 
+the $\chi$QSM is based on a $1/N_c$ expansion  
+(with $N_c$ the number of colors in QCD).  
+Its effective chiral action has been
+derived from the instanton model of the QCD vacuum \cite{Dia86}, which
+provides a natural mechanism of chiral symmetry breaking 
+and enables one to generate dynamically the constituent 
+quark mass.  
+Although in reality the number of colors $N_c$ is equal to three, 
+the extreme limit of large $N_c$ is 
+known to yield useful insights. At
+large $N_c$ the nucleon is heavy and can 
+be viewed as $N_c$ ``valence" quarks bound by a self-consistent pion
+field (the ``soliton")~\cite{Dia88}.
+A successful description of static properties of baryons, 
+such as mass splittings, axial constants, magnetic moments, 
+FFs, has been achieved (typically at the 30 \% level or better, 
+see~\cite{Chr96} for a review of early results). 
+After reproducing masses and decay constants in the mesonic sector, 
+the only free parameter left to be fixed in the baryonic sector
+is the constituent quark mass. 
+When taking rotational ($1/N_c$) corrections into account, 
+this model achieved a qualitative good description of the nucleon e.m. 
+FFs in the range $Q^2 < 1$~GeV$^2$, using a constituent 
+quark mass around $420$~MeV~\cite{Christov:1995hr}.
+The chiral soliton model naturally accounts for the decrease of the 
+$G_{Ep} / G_{Mp}$ ratio with increasing $Q^2$. This can be understood 
+from the hedgehog structure in soliton models which couples spatial rotations 
+with isorotations. In the soliton rest frame, the isovector electric FF 
+$G_E^V$ therefore measures the rotational inertia density $\rho^V(r)$, in 
+contrast to the isoscalar electric FF $G_E^S$ which measures the 
+isoscalar baryon density $\rho^S(r)$. For a rigid rotor, 
+the inertia density is obtained from the baryon density as 
+$\rho^V = r^2/r_B^2 \, \rho^S$, with $r_B$ a free parameter characterizing 
+the spatial extent. Assuming a Gaussian density for $\rho^S(r)$, 
+this yields~\cite{holzwarth}~:
+\begin{eqnarray}
+\frac{\mu_p G_{Ep}(Q^2)}{G_{Mp}(Q^2)} = 
+1 - \frac{1}{18} Q^2 r_B^2. 
+\label{eq:gegmsol}
+\end{eqnarray} 
+With the choice $r_B^2 \approx (0.3 \, \mathrm{fm})^2$, one can obtain an 
+excellent fit of the polarization data for $G_{Ep}/G_{Mp}$. 
+Although in the chiral soliton model calculation 
+the baryon density is not exactly Gaussian, 
+and the rigid rotor calculation does not hold exactly, these relations can be 
+considered as approximate relations~\cite{holzwarth}. 
+\newline
+\indent
+Holzwarth~\cite{holzwarth} extended the chiral soliton model by including the 
+$\rho$ ($\omega$) meson propagators for the isovector (isoscalar) channels 
+respectively. Furthermore, to extend the range in $Q^2$ of the predictions, 
+he uses a relativistic prescription to boost the soliton rest frame densities 
+to the Breit frame. Such prescription is also used to extract 
+radial charge and magnetization rest frame densities 
+from experimental FFs, as will be discussed in Sect.~\ref{sec:rad}. 
+Using 4 fit parameters (one effective boost mass and three free parameters 
+to fix the couplings of $\rho$ and $\omega$ mesons), 
+the model was found to provide a good account of 
+the detailed structure of the nucleon e.m. FFs in the low $Q^2$ region. 
+In particular, for $G_{Ep}/G_{Mp}$ it 
+predicts a decreasing ratio in good agreement with the data. 
+At larger $Q^2$, the boost prescription gives a reasonably good account of the 
+data (except for $G_{Mn}$) and predicts a zero in $G_{Ep}$ around 
+10~GeV$^2$. Due to the uncertainty introduced from 
+the particular choice for the boost prescription, the 
+high $Q^2$ behavior (for $Q^2$ larger than about $4 M^2$) 
+of the e.m. FFs is however not a profound prediction of the 
+low-energy effective model.  
+
+%%%%%%%%%%%%%%%%
+
+\subsection{Dyson-Schwinger Equations and Diquark Models}
+\label{subsec:dse}
+
+%%%%%%%%%%%%%%%%%
+
+The Dyson Schwinger equations (DSE) are generically a non-perturbative approximation for obtaining results for a field theory, in the present case QCD.  The equations are, in principle, an infinite set of coupled integral equations.  In practice, they must be truncated, in a way that preserves all symmetries of QCD, in order to proceed with any calculation. For a general DSE review, see~\cite{Bashir:2012fs}.   
+
+One accomplishment of the DSE follows the solution for the full quark propagator, represented in momentum space as
+\begin{equation}
+S_F(p^2) = \frac{ i F(p^2) }{ \not\! p + M(p^2) }	\,,
+\end{equation}
+where the normalization $F(p^2)$ and the mass $M(p^2)$ become functions of momentum because of interactions.  With relatively simple truncations and modeling of the QCD interactions, the DSE obtain a mass function in good agreement with lattice calculations.  The mass $M(p^2)$ is several hundred MeV at small $p^2$ and falls smoothly to the small values at large $p^2$ that one might expect in perturbation theory.
+
+Also early in the DSE program is building a model of the quark-quark and quark-antiquark interactions that will reproduce data on, among other quantities, the pion mass and decay constant.
+
+One then uses the same quark-quark interactions developed in meson studies to obtain a three quark wave function model for the nucleon by solving the three-cody Fadeev equations.  There arise significant diquark, \textit{i.e.,} significant quark-quark correlations, that have a strong effect on the form factors one obtains.  Since the quarks in this model are dressed,  many of their features are different from expectations for pointlike fermions.  One finds in particular large quark anomalous chromomagnetic moments, which affect the quark-gluon interactions, which lead to large quark anomalous magnetics moments in the quark-photon interactions, which in turn are needed to obtain good fits to the nucleon electromagnetic form factor data.  
+
+The theoretical DSE results~\cite{Cloet:2014rja,Cloet:2013gva,Cloet:2013jya} show a falloff of the $G_E^p$/$G_M^p$ ratio very similar to what is seen in the data~\ref{fig:segovia}.
+
+%%%%%%
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width = 83 mm]{F3Segovia.pdf}
+\caption{Normalized $G_E^p/G_M^p$ \textit{vs.} $Q^2$.  The solid line is the DSE result from~\cite{Segovia:2014aza}, the dash-dot line is the Kelly fit~\cite{kelly04}, and the dotted line is an earlier exploratory DSE result~\cite{Wilson:2011aa}.  The data is from~\cite{jones,gayou:2002,punjabi05A,puckett:2010,puckett:2011}.}
+\label{fig:segovia}
+\end{center}
+\end{figure}
+%%%%%%
+
+
+Qualitatively, the behavior of the form factors in the DSE approach is related to the behavior of the mass function $M(p^2)$.  At lower momenta, where the mass function is far from its perturbative or current quark value, the Pauli form factor is also large compared to its perturbative value and is falling more slowly than perturbation theory predicts.  (For reference, perturbative QCD predicts a $Q^{-4}$ power law falloff for $F_1(Q^2)$ at large $Q^2$, and a $Q^{-6}$ falloff for $F_2(Q^2)$. )  Hence one can get a zero in $G_E(Q^2)$,
+\begin{equation}
+G_E(Q^2) = F_1(Q^2) - \frac{Q^2}{4 m_p^2} F_2(Q^2)	\,,
+\end{equation}
+and hence a falloff in the ratio $G_E(Q^2)/G_M(Q^2)$.
+
+For the newer DSE calculations~\cite{Segovia:2014aza}, the zero in $G_E$ is at $Q^2 = 9.5$ GeV$^2$.  If the mass function fell to its low perturbative value more quickly than it does, the quarks would behave more like free quarks, and the value of the Pauli or anomalous magnetic moment, form factor would be small as well as quickly falling.  In such a case, the zero of $G_F(Q^2)$ would be pushed to higher values of $Q^2$ or possibly not occur at all~\cite{Segovia:2014aza}.
+
+%The sources so far consulted do not contain the high $Q^2$ normalization of the form factors,  or detailed direct information about how the quark angular momentum is affecting the form factor results.
+
+We may mention that models based on the Dyson-Schwinger equations do extend to  form factors for other hadronic reactions, such as the electromagnetic $N \to \Delta$ transition~\cite{Segovia:2013uga,Segovia:2014aza}.  The result for the ratio of the electric and magnetic transition form factors for this process, $R_{EM}$, turns out to be small in the DSE approach,  even at momentum transfers above 5 GeV$^2$,  in accord with experimental data.   The perturbative QCD result, that $R_{EM} \to 1$ does ensue, but only at momentum transfers that are extremely high.  %The mechanism that keeps $R_{EM}$ small is not stated in the presentations currently available.
+
+
+
+
+\subsection{Links between Deep-Inelastic Scattering and Nucleon Form Factors}
+\label{subsec:dis}
+
+%\subsubsection{Quark Angular Momentum}
+%\label{subsubsec:qam}
+%
+
+%%%%%%%%%%%%%%%%%
+\subsubsection{Perturbative QCD Inspired Models}
+\label{subsubsec:pqcd}
+
+%%%%%%%%%%%%%%%%%%
+
+Placeholder text
+
+%%%%%%%%%%%%
+
+\begin{figure}[h]
+\centerline{  
+  \includegraphics[width = 6 cm]{ff_pqcd.pdf} 
+}
+\caption{\small Perturbative QCD picture for the nucleon 
+e.m. FFs. The highly virtual photon resolves 
+the leading three-quark Fock states of the nucleon, described by 
+a distribution amplitude. The large momentum is transferred between the quarks 
+through two successive gluon exchanges (only one of several possible 
+lowest-order diagrams is shown). }
+\label{ff_pqcd}
+\end{figure}
+
+%%%%%%%%%%
+
+\indent
+The nucleon e.m. FFs 
+provide a famous test for perturbative QCD. 
+Brodsky and Farrar derived scaling rules for dominant helicity amplitudes 
+which are expected to be valid at sufficiently high momentum 
+transfers $Q^2$~\cite{brodsky}. A photon of sufficient high 
+virtuality will see a nucleon consisting of three massless quarks moving 
+collinear with the nucleon. 
+When measuring an elastic nucleon FF, 
+the final state consists again of 
+three massless collinear quarks. In order for this (unlikely process) to 
+happen, the large momentum of the virtual photon has to be transferred 
+among the three quarks through two hard gluon exchanges as illustrated in 
+\ref{ff_pqcd}. This hard scattering mechanism is generated by 
+valence quark configurations with small transverse size and finite 
+light-cone momentum fractions of the total hadron momentum carried by each 
+valence quark. The hard amplitude can be written in a factorized 
+form~\cite{Chernyak:1977as,Chernyak:1977fk,Efremov:1979qk,brodlep}, 
+as a product of a perturbatively calculable hard scattering amplitude and 
+two distribution amplitudes (DAs) 
+describing how the large longitudinal momentum 
+of the initial and final nucleons is shared between their constituents. 
+Because each gluon in such hard scattering process carries a virtuality 
+proportional to $Q^2$, this leads to the pQCD prediction that the helicity 
+conserving nucleon Dirac FF $F_1$ should fall as $1/Q^4$ 
+(modulo $\ln Q^2$ factors) at sufficiently high $Q^2$. 
+Processes such as in 
+\ref{ff_pqcd}, where the interactions among the quarks proceed 
+via gluon or photon exchange, both of which are vector interactions, 
+conserve the quark helicity in the limit when the quark masses or off-shell 
+effects can be neglected. 
+In contrast to the helicity conserving FF $F_1$, the nucleon 
+Pauli FF $F_2$ involves a helicity flip between the initial and 
+final nucleons. Hence it requires one helicity flip at the quark level, which 
+is suppressed at large $Q^2$. Therefore, for collinear quarks, i.e. 
+moving in a light-cone WF state with 
+orbital angular momentum projection 
+$l_z = 0$ (along the direction of the fast moving hadron), 
+the asymptotic prediction for $F_2$ leads to a 
+$1/Q^6$ fall-off at high $Q^2$. 
+\newline
+\indent
+We can test how well the above pQCD scaling predictions for the 
+nucleon e.m. FFs 
+are satisfied at currently available momentum transfers, see~\ref{scaling}. 
+One firstly sees that $F_{1p}$, which has been measured up to about 
+30 GeV$^2$, displays an approximate $1/Q^4$ scaling above 10 GeV$^2$. 
+For the proton ratio $F_{2 p}/F_{1 p}$, the data up to 5.6 GeV$^2$ show 
+no sign of a $1/Q^2$ behavior as predicted by pQCD. 
+Instead, the data show that the ratio $F_{2 p}/F_{1 p}$ falls less 
+fast than $1/Q^2$ with increasing $Q^2$.
+Belitsky, Ji, and Yuan \cite{Belitsky:2002kj} investigated the 
+assumption of quarks moving collinearly with the proton, 
+underlying the pQCD prediction. 
+It has been shown in~\cite{Belitsky:2002kj} that by 
+including components in the nucleon light-cone WFs with quark 
+orbital angular momentum projection $l_z = 1$, one obtains 
+the behavior $F_2/F_1 \to \ln^2 (Q^2 / \Lambda^2)/ Q^2$ at large $Q^2$, 
+with $\Lambda$ a non-perturbative mass 
+scale~\footnote{In~\cite{jain,Brodsky:2003pw}, 
+it has also been discussed that inclusion
+  of quark orbital angular momentum yields a ratio $F_{2p}/F_{1p}$ which drops
+  less fast than $1/Q^2$ with increasing $Q^2$.  
+}. 
+Choosing $\Lambda$ around 
+$0.3$~GeV, Ref.~\cite{Belitsky:2002kj} noticed that the 
+data for $F_{2 p}/F_{1 p}$ support such double-logarithmic enhancement, as 
+can be seen from \ref{scaling} (right panel). 
+The arguments of~\cite{Belitsky:2002kj} 
+still rely on pQCD and it remains to be seen by 
+forthcoming data at higher $Q^2$ if this prediction already starts in the 
+few GeV$^2$ region. 
+%
+\begin{figure}[h]
+\centerline{  \includegraphics[height = 6 cm ]{f1f2p.pdf}  }
+
+\centerline{  \includegraphics[height = 6 cm]{q2f2f1_belitsky_mod_col.pdf}  }
+
+\caption{\small Test of the scaling behavior of the proton FFs.  
+Upper left panel : proton Dirac FF multiplied by $Q^4$.   
+Lower left panel : ratio of Pauli to Dirac proton FFs 
+multiplied by $Q^2$. 
+Right panel : test of the modified scaling prediction for 
+$F_{2p}/F_{1p}$ of \cite{Belitsky:2002kj}. 
+The data for $F_{1 p}$ are from \cite{sill} (solid squares).  
+Data for the ratio $F_{2 p} / F_{1 p}$ on both panels are 
+from \cite{punjabi05} (blue solid circles), 
+\cite{gayou1} (red open triangles), 
+and \cite{gayou2} (red solid squares). 
+The curves on the left panels represent the calculation based on the  
+three parameter modified Regge GPD parametrization of~\cite{guidal}.}
+\label{fig:scaling}
+\end{figure}
+\newline
+\indent
+Although at high enough $Q^2$, the pQCD scaling predictions should set in, 
+the available data for the nucleon e.m.  
+FFs show that one is still far away from this regime. 
+Nesterenko and Radyushkin~\cite{Nesterenko:1983ef} argued that the 
+above described hard scattering mechanism is suppressed at accessible 
+momentum transfers relative to the Feynman mechanism~\cite{feynman}, 
+also called soft mechanism. The soft mechanism involves only one active 
+quark, and the FF is obtained as an overlap of initial and final 
+hadron WFs. 
+The hard scattering mechanism on the other hand, 
+involving three active quarks, requires the exchange of two gluons, each of 
+which brings in a suppression factor $\alpha_s / \pi \sim 0.1$. One therefore 
+expects the hard scattering mechanism for $F_{1 p}$  
+to be numerically suppressed by a factor 1/100 compared to the soft term, see 
+also~\cite{bolz,kroll}. 
+Even though the soft mechanism is suppressed asymptotically by a power of 
+$1/Q^2$ relative to the hard scattering mechanism, 
+it may well dominate at accessible values of $Q^2$.
+In~\cite{Nesterenko:1983ef}, the soft contribution 
+to the nucleon e.m. FFs was 
+estimated using a model based on local quark-hadron duality, and  
+was found to yield an approximate $1/Q^4$ behavior 
+in the range $Q^2 \sim 10 - 20$~GeV$^2$, 
+in qualitative agreement with the $F_{1p}$ data. 
+\newline
+\indent
+In a more recent work, the soft contribution  
+was evaluated within the light-cone sum rule (LCSR) approach~\cite{braun06}. 
+Using asymptotic DAs for the nucleon, 
+the LCSR approach yields values of $G_{Mp}$ and 
+$G_{Mn}$ which are within 20 \% compatible with the data in the range 
+$Q^2 \sim 1 - 10$~GeV$^2$. The electric FFs however were found to be much
+more difficult to describe, with $G_{En}$ overestimated, and 
+$G_{Ep}/G_{Mp}$ near constant when using an asymptotic nucleon DA. 
+Only when including twist-3 and twist-4 nucleon DAs within a simple model, 
+is a qualitative description of the electric
+proton and neutron FFs obtained. Such higher twist components hint at the
+importance of quark angular momentum components in the nucleon WF. 
+\newline
+\indent
+In Sect.~\ref{theory_gpd}, we have shown that the nucleon 
+e.m. FFs can be obtained from model independent 
+GPD sum rules. These GPDs, represented by the lower blob in 
+\ref{n_dvcs}, are non-perturbative objects which include 
+higher Fock components in the nucleon WFs. One 
+can use a GPD parametrization to provide an estimate of the soft 
+contributions, and expects this non-perturbative approach 
+to be relevant in the low and intermediate $Q^2$ region for the FFs.  
+This is shown in \ref{scaling} 
+(solid curves) from which one sees that the GPD Regge parametrization  
+discussed above is able to explain 
+at the same time an approximate $1/Q^4$ 
+behavior for $F_{1 p}$ and a behavior for $F_{2 p}/F_{1 p}$ 
+which falls less steep than $1/Q^2$.  
+Forthcoming experiments at the Jefferson Lab 12 GeV facility will extend the 
+data for $F_{2 p}/F_{1 p}$ to $Q^2$ values around 
+13 GeV$^2$. Such measurements will allow to quantify in detail the higher 
+Fock components in the nucleon WF 
+(which are all included in the nucleon GPD) versus 
+the simple three-quark Fock component, and to map out the 
+transition to the perturbative QCD regime. 
+
+
+%%%%%%%%%%%%%%
+\subsubsection{Generalized Parton Distributions}
+\label{subsubsec:gpd}
+
+%%%%%%%%%%%%%
+
+Placeholder text
+
+
+So far we have discussed the $N \to N$ transition 
+as revealed with the help of the electromagnetic probe. By measuring 
+the response of the hadron to a virtual photon, one measures the matrix 
+element of a  well-defined quark-gluon operator (in this case the vector 
+operator $\bar q \gamma^\mu q$) over the hadronic state. This matrix element  
+can be parametrized in terms of the nucleon e.m. FFs, 
+revealing the quark-gluon structure of the nucleon. 
+We are however not limited in nature to probes such as photons 
+(or $W$, $Z$ bosons for the axial transition). The phenomenon of asymptotic 
+freedom of QCD, meaning that at short distances the interactions between 
+quarks and gluons become weak, provides us with more sophisticated 
+QCD operators to explore the structure of hadrons. Such operators can 
+be accessed by selecting a small size configuration of quarks and gluons, 
+provided by a hard reaction, such as deep inelastic scattering (DIS), or 
+hard exclusive reactions such as deeply virtual Compton scattering (DVCS).  
+We will be mostly interested here in DVCS reactions which are of the type 
+$\gamma^*(q_h) + N(p) \to \gamma(q^\prime) + N(p^\prime)$, where the 
+virtual photon momentum $q_h$ is the hard scale. 
+The common important feature of such hard reactions is the possibility
+to separate clearly the perturbative and nonperturbative stages of
+the interactions~: this is the so-called factorization property. 
+\newline
+\indent
+The all-order factorization theorem for the DVCS process on the 
+nucleon has been proven in~\cite{Ji98a,Col99,rady}.
+Qualitatively one can say that the hard reactions allow
+one to perform a ``microsurgery'' of a nucleon by removing in a
+controlled way a quark of one flavor and spin and implanting
+instead another quark in the final nucleon. 
+It is illustrated in \ref{n_dvcs} 
+for the case of the DVCS process. 
+The non-perturbative stage of such hard exclusive 
+electroproduction processes is described by 
+universal objects, so-called generalized parton distributions 
+(GPDs)~\cite{Muller:1998fv,ji,Radyushkin:1996nd}, 
+see~\cite{Ji:1998pc,Goeke:2001tz,Diehl:2003ny,Belitsky:2005qn,Ji:2004gf} 
+for reviews and references. 
+\newline
+\indent
+The nucleon structure information entering the nucleon DVCS process, 
+can be parametrized at leading twist-2 level, in
+terms of four quark chirality conserving GPDs. 
+The GPDs depend on three variables: the quark longitudinal 
+momentum fractions $x$ and $\xi$, and the momentum transfer 
+$Q^2 = - q^2$ to the nucleon.
+The light-cone momentum fraction $x$ is defined by $k^+ = x P^+$,
+where $k$ is the quark loop momentum and
+$P$ is the average nucleon momentum 
+$P = (p + p^{\ \prime})/2$, where $p (p^{\ \prime})$
+are the initial (final) nucleon four-momenta respectively,  
+see \ref{n_dvcs}.
+The skewedness variable $\xi$ is
+defined by $q^+ = - 2 \xi \,P^+$, where 
+$q = p^{\ \prime} - p$ is the
+overall momentum transfer in the process, and where
+$2 \xi \rightarrow x_B/(1 - x_B/2)$ in the Bjorken limit: 
+$x_B = Q_h^2/(2 p \cdot q_h)$ is the usual Bjorken scaling variable, 
+with $Q_h^2 = -q_h^2 > 0$ the virtuality of the hard photon.
+\newline
+\indent
+The DVCS process 
+corresponds to the kinematics $Q_h^2 \gg Q^2, M^2$, 
+so that at twist-2 level, terms proportional to $Q^2 / Q_h^2$ 
+or $M^2 / Q_h^2$ are neglected in the amplitude.  
+In a frame where the virtual photon momentum \( q_h^{\mu } \) and the average
+nucleon momentum \(  P^{\mu } \) are collinear
+along the \( z \)-axis and in opposite directions, one can parameterize
+the non-perturbative object entering the nucleon DVCS process as 
+(following Ji~\cite{ji})\footnote{In all non-local
+expressions we always assume the gauge link:
+P$\exp(ig\int dx^\mu A_\mu)$, ensuring the color gauge
+invariance.}:
+\begin{eqnarray}
+&& \frac{1}{2\pi} \, \int dy^{-}e^{ix  P^{+}y^{-}}
+		\nonumber\\
+&& \qquad		\times
+\left. \langle N(p^\prime)|\bar{\psi } (-y/2) \; \gamma \cdot n \; \psi (y/2)
+| N(p) \rangle \right|_{y^{+}=\vec{y}_{\perp }=0} 
+						\nonumber \\
+&&=\; H^{q}(x,\xi ,Q^2)\; \bar{N}(p^{'}) \; \gamma \cdot n \; N(p)
+						\nonumber\\
+&& \qquad
++ \  E^{q}(x,\xi ,Q^2)\; \bar{N}(p^{'}) \; i\sigma^{\mu \nu} 
+\frac{n_\mu \, q_\nu}{2 M} \; N(p) ,
+\label{eq:qsplitting}
+\end{eqnarray}
+where \( \psi  \) is the quark field
+of flavor $q$, \( N \) the nucleon spinor, and $n^\mu$ is a 
+light-cone vector along the negative $z$-direction. 
+The {\it lhs} of Eq.~(\ref{eq:qsplitting}) can be interpreted as a Fourier
+integral along the light-cone distance $y^-$ of a quark-quark
+correlation function, representing the process where
+a quark is taken out of the
+initial nucleon (having momentum $p$) at the space-time point $y/2$, and
+is put back in the final nucleon (having momentum $p^{\ \prime}$) 
+at the space-time
+point $-y/2$. This process takes place at equal light-cone time ($y^+
+= 0$) and at zero transverse separation ($\vec y_\perp = 0$) between
+the quarks. The resulting one-dimensional Fourier integral along the
+light-cone distance $y^-$ is with respect to the quark light-cone
+momentum $x  P^+$.
+The {\it rhs} of Eq.~(\ref{eq:qsplitting}) parametrizes this
+non-perturbative object in terms of the GPDs $H^q$ and $E^q$ 
+for a quark of flavor $q$.  
+The quark vector operator ($\gamma \cdot n$) 
+corresponds at the nucleon side to a vector transition 
+(parametrized by the function $H^q$) and
+a tensor transition (parametrized by the function $E^q$). 
+Analogously, there are two GPDs corresponding to 
+a quark axial vector operator ($\gamma \cdot n \gamma_5$), which are 
+commonly denoted by the polarized GPDs $\tilde H^q$ and $\tilde E^q$. 
+
+%%%%%%%%
+\begin{figure}[t]
+\centerline{  
+  \includegraphics[width = 6 cm]{n_dvcs.pdf} 
+}
+\caption{\small 
+The ``handbag'' diagram for the nucleon DVCS process. 
+Provided the virtuality of the initial photon (with momentum $q_h$) 
+is sufficiently large, the 
+QCD factorization theorem allows to express the 
+total amplitude as the convolution  
+of a Compton process at the quark level and a non-perturbative 
+amplitude parameterized in terms of generalized parton distributions 
+(lower blob). The diagram with the photon lines crossed is also understood.    
+}
+\label{n_dvcs}
+\end{figure}
+%%%%%%%%
+
+%\newline
+\indent
+The variable $x$ in the GPDs runs from $-1$ to 1.
+Therefore, the momentum fractions of the
+active quarks ($x + \xi$) for the initial quark and ($x - \xi$) for the final 
+quark can either be positive or negative. Since positive
+(negative) momentum fractions correspond to quarks (antiquarks), it
+has been noted in \cite{Radyushkin:1996nd} that in this way, one can
+identify two regions for the GPDs:
+when $x > \xi$ both partons represent quarks, whereas for
+$x < - \xi$ both partons represent antiquarks. In these regions,
+the GPDs are the generalizations of the usual parton distributions from
+DIS. Actually, in the forward direction, the GPD $H$ 
+reduces to the quark (anti-quark) density distribution $q(x)$ 
+($\bar q(x)$) obtained from DIS: 
+$H^q(x,0,0) = q(x)$, for $x > 0$;  
+$H^q(x,0,0) = - \bar q(-x)$, for $x < 0$. 
+The GPD $E$ 
+is not measurable through DIS because the associated tensor 
+in Eq.~(\ref{eq:qsplitting}) vanishes in the forward limit ($q \to 0$).
+Therefore, $E$ is a new leading twist function, which
+is accessible by measuring hard exclusive electroproduction reactions, such 
+as DVCS.
+\newline
+\indent
+Besides coinciding with the quark distributions at vanishing momentum
+transfer, the GPDs have interesting links with other
+nucleon structure quantities. The first moments of the GPDs are related to
+the elastic FFs
+of the nucleon through model independent sum rules.
+By integrating Eq.~(\ref{eq:qsplitting}) over \( x \), one
+obtains for any $\xi$
+the following relations for a particular quark flavor \cite{ji} :
+\begin{eqnarray}
+\int_{-1}^{+1}dx\, H^{q}(x,\xi ,Q^2)&=& F_{1}^{q}(Q^2)\, ,
+				\nonumber\\
+\int _{-1}^{+1}dx\, E^{q}(x,\xi ,Q^2)&=& F_{2}^{q}(Q^2)\, ,
+\label{eq:ffsumrulehe}
+\end{eqnarray}
+where $F_1^q$ ($F_2^q$) represents the elastic Dirac (Pauli) FFs for the
+ quark flavor $q$ in the nucleon. These quark FFs are expressed, 
+using $SU(2)$ isospin, 
+as flavor combinations of the proton and neutron elastic FFs as:
+\begin{eqnarray}
+F_{1}^u &=& 2\,F_{1 p}\,+\,F_{1 n}\,+\,F_{1}^{s}\; , 
+			\nonumber\\
+F_{1}^d &=&, 2\,F_{1 n}\,+\,F_{1 p}\,+\,F_{1}^{s}\; ,
+\label{eq:vecff}
+\end{eqnarray}
+where $F_{1}^{s}$ 
+is the strangeness FF of the nucleon (which is neglected in 
+the calculations discussed below).
+Relations similar to Eq.~(\ref{eq:vecff}) hold for the
+Pauli FFs \( F_{2}^{q} \).
+At $Q^2 = 0$, the normalizations of the Dirac FFs are given by:
+$F_{1}^{u}(0) = 2$ ($F_{1}^{d}(0) = 1$) 
+so as to yield the normalization of 2 (1) for the
+$u$ ($d$)-quark distributions in the proton. 
+The normalizations of the Pauli FF at $Q^2 = 0$ are 
+given by $F_{2}^{q}(0) = \kappa^q$ (for $q = u, d$), where 
+$\kappa^u, \kappa^d$ can be expressed 
+in terms of the proton ($\kappa_p$) 
+and neutron ($\kappa_n$) anomalous magnetic moments as:
+\begin{eqnarray}
+\kappa^u &\equiv & 2 \kappa_p + \kappa_n = +1.673, 
+			\nonumber\\
+\kappa^d&\equiv & \kappa_p + 2 \kappa_n = -2.033. 
+\label{eq:kappaud}
+\end{eqnarray}
+\indent
+The above sum rules allow us to make a prediction for the 
+nucleon e.m. FFs provided we have a model for the nucleon GPDs. 
+Note that the sum rules of Eq.~(\ref{eq:ffsumrulehe}) only involve valence 
+quark GPDs, since the sea-quark and anti-quark contributions 
+cancel each other in the sum rules. 
+Since the results of the integration 
+in Eq.~(\ref{eq:ffsumrulehe}) do not depend on the skewness 
+$\xi$~\footnote{This is the simplest example
+of a so-called polynomiality condition when calculating moments of GPDs.}, one 
+can choose $\xi = 0$ in these sum rules. We therefore only discuss 
+the GPDs $H$ and $E$ at $\xi = 0$ in the following. 
+\newline
+\indent 
+In~\cite{diehl,guidal}, parameterizations of GPDs were developed 
+which have a Regge behavior at small $x$ and $Q^2$, and which were 
+modified to larger $Q^2$ behavior so as to lead to the observed power 
+behavior of the FFs~\cite{Burkardt:2002hr,Burkardt:2004bv}. 
+A modified Regge parameterization for $H$ and $E$ was proposed in 
+\cite{guidal}~:
+\begin{eqnarray}
+H^q (x,0,Q^2) &=& q_v (x)\,  x^{\alpha^\prime \, (1 - x) \, Q^2}, 
+			\nonumber\\
+E^q (x, 0, Q^2) &=& \frac{\kappa^q}{N^q} 
+\, (1 - x)^{\eta^q} \, q_v(x) \, 
+{{x^{\alpha' \, (1 - x) \, Q^2}}} \, , 
+\label{eq:gpd_r2}
+\end{eqnarray}
+depending on 3 parameters.  
+The Regge slope $\alpha^\prime$ is determined from the Dirac radius, 
+and two parameters $\eta^u$ and $\eta^d$, entering the GPD $E$, ensure that 
+the $x\sim 1 $ limit of $E^q$ 
+has extra powers of $1-x$ compared to that  of $H^q$. 
+This results in a proton helicity flip FF $F_2$ which has a faster 
+power fall-off at large $Q^2$ than $F_1$, as observed experimentally.   
+Furthermore, in Eq.~(\ref{eq:gpd_r2}), 
+the normalization factors $N^u$ and $N^d$ are given by~:  
+\begin{eqnarray}
+N^u &=&  \int _{0}^{1}dx \; (1 - x)^{\eta^u} \, u_v(x) \, ,
+		\nonumber\\
+N^d &=&  \int _{0}^{1}dx \; (1 - x)^{\eta^d} \, d_v(x) \, ,
+\label{eq:nd}  
+\end{eqnarray} 
+and guarantee the normalization condition for the GPD $E^q$. 
+%\newline
+\indent
+Diehl {\it et al.}~\cite{diehl} chose a more 
+general functional form for $E^q$ at the expense of more free parameters. 
+In the following, we discuss the `minimal' model with 3 parameters, 
+and refer the interested reader to~\cite{diehl} for a study of more 
+general functional forms. 
+The 3 free parameters in the resulting modified Regge ansatz 
+are to be determined from a fit to the FF data. 
+
+
+%%%%%%%%%%%%%%%%
+
+\begin{figure}[t]
+\begin{center}
+%\vspace{-1.2cm}
+%\hspace{1cm}
+  \includegraphics[width = 6.5 cm]{gegmproton_col.pdf}
+  \includegraphics[width = 6.5 cm]{gegmneutron_col.pdf}
+\caption{\small GPD calculation of 
+$G_{Mp}$ and $G_{Mn}$ relative to the dipole $G_D$ (upper panels), 
+ratio of $G_{Ep}/G_{Mp}$ (lower left panel), 
+and $G_{En}$ (lower right panel), according to Ref.~\cite{guidal}. 
+The curves are a 3 parameter modified Regge parameterization : 
+$\alpha^\prime = 1.105$\, GeV$^{-2}$, $\eta^u$ = 1.713 and $\eta^d$ = 0.566. 
+Data for $G_{M p}$ are from   
+\cite{janssens} (open squares), \cite{litt} (open circles),
+\cite{berger} (blue solid stars), \cite{bartel} (green open stars), 
+\cite{andivahis} (red solid circles), \cite{sill} 
+(red solid squares), 
+according to the recent re-analysis of Ref.~\cite{brash}. 
+Data for the ratio $G_{E p} / G_{M p}$ are from 
+\cite{gayou1} (blue open triangles), 
+\cite{gayou2} (red solid squares),
+\cite{punjabi05} (blue solid circles), 
+and \cite{crawford} (green solid triangles). 
+The data for $G_{M n}$ are from 
+\cite{xu00} (red solid circles), 
+\cite{xu02} (red solid squares),    
+\cite{anklin2} (open triangles), \cite{kubon} (green open stars), 
+\cite{lung} (open squares), \cite{rock} (solid triangles), 
+and \cite{brooks} (blue solid stars).
+The data for $G_{E n}$ are from 
+double polarization experiments at 
+MAMI~\cite{herberg,ostrick,becker,rohe,glazier} (red solid circles), 
+NIKHEF~\cite{passchier} (green solid triangle),  
+and JLab~\cite{zhu,madey,warren} (blue solid squares). 
+}
+\label{fig:gegmpn}
+\end{center}
+\end{figure}
+
+%%%%%%%%%%%
+
+In Fig.~\ref{fig:gegmpn}, the proton and neutron Sachs electric 
+and magnetic FFs are shown. 
+One observes that the 3-parameter 
+modified Regge model gives a rather good overall 
+description of the available FF data for both proton and neutron 
+in the whole $Q^2$ range,   
+using as value for the Regge trajectory 
+$\alpha^\prime $ = 1.105 \,GeV$^{-2}$, 
+and the following values for the coefficients 
+governing the $x \to 1$ behavior of the $E$-type GPDs:  
+$\eta^u$ = 1.713 and $\eta^d$ = 0.566.  
+Note that a value $\eta^q = 2$ 
+corresponds to a $ 1/Q^2$ asymptotic behavior of the ratio
+$F_2^q / F_1^q$ at large $Q^2$. 
+The modified Regge GPD parameterization allows 
+to accurately describe the decreasing ratio of $G_{E p} / G_{M p}$ 
+with increasing $Q^2$, and 
+also leads to a zero for $G_{E p}$ at a 
+momentum transfer of $Q^2 \simeq 8$~GeV$^2$, which will be within the range 
+covered by an upcoming JLab experiment~\cite{E-04-108}. 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%
+\subsection{Lattice QCD Calculations of Nucleon Form Factors}
+\label{subsec:lattice}
+%%%%%%%%%%%%%%%%%%
+
+Strictly speaking, lattice calculations of nucleon form factors are currently available only for the isovector form factors.  
+
+Isoscalar form factors require calculations of disconnected diagrams, which are diagrams with quark loops not connected to the quark lines emanating from or ending on the lattice nucleon source or sink.  There are gluons that attach the quark loops to the valence quarks, but these are not indicated in lattice diagrams, hence the phrase ``disconnected.''  Contributions from the disconnected loops require computer time intensive calculations, and the calculations remain undone.  However, the disconnected diagrams contribute equally to proton and neutron, so the isovector case can be considered without them.  
+
+A review including lattice form factor results up to 2010 is available in~\cite{Hagler:2009ni}, and newer lattice form factor results are reported in~\cite{Alexandrou:2013joa,Bhattacharya:2013ehc,Green:2014xba}.
+
+
+The new calculations have pion masses from 373 MeV down to a close to physical 149 MeV in~\cite{Green:2014xba}.  The latter also strove to reduce contamination from excited nucleons.  They analyze their lattice data using three methods which they call the standard ratio method, the summation method, and the generalized pencil-of-function method (GPoF), with varying outcomes.  The best results, judged by comparison to data as represented by one of the standard fits~\cite{Alberico:2008sz}, come from the summation method.  Here agreement with experimental data is good for both $G_E^v$ and $G_M^v$ in the region considered, which is $Q^2$ from scattering threshold up to about 0.5 GeV$^2$, with uncertainty limits about $20\%$ at $Q^2$ of $0.4$ GeV$^2$,
+
+Refs.~\cite{Alexandrou:2013joa,Bhattacharya:2013ehc} have pion masses in the 213--373 MeV range, and quote results for somewhat higher $Q^2$.  For $Q^2$ above about $0.6$ GeV$^2$, their isovector form factors results tend to be 50\% or so above the data for $G_E^v$ (or $F_1^v$), with uncertainties indicated at about 10\%.  For $G_M^v$ (or $F_2^v$) the results are closer to data .  The authors of these works do point out that the lattice treatments with these pion masses are all consistent with each other.
+
+One may specifically focus on nucleon radii calculated from lattice gauge theory.  In the future, it may be possible and desirable to calculate using a dedicated correlator which gives directly the slope of the form factor at zero momentum transfer.  Finding such correlators by taking derivatives of known correlators is suggested and studied~\cite{deDivitiis:2012vs} for lattice calculations of form factors at points where the Lorentz factors they multiply go to zero.  Applications in~\cite{deDivitiis:2012vs} are to form factors for semi-leptonic scalar meson decay, and to hadronic vacuum polarization corrections to the muon $(g-2)$.
+
+At present, lattice calculations of nucleon radii proceed by calculating the form factor at several non-zero $Q^2$, fitting to a suitable form, typically a dipole form, and finding the radius by extrapolating to zero $Q^2$.  Truly complete results are available only for the isovector nucleon.  Ref.~\cite{Green:2014xba} presents a plot of radius results for lattice calculations at various pion masses.  They use the Dirac radius, obtained from the slope of $F_1^v$, rather than the charge radius, but these are related by, using the proton as an example,
+\begin{equation}
+\langle r_{1p}^2 \rangle = \langle r_{Ep}^2 \rangle - \frac{3}{2} \frac{\kappa_p}{m_p^2}	\,.
+\end{equation}
+Hence, given the great accuracy of the magnetic moment measurements, one knows the Dirac radii to the same accuracy as the charge radii.  
+
+The great interest is obtain sufficient accuracy from the lattice results to be able to adjudicate between the electron and muon measured values of the isovector charge or Dirac radii.  The electron measured isovector radius is straightforward to look up, the muon measured value of the Dirac or charge radius is for now a defined quantity obtained by using the electron value for the neutron radius-squared.  Using the summation method, Ref.~\cite{Green:2014xba} obtain, by extrapolation to the physical pion mass, a value of the isovector Dirac radius between the muonic and electronic results, with uncertainties that accommodate both at about the one standard deviation level.  However, using the GPoF or ratio method gives a smaller $\langle r_{1}^2 \rangle^v$, on the order of $2/3$ the value from the summation method.
+
+One may say there opportunity for further work.  An uncertainty of 1\% or less for the proton alone is needed for a lattice calculation to impact the proton radius puzzle.
+
+
+
+
+

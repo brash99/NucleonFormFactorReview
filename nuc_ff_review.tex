@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%% file template.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is a template file for The European Physical Journal
+%
+% Copy it to a new file with a new name and use it as the basis
+% for your article
+%
+%%%%%%%%%%%%%%%%%%%%%%%% Springer-Verlag %%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\begin{filecontents}{nuc_ff_review.eps}
+%!PS-Adobe-2.0 EPSF-2.0
+%%CreationDate: Mon Jul 13 16:51:17 1992
+%%DocumentFonts: (atend)
+%%Pages: 0 1
+%%BoundingBox: 72 31 601 342
+%%EndComments
+
+gsave
+72 31 moveto
+72 342 lineto
+601 342 lineto
+601 31 lineto
+72 31 lineto
+showpage
+grestore
+%%Trailer
+%%DocumentFonts: Helvetica
+\end{filecontents}
+%
+\documentclass[epj]{svjour}
+% Remove option referee for final version
+%
+% Remove any % below to load the required packages
+%\usepackage{latexsym}
+\usepackage{graphics}
+\usepackage{graphicx} %%%%%%%%%%
+
+\usepackage{epstopdf}
+
+\graphicspath{{figures/}} %%%%%%%%%%
+\usepackage{url}   %%%%%%%%%%
+\usepackage{nicefrac}  %%%%%%%%%
+%\usepackage{auto-pst-pdf} %%%%%%%%%
+% etc
+%
+\begin{document}
+%
+\title{The Structure of the Nucleon: Elastic Electromagnetic Form Factors}
+%\subtitle{Elastic Electromagnetic Nucleon Form Factors}
+\author{V.~Punjabi\inst{1},  C.F.~Perdrisat\inst{2},  M.K.~Jones\inst{3},   E.J.~Brash\inst{3,4}, and C.E.~Carlson\inst{2}% etc
+% \thanks is optional - remove next line if not needed
+%\thanks{\emph{Present address:} Insert the address here if needed}%
+}                     % Do not remove
+%
+\offprints{}          % Insert a name or remove this line
+%
+\institute{Norfolk State University, Norfolk, VA 23504, USA \and  The College of William \& Mary, Williamsburg, VA 23187, USA \and Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA \and Christopher Newport University, Newport News, VA 23606, USA}
+%
+\date{Received: \today / Revised version: \today}
+% The correct dates will be entered by Springer
+%
+\abstract{
+Precise proton and neutron form factor measurements at Jefferson Lab,
+using spin observables, have recently made a tremendous contribution to
+unraveling of the internal structure of the nucleon. Accurate experimental measurements of the
+nucleon form factors are a testbed for understanding how their static properties
+and dynamical behavior emerge from QCD, the theory of the strong interactions between quarks. 
+There has been enormous theoretical progresses since the publication of the Jefferson Lab proton form
+factor ratio data, aiming at reevaluating the picture of the nucleon. We will
+review the experimental and theoretical progress, such as generalized parton distributions
+and flavor separation, Dyson-Schwinger equations (DSEs) calculations, improvements made in lattice QCD calculations, and more.
+%
+\PACS{
+      {PACS-key}{describing text of that key}   \and
+      {PACS-key}{describing text of that key}
+     } % end of PACS codes
+} %end of abstract
+%
+\titlerunning{The Structure of the Nucleon}
+\maketitle
+%
+
+\input{EPJA_intro_chs.tex}
+\input{experimental_status.tex}
+\input{theory.tex}
+%\input{conclusion.tex}
+
+%Test of references using BibTeX~\cite{hofs53}.
+
+
+% 
+%\bibliographystyle{plain}
+\bibliographystyle{epj}
+\bibliography{EPJA_bibli_current,theory}
+\end{document}
+% end of file template.tex
+

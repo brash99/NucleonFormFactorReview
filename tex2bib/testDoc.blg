@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: testDoc.aux
+The style file: plain.bst
+Database file #1: EPJA_bibli_02122014.bib
+Warning--empty title in hofs55
+Warning--empty title in hofs53
+Warning--empty journal in yearian
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            512 strings with 4188 characters,
+and the built_in function-call counts, 807 in all, are:
+= -- 72
+> -- 39
+< -- 0
++ -- 15
+- -- 12
+* -- 56
+:= -- 149
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 32
+empty$ -- 62
+format.name$ -- 12
+if$ -- 158
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 16
+num.names$ -- 6
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 22
+stack$ -- 0
+substring$ -- 33
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 3
+while$ -- 8
+width$ -- 4
+write$ -- 29
+(There were 3 warnings)

@@ -1,0 +1,56 @@
+%%%%%%%%%%%%%%%%%%%%%% file template.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is a template file for The European Physical Journal
+%
+% Copy it to a new file with a new name and use it as the basis
+% for your article
+%
+%%%%%%%%%%%%%%%%%%%%%%%% Springer-Verlag %%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%\begin{filecontents}{leer.eps}
+%%!PS-Adobe-2.0 EPSF-2.0
+%%CreationDate: Mon Jul 13 16:51:17 1992
+%%DocumentFonts: (atend)
+%%Pages: 0 1
+%%BoundingBox: 72 31 601 342
+%%EndComments
+
+%gsave
+%72 31 moveto
+%72 342 lineto
+%601 342 lineto
+%601 31 lineto
+%72 31 lineto
+%showpage
+%grestore
+%%Trailer
+%%DocumentFonts: Helvetica
+%\end{filecontents}
+%
+\documentclass[epj]{svjour}
+% Remove option referee for final version
+%
+% Remove any % below to load the required packages
+%\usepackage{latexsym}
+\usepackage{graphics}
+\usepackage{graphicx} %%%%%%%%%%
+\graphicspath{{figures/}} %%%%%%%%%%
+\usepackage{url}   %%%%%%%%%%
+\usepackage{nicefrac}  %%%%%%%%%
+\usepackage{auto-pst-pdf} %%%%%%%%%
+%
+\begin{document}
+\bibliographystyle{epj}
+
+\title {Introduction}
+
+ 
+\input{EPJA_intro_chs}
+
+\input{theory}
+
+%\input{EPJA_bibli_02122014}
+\bibliography{EPJA_bibli_02122014_ejb}
+
+
+\end{document}
